@@ -2,7 +2,25 @@
 
 ## Aufbau
 
-Die Seite verwendet Jekyll als Blogging Engine. Die gesamte Konfiguration ist in *_config.yml* gespeichert. Die Vorträge sind in *_posts* abgelegt.
+Die Seite verwendet Jekyll als Blogging Engine. Die gesamte Konfiguration ist in *_config.yml* gespeichert. Die Vorträge sind in *_posts* abgelegt. Das genaue Format der Metadaten ist:
+
+```
+layout: talk
+date: (Datum im Format z.B. "2015-06-29 18:30:00 +2")
+thumbnail: (Dateiname Vortragsbild)
+title: (Vortragstitel)
+speaker:
+  name: (Sprechername)
+  description: (Sprecherbeschreibung)
+  social:
+    - title: (z.B. twitter, github, rss, ...)
+      url: (Url)
+video:
+  url: (Url zum Video)
+  thumbnail: (Vorschaubild zum Video: 320x180 Pixel)
+```
+
+Der Videoeintrag ist optional. Wird er weggelassen, so wird kein Eintrag in der Videosektion generiert. Bei "social" können beliebig viele Einträge angegeben werden.
 
 ## Inhalte
 
