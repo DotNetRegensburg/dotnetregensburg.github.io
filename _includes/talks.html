@@ -1,0 +1,39 @@
+<section id="talks" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Vorträge</h2>
+                <h3 class="section-subheading text-muted">Die Vorträge sind kostenlos und finden im Raum "Bill Gates" des <a href="http://www.it-speicher.de/">IT-Speichers</a> statt.</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="timeline">
+                    {% for post in site.posts %}
+                      {% assign loopindex = forloop.index | modulo: 2 %}
+                      {% if loopindex == 0 %}
+                      <li class="timeline-inverted">
+                      {% else %}
+                      <li>
+                      {% endif %}
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="img/talks/{{ post.thumbnail }}" alt="{{ post.title }}">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
+                                <h4 class="subheading">{{ post.title }}</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted">von {{ post.speaker.name }}</p>
+                                <p class="text-muted">Beginn ist um {{ post.date | date: "%H:%M" }}</p>
+                                <p class="text-muted"><a href="{{ post.url }}">Beschreibung lesen</a></p>
+                            </div>
+                        </div>
+                      </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

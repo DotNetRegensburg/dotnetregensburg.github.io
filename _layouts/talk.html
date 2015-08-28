@@ -1,0 +1,38 @@
+---
+layout: blank
+---
+<div class="col-lg-8">
+  <h2>.NET Usergroup Regensburg Vortrag</h2>
+</div>
+
+<div class="col-lg-8">
+  <h3>{{ page.title }}</h3>
+</div>
+
+<div class="col-lg-8">
+  <strong>{{ page.date | date: "%b %-d, %Y um %H:%M Uhr" }}</strong>
+</div>
+
+<div class="col-lg-8">
+  {{ content }}
+</div>
+
+<div class="col-lg-8">
+  <h2>Sprecher</h2>
+</div>
+
+<div class="col-lg-8">
+  {{ page.speaker.description }}
+</div>
+
+<div class="col-lg-8 little-space">
+  <ul class="list-inline social-buttons">
+    {% for network in page.speaker.social %}
+    <li><a href="{{ network.url }}" class="text-center"><i class="fa fa-{{ network.title }}"></i></a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="col-lg-8 top-space">
+  <a href="/" class="btn btn-default">Zurück zur Startseite</a>
+</div>
