@@ -5,7 +5,7 @@ thumbnail: 1.jpg
 title: Aktuelle Multimedia-Schnittstellen unter Windows
 speaker:
   name: Roland König
-  description: Roland König ist seit 2007 als Softwareentwickler bei der IGZ Logistics + IT GmbH im oberpfälzischen Falkenberg beschäftigt. Seine Schwerpunkte liegen in der Entwicklung und Betreuung von Standardprodukten im Bereich der Logistik / Automatisierung. Hobbymäßig entwickelt er an seinem OpenSource Projekt Seeing# (https://github.com/RolandKoenig/SeeingSharp) und darauf aufbauenden Apps / Games. Über seine Erfahrungen schreibt er regelmäßig auf seinem Blog.
+  description: Roland König ist seit 2007 als Softwareentwickler bei der IGZ Logistics + IT GmbH im oberpfälzischen Falkenberg beschäftigt. Seine Schwerpunkte liegen in der Entwicklung und Betreuung von Standardprodukten im Bereich der Logistik / Automatisierung. Hobbymäßig entwickelt er an seinem <a href="https://github.com/RolandKoenig/SeeingSharp">OpenSource Projekt Seeing#</a> und darauf aufbauenden Apps / Games. Über seine Erfahrungen schreibt er regelmäßig auf seinem Blog.
   social:
     - title: facebook
       url: https://www.facebook.com/roland.konig.14
