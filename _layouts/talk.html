@@ -17,6 +17,20 @@ layout: blank
   {{ content }}
 </div>
 
+{% if page.downloads %}
+<div class="col-lg-8">
+  <h2>Downloads</h2>
+</div>
+
+<div class="col-lg-8">
+  <ul>
+    {% for download in page.downloads %}
+    <li><a href="{{ download.url }}">{{ download.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 <div class="col-lg-8">
   <h2>Sprecher</h2>
 </div>
