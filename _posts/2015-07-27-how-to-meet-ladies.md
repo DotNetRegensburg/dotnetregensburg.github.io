@@ -16,6 +16,9 @@ speaker:
 video:
   url: https://www.youtube.com/watch?v=f3wl8Ljzllo
   thumbnail: http://i1.ytimg.com/vi/f3wl8Ljzllo/mqdefault.jpg
+downloads:
+  - name: Folien
+    url: http://talks.florian-rappl.de/How-To-Meet-Ladies/
 ---
 HTML gehört mittlerweile zum Anforderungsprofil jeden Entwicklers. Trotzdem sind viele Webseiten, v. a. performancetechnisch, sehr schlecht geschrieben. Auch speziellere Regeln des HTML Standards, z. B. scoping, sind häufig nicht bekannt. In diesem Vortrag wird die Auszeichnungssprache HTML von der HTTP Abfrage bis zum Rendern im Browsern im Detail beleuchtet. Wie es sich für eine .NET Usergroup gehört, soll auch C# soll nicht außen vor bleiben. Nahezu alle Schritte werden mit AngleSharp illustriert, einer W3C konformen Bibliothek für .NET. 
 
