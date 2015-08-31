@@ -16,6 +16,9 @@ speaker:
 video:
   url: https://www.youtube.com/watch?v=JODD3B3E1KY
   thumbnail: http://i1.ytimg.com/vi/JODD3B3E1KY/mqdefault.jpg
+downloads:
+  - name: Folien
+    url: http://talks.florian-rappl.de/Mod-Lang/
 ---
 In den letzten Jahren hat sich nicht nur in der Entwicklung neuer Frameworks einiges getan - es sind auch viele neue Sprachen erschienen. Zur Zeit erleben wir in eine neue Welle von Programmiersprachen, wie sie in dieser Form zuletzt in den 1970er Jahren auftrat. Dieser Vortrag zeigt auf, wieso man unbedingt über den Tellerrand blicken sollte und welche interessanten Merkmale einige der neuen Sprachen beinhalten. Als ein großes Beispiel dieser Sprachrevolution wird C++ angeführt. Die Sprache hat sich v. a. durch den C++11 Standard deutlich weiterentwickelt und ist kaum wieder zu erkennen. 
 
