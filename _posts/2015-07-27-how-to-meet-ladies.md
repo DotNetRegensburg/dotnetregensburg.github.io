@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2015-07-27 18:00:00 +2
+date: 2015-07-27 18:00:00
 thumbnail: 1.jpg
 title: How To Meet Ladies mit AngleSharp
 speaker:

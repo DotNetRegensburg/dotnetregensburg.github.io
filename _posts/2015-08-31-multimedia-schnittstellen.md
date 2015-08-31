@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2015-08-31 18:00:00 +2
+date: 2015-08-31 18:00:00
 thumbnail: 1.jpg
 title: Aktuelle Multimedia-Schnittstellen unter Windows
 speaker:
