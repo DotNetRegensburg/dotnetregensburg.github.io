@@ -2,7 +2,7 @@
 layout: talk
 date: 2012-12-04 18:30:00
 thumbnail: 1.jpg
-title: Roadshow: Windows 8 und WinRT - Erschaffe eine neue Welt
+title: "Roadshow: Windows 8 und WinRT - Erschaffe eine neue Welt"
 speaker:
   name: Gregor Biswanger
   description: Gregor Biswanger (Microsoft MVP für Client App Dev) arbeitet als Solution Architect und XAML Experte bei der Firma impuls Informationsmanagement GmbH aus Nürnberg. Seine Schwerpunkte liegen im Bereich der .NET-Architektur, XAML und agilen Prozessen. Er veröffentlichte vor kurzem seine DVD mit Video-Trainings zum Thema "WPF 4.5 und Silverlight 5" bei Addison-Wesley von video2brain.

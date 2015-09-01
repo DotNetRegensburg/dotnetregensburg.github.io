@@ -13,7 +13,7 @@ downloads:
   - name: Zellen statt Schichten (Teil 1) 
     url: http://www.microsoft.com/germany/MSDN/webcasts/library.aspx?id=1032298692
   - name: Zellen statt Schichten (Teil 2)
-    http://www.microsoft.com/germany/MSDN/webcasts/library.aspx?id=1032298700
+    url: http://www.microsoft.com/germany/MSDN/webcasts/library.aspx?id=1032298700
   - name: Repository
     url: https://github.com/DotNetRegensburg/Downloads/tree/2008-05-26
 ---

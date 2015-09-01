@@ -2,7 +2,7 @@
 layout: talk
 date: 2011-04-13 18:30:00
 thumbnail: 1.jpg
-title: Buzzword-Bingo: Cloud, Mobile & HTML5 - lass mer mei Ruh'!?
+title: "Buzzword-Bingo: Cloud, Mobile & HTML5 - lass mer mei Ruh'!?"
 speaker:
   name: Christian Weyer
   description: Christian Weyer ist Solution Architect und Mitgründer von thinktecture, einer Firma, die Software-Architekten und -Entwickler beim Entwurf und der Implementierung verteilter Anwendungsarchitekturen unter Windows und .NET unterstützt. Seit vielen Jahren modelliert und realisiert er verteilte Lösungen auf Basis von COM/DCOM, COM+, Web Services, WCF, WF, MSMQ und Java. Christian hat sich in letzter Zeit auf die Ideen und Konzepte von Service Orientierung, Workflows und Cloud Computing konzentriert und hat dabei Technologien wie WCF, WF, Windows Azure und AppFabric umfangreich in Kundenprojekten eingesetzt. Seine Ansichten über Architektur und verteilte Anwendungen werden in der internationalen Community im Rahmen von Konferenzvorträgen, User Group Treffen oder Blog-Einträgen geschätzt. Viele Kunden haben sich bereits in seine helfenden Hände begeben, v.a. bei technischen Realisierungen mit WCF/WF und der Windows Azure Platform. Er ist Microsoft Most Valuable Professional (MVP) für Windows Azure [Architecture] und einer der unabhängigen Microsoft Regional Directors (RDs). 

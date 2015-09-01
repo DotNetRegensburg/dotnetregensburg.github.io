@@ -2,7 +2,7 @@
 layout: talk
 date: 2009-03-19 18:30:00
 thumbnail: 1.jpg
-title: Vortrag: Web & Silverlight
+title: "Web & Silverlight"
 speaker:
   name: Philipp Bauknecht
   description: Geschäftsführender Gesellschafter der medialesson GmbH (Pforzheim) und dort für die Beratung, Konzeption und Produktion von Lösungen für webbasierte und lokale Rich-Media-Anwendungen zuständig. Neben zahlreichen Projekten mit kleinen und mittelständischen Kunden sammelte er wertvolle Erfahrungen in der Entwicklung von Lernsoftware für den Geschichtsunterricht. Sein Know-how gibt er seit zwei Jahren an Studenten der Hochschule Pforzheim weiter. Seit 2008 beschäftigt er sich intensiv mit Microsoft Silverlight. Das von ihm entwickelte Silverlight Szenario vermittelt er als Trainer und als Autor von CodeClips. Seinem Studium zum Diplombetriebswirt mit der Fachrichtung Werbung verdankt er seine kreative Denkweise und die Sammelleidenschaft für Werbeclips.
