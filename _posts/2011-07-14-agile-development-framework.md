@@ -2,13 +2,13 @@
 layout: talk
 date: 2011-07-14 18:30:00
 thumbnail: 1.jpg
-title: Agil 2.0 - das Agile Development Framework (ADF)
+title: "Agil 2.0 - das Agile Development Framework (ADF)"
 speaker:
   name: Golo Roden
-  description: Golo Roden ist freiberuflicher Wissensvermittler und Technologieberater für .NET, Codequalität und agile Methoden. Zu diesen Themen berät er Firmen bei der Evaluierung, Erforschung und Verwendung geeigneter Technologien und Methoden. Darüber hinaus ist er journalistisch für Fachzeitschriften und als Referent und Content Manager für Konferenzen tätig. Für sein qualitativ hochwertiges Engagement in der Community wurde Golo von Microsoft als Most Valuable Professional (MVP) für C# ausgezeichnet.
+  description: "Golo Roden ist freiberuflicher Wissensvermittler und Technologieberater für .NET, Codequalität und agile Methoden. Zu diesen Themen berät er Firmen bei der Evaluierung, Erforschung und Verwendung geeigneter Technologien und Methoden. Darüber hinaus ist er journalistisch für Fachzeitschriften und als Referent und Content Manager für Konferenzen tätig. Für sein qualitativ hochwertiges Engagement in der Community wurde Golo von Microsoft als Most Valuable Professional (MVP) für C# ausgezeichnet."
   social:
     - title: rss
-      url: http: www.goloroden.de
+      url: http://www.goloroden.de
 ---
 Scrum, XP & Co - bestehende agile Methoden bedienen jeweils verschiedene
 Zielgruppen und Aspekte der Softwareentwicklung, doch eine einzelne agile
