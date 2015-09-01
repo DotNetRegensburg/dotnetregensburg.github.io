@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2015-08-31 18:00:00
-thumbnail: 1.jpg
+thumbnail: rolandk.jpg
 title: Aktuelle Multimedia-Schnittstellen unter Windows
 speaker:
   name: Roland König
