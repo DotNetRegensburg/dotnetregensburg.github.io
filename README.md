@@ -18,9 +18,14 @@ speaker:
 video:
   url: (Url zum Video)
   thumbnail: (Vorschaubild zum Video: 320x180 Pixel)
+downloads:
+  - name: (Name des Downloads)
+    url: (Url zum Download, z.B. https://github.com/DotNetRegensburg/Downloads/tree/2015-06-29)
 ```
 
 Der Videoeintrag ist optional. Wird er weggelassen, so wird kein Eintrag in der Videosektion generiert. Bei "social" können beliebig viele Einträge angegeben werden.
+
+Analog "downloads". Diese Sektion auch optional, wobei beliebig viele Einträge verwendet werden können. Der Beispiellink würde zum entsprechenden Branch für die Downloads des Vortrags führen.
 
 ## Inhalte
 
