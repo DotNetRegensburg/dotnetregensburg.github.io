@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-07-26 18:30:00
-thumbnail: 1.jpg
+thumbnail: aspnet.png
 title: "Willkommen im Heute: Leichtgewichtige Architekturen für jedermann und überall - Web APIs und Push Services mit .Net & HTML5 & Co."
 speaker:
   name: Christian Weyer

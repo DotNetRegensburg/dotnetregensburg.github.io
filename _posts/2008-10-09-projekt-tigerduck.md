@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2008-10-09 18:30:00
-thumbnail: 1.jpg
+thumbnail: dotnet.png
 title: Projekt TigerDuck
 speaker:
   name: Dariusz Parys, Bernhard Frank

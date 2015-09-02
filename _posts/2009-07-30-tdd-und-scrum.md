@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-07-30 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Agile Softwareentwicklung mit TDD und Scrum
 speaker:
   name: André Hofmann

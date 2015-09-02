@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-04-07 18:30:00
-thumbnail: 1.jpg
+thumbnail: mining.jpg
 title: Data Mining als Erfolgsfaktor - Einführung in Data Mining mit dem Microsoft SQL Server 2005/2008
 speaker:
   name: Janine Oswald

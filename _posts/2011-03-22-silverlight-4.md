@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-03-22 18:30:00
-thumbnail: 1.jpg
+thumbnail: silverlight.jpg
 title: Zurück in die Zukunft mit Silverlight 4
 speaker:
   name: Gregor Biswanger

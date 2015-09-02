@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-05-14 18:30:00
-thumbnail: 1.jpg
+thumbnail: dotnet.png
 title: Von “CAB” zu “CAL” – Modulare Client-Architekturen für WPF-Anwendungen
 speaker:
   name: Jörg Jooss

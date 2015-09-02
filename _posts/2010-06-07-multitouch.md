@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-06-07 18:30:00
-thumbnail: 1.jpg
+thumbnail: silverlight.jpg
 title: Multitouch-nur keine Berührungsängste
 speaker:
   name: Bernhard Pichler

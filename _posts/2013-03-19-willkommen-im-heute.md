@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-03-19 18:00:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: "Willkommen im Heute: Leichtgewichtige Architekturen für jedermann und überall - Web APIs und Push Services mit .Net & HTML5 & Co."
 speaker:
   name: Christian Weyer

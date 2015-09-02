@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-06-18 18:00:00
-thumbnail: 1.jpg
+thumbnail: git.png
 title: TFS loves Git
 speaker:
   name: Karsten Kempe

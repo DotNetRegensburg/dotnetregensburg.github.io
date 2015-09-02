@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-03-19 18:30:00
-thumbnail: 1.jpg
+thumbnail: silverlight.jpg
 title: "Web & Silverlight"
 speaker:
   name: Philipp Bauknecht

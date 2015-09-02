@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-08-23 18:30:00
-thumbnail: 1.jpg
+thumbnail: html5.png
 title: JavaScript für C#-Entwickler
 speaker:
   name: Golo Roden

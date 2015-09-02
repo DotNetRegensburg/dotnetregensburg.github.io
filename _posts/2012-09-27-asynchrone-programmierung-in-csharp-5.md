@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-09-27 18:30:00
-thumbnail: 1.jpg
+thumbnail: dotnet.png
 title: Asynchrone Programmierung in C# 5
 speaker:
   name: Peter Butzhammer

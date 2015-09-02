@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-11-18 18:00:00
-thumbnail: 1.jpg
+thumbnail: aspnet.png
 title: ASP.NET Web Apps
 speaker:
   name: Hannes Preishuber

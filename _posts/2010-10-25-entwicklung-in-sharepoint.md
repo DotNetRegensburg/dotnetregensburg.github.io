@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-10-25 19:00:00
-thumbnail: 1.jpg
+thumbnail: sharepoint.png
 title: Entwicklung in SharePoint 2010
 speaker:
   name: Torsten Mandelkow

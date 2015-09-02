@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-08-29 18:00:00
-thumbnail: 1.jpg
+thumbnail: dotnet.png
 title: Was ist neu in .NET 4.5 und C# 5
 speaker:
   name: Jan Schweda

@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-04-25 18:00:00
-thumbnail: 1.jpg
+thumbnail: studio.png
 title: Windows, App Development, Lightswitch und überhaupt
 speaker:
   name: Daniel Meixner, Uwe Baumann

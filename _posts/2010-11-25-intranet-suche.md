@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-11-25 18:30:00
-thumbnail: 1.jpg
+thumbnail: sharepoint.png
 title: Suche für Intranets
 speaker:
   name: Dr. Hans-Jörg Burtschick

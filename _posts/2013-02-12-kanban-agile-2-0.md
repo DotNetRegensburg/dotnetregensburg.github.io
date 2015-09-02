@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-02-12 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Kanban - Agile 2.0?
 speaker:
   name: Thomas Schissler

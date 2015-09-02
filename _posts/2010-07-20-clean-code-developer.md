@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-07-20 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Clean Code Developer - Eine Initiative für mehr Softwarequalität
 speaker:
   name: Ralf Westphal

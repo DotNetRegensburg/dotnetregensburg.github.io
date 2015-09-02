@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-07-14 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: "Agil 2.0 - das Agile Development Framework (ADF)"
 speaker:
   name: Golo Roden

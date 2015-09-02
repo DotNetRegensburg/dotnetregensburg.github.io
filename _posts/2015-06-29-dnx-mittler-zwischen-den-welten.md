@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2015-06-29 19:00:00
-thumbnail: 1.jpg
+thumbnail: danielm.jpg
 title: DNX - Mittler zwischen den Welten
 speaker:
   name: Daniel Murrmann

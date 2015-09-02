@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-08-27 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Agile Development Process - Ein Architekturbasierter Entwicklungsprozess
 speaker:
   name: Thomas Schissler

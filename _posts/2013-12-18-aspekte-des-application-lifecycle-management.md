@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-12-18 18:00:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: ALM konkret "Die Aspekte des Application Lifecycle Management entdecken, verstehen und nutzen"
 speaker:
   name: Sebastian Rölz

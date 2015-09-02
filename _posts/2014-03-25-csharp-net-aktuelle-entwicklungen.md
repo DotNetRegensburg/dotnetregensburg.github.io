@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-03-25 18:30:00
-thumbnail: 1.jpg
+thumbnail: florianr.jpg
 title: C# und .NET - Aktuelle und zukünftige Entwicklungen
 speaker:
   name: Florian Rappl

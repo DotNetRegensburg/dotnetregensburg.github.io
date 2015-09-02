@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-01-24 18:00:00
-thumbnail: 1.jpg
+thumbnail: rolandk.jpg
 title: 3D-Darstellung mit C# in WPF und WinRT
 speaker:
   name: Roland König

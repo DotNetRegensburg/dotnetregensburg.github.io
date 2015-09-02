@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-06-06 18:00:00
-thumbnail: 1.jpg
+thumbnail: florianr.jpg
 title: A package of C# life savers
 speaker:
   name: Florian Rappl

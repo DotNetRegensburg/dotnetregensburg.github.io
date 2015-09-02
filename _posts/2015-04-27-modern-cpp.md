@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2015-06-29 18:30:00
-thumbnail: 1.jpg
+thumbnail: florianr.jpg
 title: (Modern) C++, Go, Julia, Rust, ... - was geht mich das an?
 speaker:
   name: Florian Rappl

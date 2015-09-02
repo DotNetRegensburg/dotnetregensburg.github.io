@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-04-28 19:00:00
-thumbnail: 1.jpg
+thumbnail: rolandk.jpg
 title: C#/.Net-Entwicklung heute am Beispiel einer 3D-Grafik-Engine
 speaker:
   name: Roland König

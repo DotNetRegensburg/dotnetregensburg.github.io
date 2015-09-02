@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-11-15 18:30:00
-thumbnail: 1.jpg
+thumbnail: git.png
 title: Continuous Integration / Continuous Deployment
 speaker:
   name: Robert Eichenseer

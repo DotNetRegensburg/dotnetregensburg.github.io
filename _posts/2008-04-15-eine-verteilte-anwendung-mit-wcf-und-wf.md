@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2008-04-15 18:30:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: Eine verteilte Anwendung mit WCF und WF – in Action!
 speaker:
   name: Christian Weyer

@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-07-28 18:00:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: Die Media Services von Windows Azure
 speaker:
   name: Marco Richardson

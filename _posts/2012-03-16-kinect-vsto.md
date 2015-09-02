@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-03-16 18:00:00
-thumbnail: 1.jpg
+thumbnail: studio.png
 title: "Kinect & VSTO"
 speaker:
   name: Lars Keller

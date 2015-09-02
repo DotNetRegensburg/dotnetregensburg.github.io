@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2013-07-04 18:00:00
-thumbnail: 1.jpg
+thumbnail: commu.jpg
 title: Nutzen kommt von nutzen Wissensmanagement durch Enterprise Social Collaboration unter SharePoint 2013
 speaker:
   name: Achim Zeeck

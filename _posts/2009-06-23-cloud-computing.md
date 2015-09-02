@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-06-23 18:30:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: "Über den Wolken: Cloud Computing für .NET-Entwickler mit Azure Services"
 speaker:
   name: Dominick Baier und Christian Weyer

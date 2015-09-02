@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-11-10 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Agile Entwicklung; Ein Praxisbericht zum Einsatz von Pair Programming im echten Entwicklerleben mit Empfehlungen zur Durchführung
 speaker:
   name: Robert Eichenseer

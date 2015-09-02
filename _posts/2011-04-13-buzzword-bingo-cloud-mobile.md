@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-04-13 18:30:00
-thumbnail: 1.jpg
+thumbnail: html5.png
 title: "Buzzword-Bingo: Cloud, Mobile & HTML5 - lass mer mei Ruh'!?"
 speaker:
   name: Christian Weyer

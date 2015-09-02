@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-05-16 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Produce Cleaner Code with Aspect-Oriented Programming (AOP)
 speaker:
   name: Gael Fraiteur

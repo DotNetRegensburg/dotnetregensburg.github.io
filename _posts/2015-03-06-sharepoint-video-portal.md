@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2015-03-06 17:00:00
-thumbnail: 1.jpg
+thumbnail: sharepoint.png
 title: SharePoint Video Portal
 speaker:
   name: Jürgen Schmailzl und Gunnar Krause

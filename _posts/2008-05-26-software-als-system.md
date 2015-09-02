@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2008-05-26 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Software als System
 speaker:
   name: Ralf Westphal

@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-01-14 18:00:00
-thumbnail: 1.jpg
+thumbnail: silverlight.jpg
 title: Silverlight in der Praxis
 speaker:
   name: Jörg Jooss

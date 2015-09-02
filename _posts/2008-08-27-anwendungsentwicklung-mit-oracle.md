@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2008-08-27 18:00:00
-thumbnail: 1.jpg
+thumbnail: clausj.jpg
 title: Anwendungsentwicklung mit Oracle und .NET
 speaker:
   name: Claus Jandausch und Markus Kissling

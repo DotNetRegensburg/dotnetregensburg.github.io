@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-09-29 18:30:00
-thumbnail: 1.jpg
+thumbnail: sharepoint.png
 title: SharePoint in der Praxis
 speaker:
   name: Roland Wurm, Thomas Ebert

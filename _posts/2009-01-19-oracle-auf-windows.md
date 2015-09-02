@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-01-19 06:30:00
-thumbnail: 1.jpg
+thumbnail: clausj.jpg
 title: Stabilität und Performance mit Oracle auf Windows
 speaker:
   name: Claus Jandausch

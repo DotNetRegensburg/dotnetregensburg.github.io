@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-05-26 19:00:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Agile Methoden, SCRUM - Ein Erfahrungsbericht
 speaker:
   name: Leonhard Fischl

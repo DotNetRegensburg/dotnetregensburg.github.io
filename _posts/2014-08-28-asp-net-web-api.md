@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-08-28 18:00:00
-thumbnail: 1.jpg
+thumbnail: aspnet.png
 title: ASP.NET Web API
 speaker:
   name: Jörg Jooss

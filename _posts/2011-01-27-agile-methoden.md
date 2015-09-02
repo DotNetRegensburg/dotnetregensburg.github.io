@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-01-27 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Agile Methoden mit XP, Scrum und FDD
 speaker:
   name: Golo Roden

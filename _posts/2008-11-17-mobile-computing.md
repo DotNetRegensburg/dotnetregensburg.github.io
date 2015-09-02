@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2008-11-17 18:30:00
-thumbnail: 1.jpg
+thumbnail: dotnet.png
 title: Mobile Computing mit dem .NET Compact Framework
 speaker:
   name: Torsten Weber

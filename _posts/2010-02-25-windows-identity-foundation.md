@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-02-25 19:00:00
-thumbnail: 1.jpg
+thumbnail: danielm.jpg
 title: Windows Identity Foundation und Active Directory Federation Services 2.0 in Action
 speaker:
   name: Daniel Murrmann

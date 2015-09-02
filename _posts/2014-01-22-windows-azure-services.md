@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-01-22 18:00:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: Windows Azure Services
 speaker:
   name: Robert Eichenseer

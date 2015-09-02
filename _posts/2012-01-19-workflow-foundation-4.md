@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-01-19 18:30:00
-thumbnail: 1.jpg
+thumbnail: rolandk.jpg
 title: Workflow Foundation 4
 speaker:
   name: Roland König

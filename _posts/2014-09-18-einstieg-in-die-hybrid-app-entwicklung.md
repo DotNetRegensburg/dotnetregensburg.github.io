@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-09-18 18:00:00
-thumbnail: 1.jpg
+thumbnail: gregorb.jpg
 title: Einstieg in die Hybrid App Entwicklung
 speaker:
   name: Gregor Biswanger

@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-11-19 18:30:00
-thumbnail: 1.jpg
+thumbnail: aspnet.png
 title: High Performance Websites mit ASP.Net
 speaker:
   name: Cristian Mudure

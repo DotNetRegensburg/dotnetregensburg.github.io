@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-02-24 19:00:00
-thumbnail: 1.jpg
+thumbnail: kennyp.jpg
 title: Fast and Fluent UI in WPF
 speaker:
   name: Kenny Pflug

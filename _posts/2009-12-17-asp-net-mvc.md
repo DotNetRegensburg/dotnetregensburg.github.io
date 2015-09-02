@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-12-17 19:00:00
-thumbnail: 1.jpg
+thumbnail: aspnet.png
 title: ASP.NET MVC
 speaker:
   name: Jörg Jooss

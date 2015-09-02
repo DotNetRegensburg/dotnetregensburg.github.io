@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-12-04 18:30:00
-thumbnail: 1.jpg
+thumbnail: gregorb.jpg
 title: "Roadshow: Windows 8 und WinRT - Erschaffe eine neue Welt"
 speaker:
   name: Gregor Biswanger

@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2010-01-14 18:30:00
-thumbnail: 1.jpg
+thumbnail: silverlight.jpg
 title: User Interface - HOW to WOW
 speaker:
   name: Bernhard Pichler 

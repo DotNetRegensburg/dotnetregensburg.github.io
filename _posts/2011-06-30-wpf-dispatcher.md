@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-06-30 18:30:00
-thumbnail: 1.jpg
+thumbnail: silverlight.jpg
 title: WPF Dispatcher
 speaker:
   name: Bernhard Pichler

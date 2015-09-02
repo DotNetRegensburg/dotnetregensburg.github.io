@@ -1,7 +1,7 @@
 ---
 layout: talk
-date: 2014-10-14 07:00:00
-thumbnail: 1.jpg
+date: 2014-10-14 19:00:00
+thumbnail: sql.jpg
 title: Moderne Datenbankentwicklung mit den SQL Server Data Tools (SSDT)
 speaker:
   name: Constantin Klein

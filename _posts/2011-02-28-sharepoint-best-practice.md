@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2011-02-28 18:30:00
-thumbnail: 1.jpg
+thumbnail: sharepoint.png
 title: Best Practice in der SharePoint Entwicklung
 speaker:
   name: Thomas Ebert

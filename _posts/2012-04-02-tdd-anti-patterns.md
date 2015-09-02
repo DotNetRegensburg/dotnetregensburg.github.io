@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-04-02 18:30:00
-thumbnail: 1.jpg
+thumbnail: agile.png
 title: Die wichtigsten TDD Anti-Patterns – Am schlechten Beispiel lernen.
 speaker:
   name: Gregor Biswanger

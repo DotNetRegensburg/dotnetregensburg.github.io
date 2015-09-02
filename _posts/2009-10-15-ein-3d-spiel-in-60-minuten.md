@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2009-10-15 18:30:00
-thumbnail: 1.jpg
+thumbnail: dotnet.png
 title: "Live-Coding: Ein 3D Spiel in 60 Minuten"
 speaker:
   name: Dirk Primbs

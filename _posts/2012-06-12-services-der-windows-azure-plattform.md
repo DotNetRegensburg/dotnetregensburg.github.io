@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-06-12 18:30:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: Busbahnhof. Services der Windows Azure Plattform
 speaker:
   name: Robert Eichenseer

@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2015-01-26 18:00:00
-thumbnail: 1.jpg
+thumbnail: kennyp.jpg
 title: Automatisierte Tests und TDD mit Visual Studio
 speaker:
   name: Kenny Pflug

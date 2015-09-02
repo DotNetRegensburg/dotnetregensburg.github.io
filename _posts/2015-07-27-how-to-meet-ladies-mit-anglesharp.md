@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2015-07-27 18:00:00
-thumbnail: 1.jpg
+thumbnail: florianr.jpg
 title: How To Meet Ladies mit AngleSharp
 speaker:
   name: Florian Rappl

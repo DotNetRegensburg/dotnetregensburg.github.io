@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2014-12-08 18:00:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: Das eigene Test Lab! - mit Infrastructure-as-a-Service von Microsoft Azure
 speaker:
   name: Peter Kirchner

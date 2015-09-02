@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2012-02-23 18:30:00
-thumbnail: 1.jpg
+thumbnail: azure.png
 title: Der Windows Azure Access Control Service
 speaker:
   name: Jörg Jooss
