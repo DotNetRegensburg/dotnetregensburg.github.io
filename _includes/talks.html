@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <ul class="timeline">
-                    {% for post in site.posts %}
+                    {% for post in site.posts limit: 3 %}
                       {% assign loopindex = forloop.index | modulo: 2 %}
                       {% if loopindex == 0 %}
                       <li class="timeline-inverted">
@@ -33,6 +33,11 @@
                       </li>
                     {% endfor %}
                 </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center top-space">
+                <p class="large text-muted"><a href="/archive">Alle bisherigen Talks anzeigen</a></p>
             </div>
         </div>
     </div>
