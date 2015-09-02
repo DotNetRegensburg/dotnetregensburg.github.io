@@ -13,5 +13,8 @@ speaker:
       url: https://github.com/RolandKoenig
     - title: rss
       url: http://www.rolandk.de/wp/
+downloads:
+  - name: Folien
+    url: http://www.rolandk.de/files/presentations/2015_SeeingSharp.pdf
 ---
 In den letzten Vorträgen des Sprechers in Regensburg wurde bereits stark auf 3D-Grafik-Programmierung unter Windows mit C#/.Net eingegangen. Dieser Vortrag ergänzt die vorherigen um weitere Aspekte, etwa - modernes 2D-Rendering mit Direct2D - Video-Bearbeitung mit der Media Foundation - weitere aktuelle Punkte bezogen auf Windows Universal Apps und Windows 10. Die gezeigten Beispiele basieren auf Seeing#, einem OpenSource Framework zur Integration von 2D, 3D- und Video-Funktionen in beliebige auf .Net basierende Windows Anwendungen. 
