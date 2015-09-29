@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2015-10-29 18:00:00
+date: 2015-10-29 17:30:00
 thumbnail: marting.png
 title: Einstieg in SharePoint App Development
 speaker:
