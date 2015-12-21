@@ -8,7 +8,7 @@ speaker:
   name: Kenny Pflug
   description: Kenny Pflug studierte Informatik an der Ostbayerischen Technischen Hochschule Regensburg und ist aktuell Promovend und wissenschaftlicher Mitarbeiter an der Universität Regensburg. Dort erforscht er User Interface Konzepte für mobile Medizinapplikationen. Er ist besonders interessiert an den Themengebieten User Experience und User Interface Design, OOP und OOD, Softwarearchitektur, Clean Code sowie Automatisiertes Testen.
   social:
-    - title: website
+    - title: rss
       url: http://www.feo2x.com
     - title: twitter
       url: https://twitter.com/feO2x
