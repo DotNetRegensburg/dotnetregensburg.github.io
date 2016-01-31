@@ -14,6 +14,9 @@ speaker:
       url: https://twitter.com/feO2x
     - title: youtube
       url: https://www.youtube.com/c/kennypflug/
+video:
+  url: https://www.youtube.com/watch?v=QsSx6-rXljI
+  thumbnail: http://i1.ytimg.com/vi/QsSx6-rXljI/mqdefault.jpg
 ---
 Bereits 1988 hat Bertrand Meyer, einer der Pioniere auf dem Gebiet der Objekt-Orientierten Programmierung, in seinem Buch „Object-Oriented Software Construction“ Design By Contract (DbC) vorgestellt. Doch was genau ist DbC und nutzen wir dieses Prinzip bereits in unseren alltäglichen Programmierarbeiten effizient?
 
