@@ -5,7 +5,7 @@ thumbnail: azure.png
 title: "Containers, Windows Fabric and Azure"
 doodle: w4dx5tqtfy8hyn8w
 speaker:
-  name: Robert Eichenseer
+  name: "Robert Eichenseer"
   description: "Robert Eichenseer ist als Senior Programm Manager bei der Microsoft Corp. für Windows Azure tätig. Er unterstützt hierbei Kunden und Partner bei der Entwicklung und Konzeption von hochskalierenden und fehlertoleranten Cloud Systemen. Aufgrund seiner Arbeit in internationalen Projekten kann er Anforderungen heutiger Softwareentwicklungen erfolgreich umsetzen und steuern."
   social:
     - title: twitter
