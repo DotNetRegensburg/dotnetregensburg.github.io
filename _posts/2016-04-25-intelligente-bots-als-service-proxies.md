@@ -14,6 +14,9 @@ speaker:
       url: https://github.com/FlorianRappl
     - title: rss
       url: http://www.florian-rappl.de
+video:
+  url: https://www.youtube.com/watch?v=tuTE1ZfNJqs
+  thumbnail: http://i1.ytimg.com/vi/tuTE1ZfNJqs/mqdefault.jpg
 ---
 Mit dem Microsoft Bot Framework bietet sich uns eine elegante Lösung um natürliche Interaktion mit Benutzern zu führen. Durch nützliche Services wie dem Language Understanding Intelligence Service (LUIS) und einer bequemen Anbindung an eine Vielzahl von möglichen Kanälen (u.a. Skype, Telegram, E-Mail, SMS) können wir Benutzern einen echten Mehrwert bieten. Die Interaktion mit diesen Bots wird dann auf Clientseite mit Hilfe intelligenter Systeme wie z.B. Cortana optimiert.
 
