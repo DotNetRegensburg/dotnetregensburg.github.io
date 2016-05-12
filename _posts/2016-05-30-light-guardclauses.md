@@ -15,6 +15,6 @@ speaker:
     - title: youtube
       url: https://www.youtube.com/c/kennypflug/
 ---
-Aufbauend auf dem Januarvortrag über Design by Contract bei der .NET User Group Regensburg wurde die Library Light.GuardClauses entwickelt, mit der man einfach und flexibel Precondition Checks in seinem Produktivcode schreiben kann. Kenny Pflug, der Author von Light.GuardClauses, stellt bei diesem Talk das Open-Source-Projekt vor, zeigt, wie man es effektiv einsetzt, und geht auch auf Fragen zur Performance (insbesondere zu Conditional Compilation) und Erweiterbarkeit der Bibliothek ein. Jeder, der Parameter am Anfang seiner Methoden überprüft, kann von dieser Bibliothek profitieren.
+Aufbauend auf dem Januarvortrag über Design by Contract bei der .NET User Group Regensburg wurde die Library Light.GuardClauses entwickelt, mit der man einfach und flexibel Precondition Checks in seinem Produktivcode schreiben kann. Kenny Pflug, der Autor von Light.GuardClauses, stellt bei diesem Talk das Open-Source-Projekt vor, zeigt, wie man es effektiv einsetzt, und geht auch auf Fragen zur Performance (insbesondere zu Conditional Compilation) und Erweiterbarkeit der Bibliothek ein. Jeder, der Parameter am Anfang seiner Methoden überprüft, kann von dieser Bibliothek profitieren.
 
 **BITTE BEACHTEN** Der Vortrag findet im Raum "Fahrenheit" im "neuen" IT-Speicher, der Techbase Regensburg in der Franz-Meyer-Str. 1 statt.
