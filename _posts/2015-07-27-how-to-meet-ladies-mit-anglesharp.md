@@ -15,7 +15,7 @@ speaker:
       url: http://www.florian-rappl.de
 video:
   url: https://www.youtube.com/watch?v=f3wl8Ljzllo
-  thumbnail: http://i1.ytimg.com/vi/f3wl8Ljzllo/mqdefault.jpg
+  thumbnail: https://i1.ytimg.com/vi/f3wl8Ljzllo/mqdefault.jpg
 downloads:
   - name: Folien
     url: http://talks.florian-rappl.de/How-To-Meet-Ladies/
