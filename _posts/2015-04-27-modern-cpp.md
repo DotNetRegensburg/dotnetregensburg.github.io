@@ -15,7 +15,7 @@ speaker:
       url: http://www.florian-rappl.de
 video:
   url: https://www.youtube.com/watch?v=JODD3B3E1KY
-  thumbnail: http://i1.ytimg.com/vi/JODD3B3E1KY/mqdefault.jpg
+  thumbnail: https://i1.ytimg.com/vi/JODD3B3E1KY/mqdefault.jpg
 downloads:
   - name: Folien
     url: http://talks.florian-rappl.de/Mod-Lang/
