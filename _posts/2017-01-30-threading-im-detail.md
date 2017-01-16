@@ -15,6 +15,6 @@ speaker:
     - title: youtube
       url: https://www.youtube.com/c/kennypflug/
 ---
-Multithreading ist aus kaum einer Anwendung wegzudenken: sei es um langlebige Operationen vom UI-Thread auszulagern, oder um komplexe Berechnungen auf mehrere Threads zu verteilen. Dabei muss man sich vor allem um die Korrekte Synchronisierung der Daten kümmern, die von mehreren Threads angesprochen werden. Doch was genau macht ein Lock eigentlich und welche Auswirkungen hat es auf den Thread Pool?
+Multithreading ist aus kaum einer Anwendung wegzudenken: sei es um langlebige Operationen vom UI-Thread auszulagern, oder um komplexe Berechnungen auf mehrere Threads zu verteilen. Dabei muss man sich vor allem um die korrekte Synchronisierung der Daten kümmern, die von mehreren Threads angesprochen werden. Doch was genau macht ein Lock eigentlich und welche Auswirkungen hat es auf den Thread Pool?
 
 All das und noch viel mehr wird in diesem Talk besprochen. Neben Synchronization Primitives und Synchronization Contexts sowie async / await in Verbindung mit der Task Parallel Library (TPL) gehen wir auch auf die Details des Thread Pools ein und insbesondere auf die Möglichkeiten, Lock-freie Primitiven zur Synchronisation einzusetzen und die daraus resultierenden Algorithmen und Datenstrukturen anzuwenden.
