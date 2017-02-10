@@ -14,14 +14,12 @@ speaker:
       url: https://twitter.com/feO2x
     - title: youtube
       url: https://www.youtube.com/c/kennypflug/
-  video:
-    url: https://youtu.be/Le3w51xV3f8
-    thumbnail: https://i.ytimg.com/vi/Le3w51xV3f8/mqdefault.jpg
-  downloads:
+video:
+  url: https://youtu.be/Le3w51xV3f8
+  thumbnail: https://i.ytimg.com/vi/Le3w51xV3f8/mqdefault.jpg
+downloads:
   - name: GitHub Repository mit Beispielcode und PowerPoint Präsentation
     url: https://github.com/feO2x/NetThreadingInDetail
-
-
 ---
 Multithreading ist aus kaum einer Anwendung wegzudenken: sei es um langlebige Operationen vom UI-Thread auszulagern, oder um komplexe Berechnungen auf mehrere Threads zu verteilen. Dabei muss man sich vor allem um die korrekte Synchronisierung der Daten kümmern, die von mehreren Threads angesprochen werden. Doch was genau macht ein Lock eigentlich und welche Auswirkungen hat es auf den Thread Pool?
 
