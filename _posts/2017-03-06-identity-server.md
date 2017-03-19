@@ -12,8 +12,9 @@ speaker:
       url: https://leastprivilege.com/
     - title: twitter
       url: https://twitter.com/leastprivilege
-  
-
+video:
+  url: https://youtu.be/jppQ3brexTs
+  thumbnail: https://i.ytimg.com/vi/jppQ3brexTs/mqdefault.jpg
 ---
 Der Siegeszug von REST und HTTP hat in den letzten Jahren einen deutlichen Einfluss auf die Systemarchitektur moderner Anwendungen genommen: Web Apps, Web APIs, und Microservices brechen monolithische Designs auf in kleinere, fokussierte Prozesse, von denen viele auch direkt vom Endnutzer angesprochen werden. Doch wie sichert man eine solche Architektur effektiv mit Authentifizierung und Autorisierung ab und bietet dabei dem Nutzer den Komfort des Single-Sign-On?
 
