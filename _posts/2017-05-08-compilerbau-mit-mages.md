@@ -14,6 +14,9 @@ speaker:
       url: https://github.com/FlorianRappl
     - title: rss
       url: http://www.florian-rappl.de
+video:
+  url: https://youtu.be/VRxAFDukc44
+  thumbnail: https://i.ytimg.com/vi/VRxAFDukc44/mqdefault.jpg  
 ---
 Seit Version 6 ist Roslyn der Referenzcompiler für C#. Seine wahre Stärke offenbart Roslyn erst für Entwickler mit Erfahrungen im Compilerbau.
 
