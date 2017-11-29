@@ -14,6 +14,9 @@ speaker:
       url: https://twitter.com/feO2x
     - title: youtube
       url: https://www.youtube.com/c/kennypflug/
+video:
+  url: https://youtu.be/nPpKVTs245M
+  thumbnail: https://i.ytimg.com/vi/nPpKVTs245M/mqdefault.jpg
 ---
 In ASP.NET Core Applikationen gehört der Dependency Injection Container mittlerweile zur Grundausrüstung. Diese Komponente erlaubt uns das flexible Auflösen von Objektgraphen – doch was steckt hinter Registrierungen, Lebenszeiten, den verschiedenen Arten der Dependency Injection, und Objektkomposition? 
 
