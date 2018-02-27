@@ -18,7 +18,7 @@ Kein anderes Feld ist so kurzlebig wie Webentwicklung. Neben neuen Frontendtechn
 
 In diesem Vortrag machen wir einen kurzweiligen Rundgang durch moderne, jedoch etablierte Tools und Prinzipien für Webentwicklung im Jahr 2018.
 
-Dies könnte u.a. folgende Themen einschließen:
+Konkret werden wir uns u.a. mit folgenden Themen befassen:
 
 - Functional Programming und Data-Driven Development (u.a. React)
 - Transpiler und Compilation (u.a. TypeScript)
