@@ -12,6 +12,9 @@ speaker:
       url: http://www.artiso.com
     - title: xing
       url: https://www.xing.com/profile/Thomas_Schissler
+  video:
+    url: https://youtu.be/v7WLuAGMVio
+    thumbnail: https://i.ytimg.com/vi/v7WLuAGMVio/mqdefault.jpg
 ---
 In der modernen Softwareentwicklung stehen Entwickler vor der Herausforderung, jederzeit einen auslieferfähigen Stand der Software zu haben. Wie aber mit Funktionen umgehen, die noch nicht komplett entwickelt und getestet sind? Branches in der Versionskontrolle bringen hier eine zusätzliche Komplexität. In sehr vielen Fällen sind Featureflags eine bessere Alternative, die auch noch viele Vorteile für Deployment und Betrieb der Software mit sich bringen. In diesem Vortrag stellen René Guder und Thomas Schissler die Grundkonzepte hinter Featureflags vor, erläutern, wie sie angewendet werden und welche Vorteile sie bieten und das Ganze mit vielen Beispielen aus der Praxis.
 
