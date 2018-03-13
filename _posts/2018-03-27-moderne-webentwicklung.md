@@ -26,4 +26,4 @@ Konkret werden wir uns u.a. mit folgenden Themen befassen:
 
 Als Ziel für diesen Talk wollen wir eine kleine WebApp von der Idee zu "Production" bringen.
 
-BITTE BEACHTEN: Der Vortrag findet im Raum U311 der OTH Regensburg statt (Universitätsstr. 31, im Sammelgebäude). Für Getränke ist gesorgt.
+BITTE BEACHTEN: Der Vortrag findet im Raum K008 der OTH Regensburg statt (Galgenbergstraße 32, neues IM Gebäude). Für Getränke ist gesorgt.
