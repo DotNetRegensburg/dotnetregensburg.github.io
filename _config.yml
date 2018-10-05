@@ -1,8 +1,8 @@
 # Site settings
 future: true
-title: ".NET User Group Regensburg"
+title: "Microsoft Developer Meetup Regensburg"
 email: info@dotnet-regensburg.de
-description: "Die .Net und SharePoint Usergroup Regensburg, ist eine Gemeinschaft von Nutzern, Einsteigern und Interessierten im Bereich der .NET-Entwicklung die sich einmal monatlich trifft. Die regelmäßigen Treffen mit Fachvorträgen und Diskussionen sollen dabei nicht nur die Möglichkeit zu kostenlosen Weiterbildung bieten sondern auch das persönliche Miteinander der Beteiligten im klassischen Sinne des Networking fördern."
+description: "Das Microsoft Developer Meetup Regensburg ist eine Gemeinschaft von Softwareentwicklern, die sich mehrmals pro Jahr (üblicherweise monatlich während der Vorlesungszeit an der Universität und technischen Hochschule) zu Vorträgen trifft. Bei den Veranstaltungen halten wir den Fokus auf Microsoft-Technologien in unterschiedlichsten Themengebieten: von Programmierung, Design Patterns, Softwareentwicklungsprozesse, Einsatz von neuesten Produkte und Frameworks, Client und Serviceentwicklung, bis hin zu Cloud und KI ist alles vertreten. Egal, ob Anfänger oder Experte, Spaß soll es machen - neben den Vorträgen können Sie auch die anderen Mitglieder unserer Gruppe kennenlernen. Vielleicht lernen Sie ja so Ihren nächsten Mitarbeiter kennen."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
