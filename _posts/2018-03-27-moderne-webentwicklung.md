@@ -13,6 +13,9 @@ speaker:
       url: https://github.com/FlorianRappl
     - title: rss
       url: http://www.florian-rappl.de
+video:
+  url: https://youtu.be/QwLU2IIQb0I
+  thumbnail: https://i.ytimg.com/vi/QwLU2IIQb0I/mqdefault.jpg
 ---
 Kein anderes Feld ist so kurzlebig wie Webentwicklung. Neben neuen Frontendtechnologien und interessanten Gestaltungsmöglichkeiten für das Backend spiegelt sich hier der Innovationsgrad v.a. durch das Node.js Ecosystem und dem damit verbundenen Tooling wieder.
 
