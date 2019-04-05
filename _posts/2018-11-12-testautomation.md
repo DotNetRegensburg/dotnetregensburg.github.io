@@ -9,6 +9,9 @@ speaker:
   social:
     - title: rss
       url: http://www.rolandk.de/wp
+video:
+  url: https://youtu.be/FaW2AQ3QAWk
+  thumbnail: https://i.ytimg.com/vi/FaW2AQ3QAWk/mqdefault.jpg
 ---
 Testautomation spielt vor allem im agilen Vorgehensmodell eine sehr wichtige Rolle. Ohne einen hohen Anteil automatisierter Testfälle wird es schnell schwierig, das eigene Softwareprodukt in kurzen Iterationsschritten weiterzuentwickeln und gleichzeitig sicherzustellen, dass vorher umgesetzte Features noch so reagieren wie erwartet. Automatisierte Tests auf Integrations- oder End-To-End-Ebene bergen aber einige Hürden bei der Umsetzung:
 

@@ -13,6 +13,9 @@ speaker:
       url: https://twitter.com/feO2x
     - title: youtube
       url: https://www.youtube.com/c/kennypflug/
+video:
+  url: https://youtu.be/lSYI_eBTpsA
+  thumbnail: https://i.ytimg.com/vi/lSYI_eBTpsA/mqdefault.jpg
 ---
 Im Juni 2016 wurde die Open Source Library Light.GuardClauses zum ersten Mal veröffentlicht und in diesem Talk erzählt der Autor aus dem Nähkästchen, wie der Open Source Alltag in Microsofts .NET Umfeld aussieht. Neben einer kurzen Einführung, was Light.GuardClauses überhaupt macht, schauen wir uns brandaktuelle Themen an:
 
