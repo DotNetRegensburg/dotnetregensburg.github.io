@@ -1,7 +1,7 @@
 ---
 layout: talk
 date: 2019-11-20 18:00:00
-thumbnail: florian-rappl.jpg
+thumbnail: florianr.jpg
 title: "Modulare Web Apps"
 speaker:
   name: "Dr. Florian Rappl"
