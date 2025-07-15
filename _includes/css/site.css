@@ -39,3 +39,13 @@ img.colorize-on-hover:hover {
 .msdn_descriptioninner {
 	margin: 1em 0;
 }
+
+.ads-top-logo {
+	display: block;
+	margin: 50px auto;
+	padding-top: 100px;
+	width: 80vw;
+	min-width: 400px;
+	max-width: 80%;
+	height: auto;
+}
