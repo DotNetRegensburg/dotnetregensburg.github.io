@@ -2,57 +2,74 @@
 layout: blank
 ---
 <div class="col-lg-8">
-  <h2>Microsoft Developer Meetup Regensburg</h2>
+    <h2>Microsoft Developer Meetup Regensburg</h2>
 </div>
 
 <div class="col-lg-8">
-  <h3>{{ page.title }}</h3>
+    <h3>{{ page.title }}</h3>
 </div>
 
 <div class="col-lg-8">
-  <strong>{{ page.date | date: "%b %-d, %Y um %H:%M Uhr" }}</strong>
+    <strong>{{ page.date | date: "%b %-d, %Y um %H:%M Uhr" }}</strong>
 </div>
 
 <div class="col-lg-8">
-  {{ content }}
+    {{ content }}
 </div>
 
 {% if page.downloads %}
 <div class="col-lg-8">
-  <h2>Downloads</h2>
+    <h2>Downloads</h2>
 </div>
 
 <div class="col-lg-8">
-  <ul>
-    {% for download in page.downloads %}
-    <li><a href="{{ download.url }}">{{ download.name }}</a></li>
-    {% endfor %}
-  </ul>
+    <ul>
+        {% for download in page.downloads %}
+        <li><a href="{{ download.url }}">{{ download.name }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
 {% endif %}
 
 <div class="col-lg-8">
-  <h2>Sprecher</h2>
+    <h2>Sprecher</h2>
 </div>
 
 <div class="col-lg-8">
-  {{ page.speaker.description | markdownify }}
+    {{ page.speaker.description | markdownify }}
 </div>
 
 <div class="col-lg-8 little-space">
-  <ul class="list-inline social-buttons">
-    {% for network in page.speaker.social %}
-    <li><a href="{{ network.url }}" class="text-center"><i class="fa fa-{{ network.title }}"></i></a></li>
-    {% endfor %}
-  </ul>
+    <ul class="list-inline social-buttons">
+        {% for network in page.speaker.social %}
+        <li><a href="{{ network.url }}" class="text-center"><i class="fa fa-{{ network.title }}"></i></a></li>
+        {% endfor %}
+    </ul>
 </div>
+
+{% if page.location == 'Syskron' %}
+<div class="col-lg-8">
+    <h2>Location</h2>
+</div>
+
+<div class="col-lg-8">
+    Der Vortrag findet bei der <a href="https://maps.app.goo.gl/Hf74oKqLW3s8KUfC8" target="_blank">Syskron GmbH</a> statt.
+    <br><br>
+    <address>
+        Syskron GmbH<br>
+        Maximilianstraße 29<br>
+        93047 Regensburg
+    </address>
+</div>
+{% endif %}
+
 
 {% if page.doodle %}
 <div class="col-lg-8">
-  <h2>Anmeldung</h2>
+    <h2>Anmeldung</h2>
 </div>
 
 <div class="col-lg-8">
-  <a href="http://doodle.com/poll/{{ page.doodle }}">Unverbindlich zum Vortrag anmelden</a>
+    <a href="http://doodle.com/poll/{{ page.doodle }}">Unverbindlich zum Vortrag anmelden</a>
 </div>
 {% endif %}
