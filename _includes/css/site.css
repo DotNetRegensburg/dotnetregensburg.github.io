@@ -6,6 +6,10 @@ div.little-space {
 	margin-top: 0.5em;
 }
 
+.large-text p {
+	font-size: 1.25em; /* Adjust as needed */
+}
+
 img.colorize-on-hover {
 	-webkit-filter: grayscale(1);
 	-webkit-filter: grayscale(100%);
