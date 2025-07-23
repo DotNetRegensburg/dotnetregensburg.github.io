@@ -67,6 +67,15 @@ people:
     - title: rss
       url: http://www.florian-rappl.de
 
+- name: Peter Butzhammer
+  pic: peter-butzhammer
+  position: "Organisator, Sprecher"
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/peter-butzhammer/
+    - title: github
+      url: https://github.com/peter-b-
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
