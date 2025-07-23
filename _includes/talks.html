@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <ul class="timeline">
-                    {% for post in site.posts limit: 3 %}
+                    {% for post in site.posts reversed limit: 3  %}
                       {% assign loopindex = forloop.index | modulo: 2 %}
                       {% if loopindex == 0 %}
                       <li class="timeline-inverted">
