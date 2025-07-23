@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2025-10-21 16:00:00
+date: 2025-10-21 18:00:00 +2
 location: Syskron
 thumbnail: florianr.jpg
 title: "Rostet .NET? Rust vs C#"

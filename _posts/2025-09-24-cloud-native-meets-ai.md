@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2025-09-24 16:00:00
+date: 2025-09-24 18:00:00 +2
 location: Syskron
 thumbnail: kennyp.jpg
 title: "Cloud Native meets AI: moderne Backends bauen mit .NET Aspire und Microsoft.Extensions.AI"
