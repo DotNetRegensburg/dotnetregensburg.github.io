@@ -4,7 +4,6 @@ date: 2025-09-24 18:00:00
 location: Syskron
 thumbnail: kennyp.jpg
 title: "Cloud Native meets AI: moderne Backends bauen mit .NET Aspire und Microsoft.Extensions.AI"
-doodle: dxd2ax9pkwcgqsz8
 speaker:
   name: Kenny Pflug
   description: Kenny Pflug ist Senior Software Engineer bei der TELIS/GWVS und studierte Informatik an der OTH Regensburg. Seine Interessen liegen in den Gebieten Cloud Native .NET Backends mit integrierten AI-Schnittstellen, Software Development mit AI Coding Tools, .NET Internals und Performanceoptimierung. In seiner Freizeit betreut er einige Open Source Projekte wie Light.GuardClauses, ansonsten wandert er mit seiner Frau gerne durch bayerische und deutsche Wälder.
