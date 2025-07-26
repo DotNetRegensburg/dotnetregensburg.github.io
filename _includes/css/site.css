@@ -10,6 +10,10 @@ div.little-space {
 	font-size: 1.25em; /* Adjust as needed */
 }
 
+.logo-margin {
+	margin: 0 1em;
+}
+
 img.colorize-on-hover {
 	-webkit-filter: grayscale(1);
 	-webkit-filter: grayscale(100%);

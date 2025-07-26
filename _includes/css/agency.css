@@ -332,12 +332,6 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
-@media(min-width:768px) {
-    section {
-        padding: 150px 0;
-    }
-}
-
 .service-heading {
     margin: 15px 0;
     text-transform: none;

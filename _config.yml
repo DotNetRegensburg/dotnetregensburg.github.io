@@ -93,13 +93,13 @@ sponsors:
   top:
     - name: "CONCEPTNET GmbH"
       link: http://www.conceptnet.de/
-      logo: conceptnet.gif
+      logo: conceptnet.png
     - name: "Krones.digital"
       link: https://krones.digital
       logo: Krones.digital.png
     - name: "IT-Speicher Regensburg"
       link: http://www.it-speicher.de/
-      logo: itspeicher.gif
+      logo: itspeicher.png
   middle:
     - name: "dotnetpro"
       link: http://www.dotnetpro.de/
