@@ -94,45 +94,33 @@ sponsors:
     - name: "CONCEPTNET GmbH"
       link: http://www.conceptnet.de/
       logo: conceptnet.gif
-    - name: "dotnetpro"
-      link: http://www.dotnetpro.de/
-      logo: dotnetpro.gif
+    - name: "Krones.digital"
+      link: https://krones.digital
+      logo: Krones.digital.png
     - name: "IT-Speicher Regensburg"
       link: http://www.it-speicher.de/
       logo: itspeicher.gif
+  middle:
+    - name: "dotnetpro"
+      link: http://www.dotnetpro.de/
+      logo: dotnetpro.gif
     - name: "Pluralsight"
       link: http://www.pluralsight-training.net/
       logo: pluralsight.png
-  middle:
-    - name: "IGZ Logistics & IT GmbH"
-      link: http://www.igz.com/
-      logo: igz-logistik.jpg
-    - name: "initPRO GmbH"
-      link: http://www.initpro.de/
-      logo: initpro.jpg
     - name: "IHK Regensburg"
       link: http://www.ihk-regensburg.de/
       logo: ihk.gif
   ads:
+    - name: "initPRO GmbH"
+      link: http://www.initpro.de/
+      logo: initpro.jpg
     - name: "combit Software"
       link: https://www.combit.net/
       logo: combit.gif
     - name: "JetBrains ReSharper"
       link: https://www.jetbrains.com/resharper/
       logo: resharper.gif
-    - name: "SQLDog Utility Suite"
-      link: http://www.sqldog.com/
-      logo: sqldog.gif
-  bottom:
-    - name: "Community Leader/Insider Program"
-      link: http://www.microsoft.com/germany/community/programme/clip.mspx
-      logo: clip.png
-    - name: "International .NET Association"
-      link: http://www.ineta.org
-      logo: ineta.gif
-    - name: "WESQ GmbH & Co. KG"
-      link: http://www.wesq.de/
-      logo: wesq.jpg
+
 
 
 # Build settings
