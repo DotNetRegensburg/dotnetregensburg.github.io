@@ -22,3 +22,7 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+
+# ICS file
+*.ics
+

@@ -1,47 +1,69 @@
+import datetime
 import logging
 import os
-import sys
 from pathlib import Path
 
-import arrow
+import colorlog
 import yaml
-from dateutil import tz
 from dotenv import load_dotenv
-from ics import Calendar, Event
+from ics import Calendar, DisplayAlarm, Event, Organizer
+from pydantic import ValidationError
 
 from event_schema import EventData
 
 
 class CalendarGenerator:
   def __init__(self):
-    self.logger = self._get_logger_config()
+    self.logger = self._get_logger_config(logging.INFO)
 
-    # Load environment variables from .env file
+    self.logger.debug("Initializing CalendarGenerator")
+
+    self.logger.debug("Loading environment variables")
     load_dotenv()
 
-    # Get environment variables and validate they are not empty
-    env_posts_dir = os.getenv("POSTS_DIR")
-    env_output_ics_file = os.getenv("OUTPUT_ICS_FILE")
+    self.posts_dir: Path = Path(os.getenv("POSTS_DIR", "../_posts"))
+    self.output_ics_file: Path = Path(
+      os.getenv("OUTPUT_ICS_FILE", "dotnet-regensburg.ics")
+    )
+    self.organizer = Organizer(
+      common_name="DotNet UserGroup Regensburg", email="info@dotnet-regensburg.de"
+    )
+    self.talks_url: str = "https://dotnetregensburg.github.io/archive/"
+    self.alarm: DisplayAlarm = DisplayAlarm(trigger=datetime.timedelta(minutes=15))
 
-    if not env_posts_dir or str(env_posts_dir).strip() == "":
-      self.logger.error("POSTS_DIR environment variable is not set or empty")
-      sys.exit(1)
+    self.logger.debug("Finished loading environment variables successfully")
 
-    if not env_output_ics_file or str(env_output_ics_file).strip() == "":
-      self.logger.error("OUTPUT_ICS_FILE environment variable is not set or empty")
-      sys.exit(1)
+  def _get_logger_config(self, level: int = logging.INFO) -> logging.Logger:
+    """
+    Configures and returns a logger instance for the current module.
 
-    self.posts_dir: str = env_posts_dir
-    self.output_ics_file: str = env_output_ics_file
+    Returns:
+      logging.Logger: Configured logger instance.
+    """
+    log_output_handler = colorlog.StreamHandler()
+    log_output_handler.setFormatter(
+      colorlog.ColoredFormatter(
+        "%(log_color)s%(asctime)s %(levelname)-8s%(reset)s %(message_log_color)s%(message)s",  # noqa: E501
+        datefmt="%H:%M:%S",
+        log_colors={
+          "DEBUG": "white",
+          "INFO": "green",
+          "WARNING": "yellow",
+          "ERROR": "red",
+          "CRITICAL": "bold_red,bg_white",
+        },
+        secondary_log_colors={
+          "message": {
+            "ERROR": "red",
+            "CRITICAL": "bold_red,bg_white",
+          }
+        },
+      )
+    )
 
-  def _get_logger_config(self) -> logging.Logger:
     logger = logging.getLogger(__name__)
-    logger.setLevel(logging.INFO)
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)
-    formatter = logging.Formatter("[%(levelname)s] %(message)s")
-    console_handler.setFormatter(formatter)
-    logger.addHandler(console_handler)
+    logger.setLevel(level)
+    logger.addHandler(log_output_handler)
 
     # Optional file logging (uncomment to enable)
     # file_handler = logging.FileHandler('calendar_generator.log')
@@ -61,60 +83,144 @@ class CalendarGenerator:
     Returns:
       Calendar: A Calendar object containing all generated events.
     """
-    calendar = Calendar()
+    calendar = Calendar(creator=self.organizer.common_name)
 
-    for filename in Path(self.posts_dir).rglob("*.md"):
-      event = self._create_calendar_event(filename)
+    for filename in sorted(self.posts_dir.rglob("*.md")):
+      try:
+        event = self._create_calendar_event(filename)
+      except (ValidationError, ValueError):
+        self.logger.warning(
+          f"Skipping event creation for file {filename} due to validation error."
+        )
+        continue
+
       calendar.events.add(event)
 
     return calendar
 
   def _create_calendar_event(self, filename: Path) -> Event:
+    """
+    Creates a calendar event from the given file.
+
+    Args:
+      filename (Path): The path to the file containing event data.
+
+    Returns:
+      Event: The constructed calendar event.
+
+    Raises:
+      ValueError: If the event date is missing or None.
+    """
     with open(filename, encoding="utf-8") as file:
       file_content = file.read()
       event_data = self._parse_event_data(file_content)
 
     if event_data.date is None:
-      self.logger.error("Event date is missing or None")
-      sys.exit(1)
+      raise ValueError("Event date is missing or None")
 
-    begin_time = arrow.get(event_data.date)
-    end_time = begin_time.shift(hours=1, minutes=30)  # Default duration of 1.5 hours
+    self.logger.debug(f"Parsed event data from file {filename.name}")
+
+    # Set default event duration to 2 hours
+    end_time = event_data.date.shift(hours=2)
+
+    if (event_data.location is None) or (event_data.location.strip() == ""):
+      event_data.location = "<No Location Provided>"
 
     event = Event(
       name=event_data.title,
-      begin=begin_time,
+      begin=event_data.date,
       end=end_time,
       location=event_data.location,
-      description=event_data.description,
+      description=self._build_description_string(event_data),
+      organizer=self.organizer,
+      url=self.talks_url,
+      alarms=[self.alarm],
     )
 
     return event
 
   def _parse_event_data(self, file_content: str) -> EventData:
+    """
+    Parses event data from a file content string.
+
+    Args:
+      file_content (str): The content of the event file.
+
+    Returns:
+      EventData: The parsed EventData.
+
+    Raises:
+      ValueError: If event validation fails due to invalid or missing required fields.
+    """
     file_parts = [part for part in file_content.split("---") if part.strip()]
 
     yaml_data = yaml.safe_load(file_parts[0]) if file_parts else {}
     try:
       event_data = EventData(**(yaml_data or {}))
-    except ValueError as e:
-      self.logger.error(f"Event validation failed: {e}")
-      sys.exit(1)
+    except ValidationError as e:
+      for err in e.errors():
+        self.logger.error(f"Event validation failed: {err['msg']}")
+      raise
 
     if len(file_parts) < 2 and event_data.layout == "talk":
       self.logger.warning(f"Event {event_data.title} does not contain talk description")
     else:
       event_data.description = file_parts[1].strip() if len(file_parts) > 1 else ""
 
-    self.logger.debug("Parsed event data from file")
-
     return event_data
 
+  def _build_description_string(self, event_data: EventData) -> str:
+    """
+    Constructs a formatted description string for an event.
 
-# Example usage
+    Args:
+      event_data (EventData): The event data.
+
+    Returns:
+      str: A formatted multi-line string describing the event and speaker.
+    """
+    description_lines = []
+
+    if event_data.description:
+      description_lines.append(f"{event_data.description}\n")
+
+    if event_data.speaker and event_data.speaker.name:
+      description_lines.append(f"Speaker: {event_data.speaker.name}\n")
+      if event_data.speaker.description:
+        description_lines.append(f"{event_data.speaker.description}\n")
+
+      if event_data.speaker.social:
+        social_links = "\n".join(
+          f"- {link.title}: {link.url}"
+          for link in event_data.speaker.social
+          if link.url
+        )
+        if social_links:
+          description_lines.append(f"\nSocial Links:\n{social_links}")
+
+    description = "\n".join(description_lines)
+    return description
+
+  def store_calendar_file(self, calendar: Calendar):
+    """
+    Stores the given Calendar object as an ICS file.
+
+    Args:
+      calendar (Calendar): The Calendar object to be serialized and stored.
+    """
+    if self.output_ics_file.exists():
+      self.output_ics_file.unlink()
+
+    with open(self.output_ics_file, "x", encoding="utf-8") as ics_file:
+      ics_file.writelines(calendar.serialize())
+
+    self.logger.info(
+      f"Calendar file '{self.output_ics_file.name}' generated successfully."
+    )
+
+
+# Script execution
 if __name__ == "__main__":
   generator = CalendarGenerator()
-  generator._parse_event_data(
-    open(Path("../_posts/2025-11-20-avalonia.md"), encoding="utf-8").read()  # noqa: SIM115
-  )
-  # calendar = generator.create_calendar()
+  calendar = generator.create_calendar()
+  generator.store_calendar_file(calendar)
