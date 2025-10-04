@@ -147,7 +147,7 @@ class CalendarGenerator:
         f"Found {len(md_files)} markdown files in directory {self.posts_dir}"
       )
 
-    for filename in sorted(md_files):
+    for filename in sorted(md_files, key=lambda file: file.name):
       try:
         event = self._create_calendar_event(filename)
       except (ValidationError, ValueError):
