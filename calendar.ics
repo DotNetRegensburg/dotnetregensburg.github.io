@@ -1,0 +1,1834 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:DotNet UserGroup Regensburg
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Kein anderes Feld ist so kurzlebig wie Webentwicklung. Neben neuen Frontendtechnologien und interessanten Gestaltungsmöglichkeiten für das Backend spiegelt sich hier der Innovationsgrad v.a. durch das Node.js Ecosystem und dem damit verbundenen Tooling wieder.\n\nIn diesem Vortrag machen wir einen kurzweiligen Rundgang durch moderne\, jedoch etablierte Tools und Prinzipien für Webentwicklung im Jahr 2018.\n\nKonkret werden wir uns u.a. mit folgenden Themen befassen:\n\n- Functional Programming und Data-Driven Development (u.a. React)\n- Transpiler und Compilation (u.a. TypeScript)\n- Bundlers und Task Runners (u.a. Webpack)\n\nAls Ziel für diesen Talk wollen wir eine kleine WebApp von der Idee zu "Production" bringen.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K008 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für Getränke ist gesorgt.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist promovierter Physiker und arbeitet als Solution Architect im IoT Bereich. Sein Portfolio umfasst u.a. auch High Performance Computing und die Entwicklung verteiler Webapplikationen. Florian ist Microsoft MVP im Bereich Visual C# / Development Tools und schreibt regelmäßig Artikel für CodeProject\, tuts+ und SitePoint.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20180327T193000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20180327T173000Z
+SUMMARY:Webentwicklung im Jahr 2018
+UID:ab9073b2-f3a5-425d-9d5a-f5b4b037befa@ab90.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit dem bevorstehenden Release von Visual Studio 2010 erfährt auch die Sprache C# eine Aktualisierung - C# 4.0. Der Vortrag beleuchtet die Neuerungen in C# 4.0\, darunter das Schlüsselwort dynamic und die damit verbundenen Vereinfachungen zur Interaktion mit COM-Objekten und dynamischen Sprachen\, benannte und optionale Parameter\, Contra- und Covarianz\, sowie Neuerungen in der Base Class Library.\n\nSpeaker: Jörg Jooss\n\nJörg Jooss unterstützt als Software-Architekt im Microsoft Technology Center (MTC) in München Microsoft-Kunden und -Partner beim Entwurf und der Erstellung .NET-basierter Lösungen. Zu seinen Interessensschwerpunkten zählen die Entwicklung verteilter Anwendungen\, Entwurfsmuster und Entwicklungsmethoden. Bevor er im Jahr 2005 zu Microsoft kam\, war er über viele Jahre als Technologie-Berater für eine international führende Unternehmensberatung tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Joerg_Jooss
+DTEND:20100311T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100311T190000Z
+SUMMARY:C# 4.0
+UID:e723532e-f1bf-489a-9feb-548d71fe9d95@e723.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Praktischer Teil zum Fachvortrag mit dem Thema "Software als System".\n\nSpeaker: Ralf Westphal\n\nRalf ist ein international anerkannter Sprecher auf Konferenzen und vielen wahrscheinlich auch durch seine unterhaltsamen und informativen "dotnet TV" Sendungen bekannt.\n\n\nSocial Links:\n- rss: http://www.ralfw.de/profil.html
+DTEND:20080929T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080929T183000Z
+SUMMARY:Software als System
+UID:354a7aba-0c1e-49f7-842d-8d2fc51bbcda@354a.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Agenda:\n\n- Pages and User Interface\n- Data Search and Retrieval\n- Dealing with External Data\n- Visual Studio 2010 SharePoint Integration Solution Deployment A Platform ?\n\nSpeaker: Sven Maier\n\nDipl.-Infom.(FH) Sven Maier (40) ist seit März 2008 Architekt im Microsoft Technology Center der Developer Platform &amp\; Strategy Group. In dieser Funktion entwirft und entwickelt er mit Softwareherstellern und Enterprise Kunden Lösungen auf der Microsoft Office SharePoint Platform. Nach seinem Abschluss an der Fachhochschule Furtwangen war er als Software-Entwickler im Datenbank-Umfeld tätig\, um dann vor elf Jahren bei Microsoft im Bereich Developer Tools Support einzusteigen. Als langjähriger Consultant bei Microsoft hat er viele Kundenprojekte im Bereich der Microsoft Office SharePoint Plattform mitgestaltet.\n\n\nSocial Links:\n- rss: https://www.microsoft.com/germany/msdn/pingme/SvenMaier/default.aspx
+DTEND:20101216T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20101216T183000Z
+SUMMARY:SharePoint 2010 - eine Entwicklungs-Plattform?
+UID:2f7df655-f877-4fb3-9338-1f91fbb19323@2f7d.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Promi-Hochzeiten hat und wird es immer geben. Meist sind die beiden Partner erfolgreich und sexy. Als sich TFS und Git zueinander bekannten\, war die Skepsis groß. Er (der TFS) ist laut Gartner die führende ALM Plattform\, gilt aber als schwer und behäbig. Sie (Git) ist eine der angesagtesten Versionskontrollen unserer Zeit\, leicht und sexy! Würde diese Beziehung gut gehen? Diese Liebe hält nun schon seit mehr als einem Jahr und ist enger als je zuvor. \n                            \nGrund genug also\, um sich die Partnerschaft einmal näher anzusehen. Wer profitiert von wem? Und warum sind sie als Paar so außerordentlich erfolgreich?\n\nIn dieser Session erhalten Sie einen Eindruck über das Zusammenspiel von Git und TFS und sehen wie man als Entwickler von den Stärken der Beiden profitieren kann.\n\nSpeaker: Karsten Kempe\n\nKarsten Kempe ist ALM-Berater der conplement AG in Nürnberg. Er verfügt über langjährige Erfahrung in der Softwareentwicklung auf Basis der Microsoft Technologien und hat sich auf Themen rund um Microsofts Team Foundation Server spezialisiert. Er unterstützt Firmen bei der Einführung\, Anpassung und Verwendung des Team Foundation Servers\, tritt als Fachautor\, Blogger und als Sprecher auf Konferenzen in Erscheinung.\n\n\nSocial Links:\n- rss: http://almsports.net/
+DTEND:20140618T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140618T180000Z
+SUMMARY:TFS loves Git
+UID:99cbf395-c64f-4f99-8d95-38934258a94d@99cb.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Domain-Driven Design ist in aller Munde. Doch was ist das eigentlich? Es ist eine Herangehensweise an die Modellierung komplexer Fachlichkeiten. Domain-Driven Design ist nicht nur eine Technik oder Methode. Es ist vielmehr eine Denkweise und Priorisierung zur Steigerung der Produktivität von Softwareprojekten im Umfeld komplexer fachlicher Zusammenhänge.\n\nAnhand praktischer Beispiele zeigt der Vortrag die grundsätzlichen Ideen von Domain-Driven Design und einige Designpatterns unter .NET\, die im DDD-Umfeld hilfreich sind.\n\nSpeaker: Gregor Biswanger\n\nGregor Biswanger (Microsoft MVP für Windows Platform Development & Intel Black Belt) ist Gründer von CleverSocial.de und freier Consultant\, Trainer\, Autor und Speaker. Seine Schwerpunkte liegen im Bereich der Softwarearchitektur\, agilen Prozessen\, XAML\, Cross-Plattform-Apps und Cloud-Lösungen. Zu diesen Themen veröffentlicht er regelmäßig Videotrainings bei video2brain. Biswanger ist auch im Auftrag von Intel GmbH als Technologieberater für die Intel Developer Zone aktiv und ist Leader bei der INdotNET (Ingolstädter .NET Developers Group).\n\n\nSocial Links:\n- rss: http://about.me/gregor.biswanger\n- rss: http://dotnet-blog.net/
+DTEND:20151214T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20151214T180000Z
+SUMMARY:.NET-Architektur: Einführung in Domain-Driven Design
+UID:6daebf85-c7b3-4540-af54-74a3c081e025@6dae.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Ein Vorgehensmodell ist nur gut\, wenn es mit der unverrückbaren Realität des Tagesgeschäfts zusammenpasst. Zur der gehören bei der Softwareentwicklung leider unvorhersehbare Unterbrechungen und ständiger Sinneswandel des Kunden. Scrum und Kanban als Hauptvertreter agiler Vorgehensmodelle adressieren diese Realität nur halbherzig\, wenn überhaupt. Ihr Ideal ist der Entwickler\, der sich über mehrere Tage oder Wochen auf die Umsetzung eines Plans konzentrieren kann. \n                        \nDass er dabei im Dialog mit dem Kunden stehen soll\, macht keinen Unterschied. Unterbrechungen unerwünscht. Anders beim Spinning\, das der Vortrag vorstellt. Spinning erhöht die Iterationsdrehzahl so stark\, dass ungeplante Kursänderungen kein Problem mehr darstellen. Ja\, sie werden geradezu zur Norm. Das passt besser zur vorherrschenden Projektkultur\, das hat Vorteile für die Entwickler\, das hat Vorteile für den Kunden und das hat Vorteile für die Codequalität.\n\nSpeaker: Ralf Westphal\n\nRalf ist ein international anerkannter Sprecher auf Konferenzen und vielen wahrscheinlich auch durch seine vielen Fachartikeln bekannt.\n\n\nSocial Links:\n- rss: http://blog.ralfw.de/
+DTEND:20130506T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130506T180000Z
+SUMMARY:Spinning als Kern für das agile Vorgehen
+UID:b2b01128-03d2-4bfd-a173-448292a292cb@b2b0.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit Vorher-Nachher-Beispielen wird gezeigt\, wie mit ein paar Kniffen selbst grobe Fehler vermieden und tolle Effekte erzielt werden können.\n\nSpeaker: Bernhard Pichler\n\nBernhard ist Autor zahlreicher Artikel in Fachzeitschriften und Sprecher auf verschiedenen Konferenzen.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Bernhard_Pichler
+DTEND:20100114T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100114T183000Z
+SUMMARY:User Interface - HOW to WOW
+UID:5e61b5fc-eb76-478f-9046-79b2e018d1f6@5e61.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit Windows 8 steht im Gegensatz zu den bisherigen Windows-Versionen\, die Bedienung mittels Touchscreen im Vordergrund. Dazu wurde eine neue Oberfläche als Startscreen integriert\, die sich an der Gestaltung von Windows Phone 7 orientiert. Diese läuft unter einer neuen Laufzeitumgebung namens Windows Runtime (WinRT).\n\nDieser Vortrag gibt einen Überblick über die Neuerungen von Windows 8 und zeigt die Unterschiede von WinRT im Vergleich von WPF und Silverlight und was alles für den Start für C#-Entwickler wichtig ist.\n\nSpeaker: Gregor Biswanger\n\nGregor Biswanger (Microsoft MVP für Client App Dev) arbeitet als Solution Architect und XAML Experte bei der Firma impuls Informationsmanagement GmbH aus Nürnberg. Seine Schwerpunkte liegen im Bereich der .NET-Architektur\, XAML und agilen Prozessen. Er veröffentlichte vor kurzem seine DVD mit Video-Trainings zum Thema "WPF 4.5 und Silverlight 5" bei Addison-Wesley von video2brain.\n\n\nSocial Links:\n- rss: http://www.dotnet-blog.net/
+DTEND:20121204T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20121204T183000Z
+SUMMARY:Roadshow: Windows 8 und WinRT - Erschaffe eine neue Welt
+UID:7303dce9-2d0d-476c-bfbd-fefaa59fa62a@7303.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Kurzfristig wurde Ihnen für den Nachmittag eine Besprechung abgesagt. Was anstellen mit der gewonnen Zeit? Wir hätten da eine Idee! Bauen Sie sich doch ein Test Lab auf\, um (Ihre) Software in einer größeren Umgebung zu testen\, zu debuggen und Erfahrungen zu sammeln. In vielen Unternehmen dauert es mehr als einen Nachmittag\, um spontan einen\, zwei oder zwanzig Server für diesen Zwecke zu erhalten. Dabei ist diese Flexibilität möglich! Und zwar durch Infrastructure-as-a-Service.\n\nIn 60 Minuten zeigt Ihnen Peter Kirchner in mehreren Demos\, wie Sie sich ein Test Lab mit mehreren Servern und virtuellen Netzwerken schnell und  kostengünstig in der Cloud mit Microsoft Azure aufbauen können und es so betreiben\, dass es auch im längeren Einsatz wirtschaftlich bleibt.\n\nSpeaker: Peter Kirchner\n\nPeter Kirchner ist Technical Evangelist bei der Microsoft Deutschland GmbH und beschäftigt sich primär mit den Themen Cloud Computing\, Windows 8 Entwicklung und den Technologien\, die zur Kommunikation über verteilte Systeme hinweg notwendig sind. In den letzten Jahren hat sich Peter Kirchner mit verschiedensten Technologien für Entwickler beschäftigt\, wobei Themen wie Anwendungskompatibilität für Windows-Anwendungen\, Microsoft Azure und die technische Betreuung von Microsoft Partnern einen besonderen Fokus besaßen. Vor seinem Einstieg bei Microsoft im Jahr 2008 war Peter Kirchner im Bereich der SharePoint-Entwicklung und -Anpassung im Kundenprojektgeschäft tätig.\n\n\nSocial Links:\n- rss: http://blogs.msdn.com/b/pkirchner/
+DTEND:20141208T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20141208T180000Z
+SUMMARY:Das eigene Test Lab! - mit Infrastructure-as-a-Service von Microsoft Azure
+UID:8361f579-df0c-4e72-8dc0-78bdc14cecf9@8361.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Microsoft hat vor kurzen eine neue Kinect Version mit einem entsprechendem neuen Windows SDK vorgestellt.\n\nLässt sich durch Kinect eine völlig neue User Experience herstellen oder ist das doch nur eine „Fuchtelsteuerung“? Passt das zu MS Office? In dieser Session tauchen wir in das Kinect SDK ein und schauen uns an wie dieses mit VSTO (Visual Studio Tools for Office) genutzt werden kann. \n\nEines verspricht dieser Vortrag mit Garantie\, es wird eine Benutzerinteraktion geben!\n                          \nFür seine Arbeit hat Lars Keller eine ebenso einfache wie starke Losung ausgegeben: „Lasst uns die Leute begeistern!“.\n\nSpeaker: Lars Keller\n\nFür Begeisterung sorgt er nicht nur als Leiter der IT Architekten - Entwicklung im s.t.a.r.t. Research & Development Team bei der H&D International Group\, sondern auch als Vortragender auf mehreren IT-Fachkonferenzen. Lars Keller ist darüber hinaus Leiter der .NET Developer Group Braunschweig\, Co-Lead von INETA Deutschland\, Trainer beim renommierten Fachverlag Galileo Press sowie Microsoft MVP für VSTO. Und das aus gutem Grund: Der diplomierte Wirtschaftsinformatiker beschäftigt sich seit mehr als 10 Jahren mit Microsoft-Technologie\, hat dabei die ASP-Classic-Anfänge miterlebt und die Entwicklung bis zu den .NET-Lösungen von heute mit verfolgt. Besonders intensiv beschäftigt sich der Software-Experte mit MS Office Entwicklungen (VSTO/OBA)\, Software Architektur und ist bekennender Visual Studio Team System Anhänger.\n\n\nSocial Links:\n- rss: http://blog.lars-keller.net/
+DTEND:20120316T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120316T180000Z
+SUMMARY:Kinect & VSTO
+UID:4da62bfc-aeac-41a4-acd5-830a2368a770@4da6.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Fachvortrag zum Thema "Software als System" von Ralf Westphal.\n\nSpeaker: Ralf Westphal\n\nRalf ist ein international anerkannter Sprecher auf Konferenzen und vielen wahrscheinlich auch durch seine unterhaltsamen und informativen "dotnet TV" Sendungen bekannt.\n\n\nSocial Links:\n- rss: http://www.ralfw.de/profil.html
+DTEND:20080526T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080526T183000Z
+SUMMARY:Software als System
+UID:bbcad2e7-d559-4f41-a2a2-33d13e778af6@bbca.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:* Ziele\n* Theorie\n* Praxis bei Microsoft\n* Praxis bei conplement\n* Ergebnisse conplement\n* Empfehlungen Microsoft / conplement\n\nSpeaker: Robert Eichenseer\n\nRobert Eichenseer ist seit langem in der Entwicklung von Applikationen auf Basis der Microsoft Technologien tätig. Aufgrund von Tätigkeiten mit wechselnden Rollen in internationalen Projekten kann er Anforderungen heutiger Softwareentwicklungen erfolgreich umsetzen und steuern. Er zählt Windows Azure\, die Cloud Computing Plattform von Microsoft\, zu seinen aktuellen Lieblingsthemen.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Robert_Eichenseer
+DTEND:20111110T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20111110T183000Z
+SUMMARY:Agile Entwicklung\; Ein Praxisbericht zum Einsatz von Pair Programming im echten Entwicklerleben mit Empfehlungen zur Durchführung
+UID:96e74e8a-3fb0-44d0-870b-bfbdea23995a@96e7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die Entwicklung von Apps ist nicht einfach und jede "Systemwelt" hat ihre eigenen Tools und Anforderungen. Ob mit Java und Eclipse für Android\, mit Objective-C und Xcode für iOS\, oder mit den Microsoft-Tools für die Windows-Welt.\n\nBei diesem Vortrag lernen Sie die vielfältigen Möglichkeiten der App-Entwicklung für alle gängigen Plattformen mit nur einer Programmiersprache kennen: HTML5 und JavaScript. Sie steigen mit den Grundlagen des Intel XDK ein und werden dann mit den wichtigsten Frameworks und Vorgehensweisen vertraut. Mit diesen Infos steigen Sie rasch auf zum versierten Cross-Plattform Entwickler.\n\nSpeaker: Gregor Biswanger\n\nGregor Biswanger (Microsoft MVP für Windows Platform Development & Intel Black Belt) ist Gründer von CleverSocial.de und freier Consultant\, Trainer\, Autor und Speaker. Seine Schwerpunkte liegen im Bereich der Softwarearchitektur\, agilen Prozessen\, XAML\, Cross-Plattform-Apps und Cloud-Lösungen. Zu diesen Themen veröffentlicht er regelmäßig Videotrainings bei video2brain. Biswanger ist auch im Auftrag von Intel GmbH als Technologieberater für die Intel Developer Zone aktiv und ist Leader bei der INdotNET (Ingolstädter .NET Developers Group).\n\n\nSocial Links:\n- rss: http://about.me/gregor.biswanger\n- rss: http://dotnet-blog.net/
+DTEND:20140918T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140918T180000Z
+SUMMARY:Einstieg in die Hybrid App Entwicklung
+UID:3c1fd60c-e79d-4555-8b04-772c2797072b@3c1f.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Software-Entwicklung für Microsoft SharePoint erfreut sich immer größerer Beliebtheit. Spätestens seit der diesjährigen Version 2010 ist SharePoint eine leistungsfähige Applikationsplattform\, für die Unternehmen kleine als auch sehr komplexe Anwendungen entwickeln.\n\nDer Vortrag richtet sich an Neulinge als auch gestandene SharePoint-Entwickler. Es wird gezeigt\, wie man für SharePoint 2010 und 2007 entwickelt\, und welche Neuerungen in Visual Studio 2010 für die SharePoint-Entwicklung enthalten sind.\n\nUnd damit jeder gleich danach mit der SharePoint-Entwicklung loslegen kann\, wird die auf Codeplex verfügbare SPSF SharePoint Software Factory vorgestellt\, die von Torsten Mandelkow und seinem Team entwickelt wurde [spsf.codeplex.com](http://spsf.codeplex.com).\n\nSpeaker: Torsten Mandelkow\n\nTorsten Mandelkow ist bei der Steria Mummert Consulting AG als Principal Consultant im SharePoint Umfeld tätig. Durch seine langjährige Tätigkeit als Projektleiter und Architekt für eine Vielzahl von MOSS 2007 Projekten kennt er die SharePoint-Entwicklung in allen Facetten und beschäftigt sich intensiv mit den Möglichkeiten der Automatisierung der SharePoint-Entwicklung.\n\n\nSocial Links:\n- rss: http://blogs.msdn.com/b/torstenmandelkow/
+DTEND:20101025T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20101025T190000Z
+SUMMARY:Entwicklung in SharePoint 2010
+UID:b135fc33-acac-44ab-8d90-30b69495e859@b135.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Unter dem Motto "NET(T) is es auf dem Gäubodenvolksfest"\, steht das Treffen im August. Wie alle Jahre findet in Straubing das zweitgrößte Volksfest Bayern's statt. Dies wollen wir zum Anlass nehmen\, um sich noch näher kennenzulernen und beim ein oder anderen Bier und Hendl zum Thema .NET zu diskutieren und Idee auszutauschen. Im Festzelt Krönner wurden für den 17.08.08 um 12:00 Uhr zwei Tische reserviert. Wer Interesse an einem Mittagessen in gemütlicher Umgebung hat und dabei auch noch ein wenig über .NET diskutieren will\, soll sich bitte \nunverbindlich unter treffen@dotnet-regensburg.de mit dem Betreff **Komme zum Volksfest** anmelden. Bitte gebt mir so früh wie möglich Bescheid\, da bei großem Interesse evtl. noch die Möglichkeit besteht einen dritten Tisch hinzuzunehmen.\n\nAgenda des Vortrags:\n\n- Grundlagen\n- Die Oracle Developer Tools (ODT.NET) für Visual Studio (.NET\, 2005\, 2008)\n- Oracle Providers for ASP.NET\n- Change Notification\n- Oracle Data Provider for .NET (ODP.NET)\n- Best Practice zum Erreichen optimaler Performance\n- Oracle-Mehrwerte für .NET-Anwendungen\n- Skalierbarkeit und Hochverfügbarkeit für .NET mit Oracle Real Application \nClusters\n- Diskussion und Q & A\n\nSpeaker: Claus Jandausch und Markus Kissling\n\nBeide von der Oracle Deutschland GmbH.\n\n\nSocial Links:\n- rss: http://www.oracle.com/de/index.html
+DTEND:20080827T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080827T180000Z
+SUMMARY:Anwendungsentwicklung mit Oracle und .NET
+UID:baac3f88-c220-4727-8ac2-39c0b886ddad@baac.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Es gibt eine lange Liste möglicher Frontend-Fameworks\, zwischen denen .NET-Entwicklungsteams wählen können. Ein sehr \nspannender Kandidat ist Avalonia UI. Ursprünglich als Cross-Plattform Alternative zu WPF gestartet\, bietet es heute \nneben den bekannten Desktops von Windows\, macOS und Linux auch Unterstützung für mobile Plattformen (Android\, iOS)\, \nfür den Browser (via WebAssembly) und als Alleinstellungsmerkmal auch für Embedded Linux. Aufgrund der vielen \nunterstützen Plattformen und des vergleichbaren Ansatzes beim Rendering\, könnte man Avalonia UI auch das Flutter für \n.NET-Entwickler nennen.\n\nAvalonia UI setzt ähnlich wie das ältere WPF auf XAML\, es bevorzugt das MVVM-Pattern\, lässt sich über Styles \nindividuellen optischen Bedürfnissen anpassen\, hat ein besonderes Augenmerk auf Performance und ist gut in aktuelle\nIDEs wie Microsoft Visual Studio und JetBrains Rider integriert. Diese Eigenschaften machen das Framework besonders \nfür Teams interessant\, die Vorkenntnisse in WPF oder Windows.Forms haben oder sogar einen Migrationspfad für diese \nAnwendungen in die Cross-Plattform Welt suchen.\n\nIn dieser Session möchte ich zeigen\, was Avalonia UI stand heute zu bieten hat. Ebenso bringe ich verschiedene \nBeispiel-Applikationen mit\, mithilfe derer wir uns mit Vor- und Nachteilen des Frameworks auseinandersetzen können.\n\nSpeaker: Roland König\n\nRoland König ist freier Software Engineer. Er ist seit 2007 in der Welt von C# / .NET zuhause und beschäftigt sich seit 2012 intensiv mit aktuellen Trends im Umfeld moderner Softwarearchitektur. Sein Leistungsspektrum reicht von Softwarearchitektur-Beratung und Softwareentwicklung bis hin zu Entwickler-Trainings und der Führung von Projektteams. Er engagiert sich ebenso stark in der Community als Sprecher auf Konferenzen\, Autor für Fachzeitschriften\, Blogger\, Entwickler für OpenSource-Projekte und als Co-Organisator des DCN (Digital Craftsmanship Nordoberpfalz). 2025 wurde er vom Avalonia-Team als Avalonia-MVP ausgezeichnet.\n\n\nSocial Links:\n- rss: https://www.rolandk.de/\n- linkedin: https://www.linkedin.com/in/roland-koenig/
+DTEND:20251120T200000Z
+LOCATION:Syskron
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20251120T180000Z
+SUMMARY:Avalonia UI - Cross-Plattform Desktop Apps mit .NET
+UID:58f2da12-2b07-4ccc-9e92-43f5e022f9b5@58f2.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Ähnlich wie es beim SQL Server 2005 der Fall war\, bringt auch der SQL Server 2008 wieder eine ganze Vielfalt an Neuerungen und zusätzlichen Features mit sich. Insbesondere werden neben den traditionell von einer Datenbank unterstützten Datentypen mit dem SQL Server 2008 auch neue Datentypen für das Handling von unstrukturierten Daten und von Geodaten eingeführt.\n\nDieser Vortrag gibt einen Überblick über die Neuerungen und Ideen für Anwendungs- und Einsatzmöglichkeiten. Der Schwerpunkt liegt dabei auf dem Thema „Beyond Relational“.\n\nSpeaker: Constantin Klein\n\nConstantin arbeitet als Anwendungsarchitekt und Entwickler bei der Freudenberg Forschungsdienste KG. Dort beschäftigt er sich hauptsächlich mit dem Design und der Entwicklung von Web-Informationssystemen und Datenbanken. Seit seinem Studium der Wirtschaftsinformatik gilt sein besonderes Interesse darüber hinaus allen aktuellen Themen im Microsoft .NET Umfeld\, insbesondere aber dem Thema Softwarearchitektur. Er ist MCSD\, MCTS für SQL Server 2005 und MCPD Web + Enterprise Application Developer. Er engagiert sich zusätzlich im Vorstand des Just Community e.V. und als Leiter der .NET User Group Frankfurt.\n\n\nSocial Links:\n- rss: http://kostjaklein.wordpress.com/
+DTEND:20100426T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100426T183000Z
+SUMMARY:SQL Server 2008 - Ein Überblick für Entwickler
+UID:d46507dd-8ae4-42a6-ae25-fea7b24fbb0f@d465.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Animationen\, wohin das Auge schaut: wir sind umgeben von touchfähigen Smartphones\, Tablets und Computern\, die auf Eingaben schnell reagieren und durch ansprechende Formen und Bewegungen eine neue Lebendigkeit auf den Bildschirm zaubern. Apple macht seine Designmerkmale zum stärksten Argument seiner Marke und auch Microsoft revolutioniert seine User Interfaces bei Windows Store und Windows Phone Apps mit Modern UI.\n\nViele der jetzigen Line-of-Business Applikationen im Microsoftumfeld sind jedoch häufig Desktopapplikationen\, die auf der Windows Presentation Foundation (WPF) basieren. Können auch hier die Merkmale von "Fast and Fluent UI"\, die bei Windows Store Apps allgegenwärtig sind\, eingesetzt werden\, um eine bessere User Experience zu generieren?\n\nDieser Vortrag geht der Frage nach: "Welche Aspekte machen eine gut und schnell reagierende Benutzeroberfläche aus?". Wir schauen uns an\, welche Bordmittel .NET\, Visual Studio und Blend mitbringen\, um ein "Responsive\, Fast and Fluent" User Interface mit der Windows Presentation Foundation zu bauen und welche Unterschiede zwischen den Frameworks WinRT und WPF zu beachten sind.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug studierte Informatik an der Ostbayerischen Technische Hochschule Regensburg und ist aktuell Promovend und wissenschaftlicher Mitarbeiter. In Kooperation mit der Universität Regensburg forscht er an User Interface Konzepten für mobile Medizinapplikationen. Er ist besonders interessiert in den Themengebieten User Experience / User Interface Design\, Softwarearchitektur\, Clean Code sowie Test-Driven Development.\n\n\nSocial Links:\n- github: https://github.com/feO2x\n- xing: https://www.xing.com/profile/Kenny_Pflug\n- youtube: https://www.youtube.com/channel/UCfS1gb_r6GUfPd1EV82aBzg\n- twitter: https://twitter.com/feo2x
+DTEND:20140224T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140224T190000Z
+SUMMARY:Fast and Fluent UI in WPF
+UID:e82cb94e-d423-41b6-97b4-1aee1cdaf7d0@e82c.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im Juni 2016 wurde die Open Source Library Light.GuardClauses zum ersten Mal veröffentlicht und in diesem Talk erzählt der Autor aus dem Nähkästchen\, wie der Open Source Alltag in Microsofts .NET Umfeld aussieht. Neben einer kurzen Einführung\, was Light.GuardClauses überhaupt macht\, schauen wir uns brandaktuelle Themen an:\n\n- Wie setzt man das neue csproj-Format von MSBuild 15 ein\, um mit einem Projekt mehrere Zielframeworks zu bedienen?\n- Wie kann man den Open Source C# Compiler Roslyn einsetzen\, um Code automatisiert zu erzeugen und zu validieren?\n- Wie wurde die Performance der Library optimiert mithilfe von Benchmark.NET?\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K002 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug ist Senior Software Developer bei der Synnotech AG und Doktorand an der Universität Regensburg. Dort forscht er an der Deserialisierung von komplexen Objektgraphen ohne den Einsatz von Data Transfer Objects. Seit 2009 entwickelt er im Microsoft .NET Umfeld und ist besonders interessiert in den Themen objektorientierte Design Patterns und Principles\, Domain-Driven Design und Event-Architekturen\, asynchrone Programmierung\, Entwicklungsprozesse sowie Performanceoptimierung. Er ist Autor der Open Source Library Light.GuardClauses\, mit der Methodenparameter einfach validiert werden können.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20181210T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20181210T180000Z
+SUMMARY:Open Source mit .NET
+UID:19ee50ad-561d-43e0-bcfc-27580316c1ec@19ee.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Automatisierte Tests und Test-Driven-Development sind spätestens seit dem Aufstieg agiler Methoden bei vielen Softwareentwicklern bekannt – doch wie setzt man diese Techniken effizient im Programmieralltag ein?\n\nDirekt am Codebeispiel in Visual Studio wird gezeigt\, welche Frameworks wir im .NET Umfeld einsetzen können\, um automatisierte Tests schreiben und ausführen zu können\, wie man Tests in den täglichen Arbeitsablauf integrieren kann\, auf welche Testtypen man üblicherweise stößt\, was TDD genau bedeutet und welche Vor- und Nachteile mit dem Schreiben automatisierter\, regressiver Tests einhergehen.\n\nDes Weiteren werden einige objektorientierte Prinzipien und Design Patterns gezeigt\, die wir nutzen können\, um unseren Testcode gut strukturiert und leicht wartbar zu halten.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug studierte Informatik an der Ostbayerischen Technische Hochschule Regensburg und ist aktuell Promovend und wissenschaftlicher Mitarbeiter. In Kooperation mit der Universität Regensburg forscht er an User Interface Konzepten für mobile Medizinapplikationen für den Notfalleinsatz. Er ist besonders interessiert in den Themengebieten User Experience / User Interface Design\, Software Engineering\, Clean Code sowie Test-Driven Development.\n\n\nSocial Links:\n- github: https://github.com/feO2x\n- xing: https://www.xing.com/profile/Kenny_Pflug\n- youtube: https://www.youtube.com/channel/UCfS1gb_r6GUfPd1EV82aBzg\n- twitter: https://twitter.com/feo2x
+DTEND:20150126T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150126T180000Z
+SUMMARY:Automatisierte Tests und TDD mit Visual Studio
+UID:0b0b09d0-485a-4838-b5bd-0de111629e54@0b0b.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:In dem Vortrag wird zunächst kurz erläutert was die WIF und AD FS 2.0 sind\, wofür sie verwendet werden können und wo die Vorteile gegenüber jetzigen Authentifizierungs- und Identitätslösungen liegen. Als nächstes folgt eine kurze Einführung in die Programmierung und Entwicklung mit der WIF. Im dritten Teil wird gezeigt\, wie die WIF zusammen mit den AD FS 2.0 verwendet werden können.\n\nSpeaker: Daniel Murrmann\n\nDaniel Murrmann hat an der FH Coburg Informatik studiert und hier seinen Abschluss als Dipl.-Inf. (FH) gemacht. Seine Diplomarbeit\, "Visualisierung von Datenbeständen"\, wurde als Buch veröffentlicht. Aktuell arbeitet er bei der AVL Software and Functions GmbH und ist dort im Bereich IT Infrastuktur tätig. Ab Februar wird er als freiberuflicher Software Architekt und Consultant arbeiten.\n\n\nSocial Links:\n- github: https://github.com/fancyDevelopment
+DTEND:20100225T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100225T190000Z
+SUMMARY:Windows Identity Foundation und Active Directory Federation Services 2.0 in Action
+UID:deae7e70-68ba-4f3d-904e-91bc1ae52799@deae.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Jesses! Man kann es bald nicht mehr hören\, diese neuen Hypes und Buzzwords. Aber ist wirklich alles nur Hype? \n                        \nChristian Weyer erzählt Ihnen in diesem Vortrag über die Ideen und Konzepte von Cloud Computing (die Windows Azure Platform hört sich cool an\, oder?)\, von mobile Computing (Sie haben doch sicherlich auch ein iPhone oder Android Phone oder Windows Phone 7?) sowie HTML5 & Co (na\, an dem scheinen sich ja die Geister zu scheiden!). Wenn man sich mal vom Analysten-Gesülze löst\, sieht man\, dass alle drei Trends sehr wohl großes Potential haben und gerade im Zusammenspiel extrem interessante Szenarien und Use Cases eröffnen. \n                        \nLehnen Sie sich also einfach zurück: Christian spricht ein bisserl über die  Zukunft\, zeigt diese aber teilweise schon heute.\n\nSpeaker: Christian Weyer\n\nChristian Weyer ist Solution Architect und Mitgründer von thinktecture\, einer Firma\, die Software-Architekten und -Entwickler beim Entwurf und der Implementierung verteilter Anwendungsarchitekturen unter Windows und .NET unterstützt. Seit vielen Jahren modelliert und realisiert er verteilte Lösungen auf Basis von COM/DCOM\, COM+\, Web Services\, WCF\, WF\, MSMQ und Java. Christian hat sich in letzter Zeit auf die Ideen und Konzepte von Service Orientierung\, Workflows und Cloud Computing konzentriert und hat dabei Technologien wie WCF\, WF\, Windows Azure und AppFabric umfangreich in Kundenprojekten eingesetzt. Seine Ansichten über Architektur und verteilte Anwendungen werden in der internationalen Community im Rahmen von Konferenzvorträgen\, User Group Treffen oder Blog-Einträgen geschätzt. Viele Kunden haben sich bereits in seine helfenden Hände begeben\, v.a. bei technischen Realisierungen mit WCF/WF und der Windows Azure Platform. Er ist Microsoft Most Valuable Professional (MVP) für Windows Azure [Architecture] und einer der unabhängigen Microsoft Regional Directors (RDs).\n\n\nSocial Links:\n- rss: http://weblogs.thinktecture.com/cweyer/
+DTEND:20110413T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110413T183000Z
+SUMMARY:Buzzword-Bingo: Cloud\, Mobile & HTML5 - lass mer mei Ruh'!?
+UID:630c8c4b-d87b-462a-b926-bc4bf30dd943@630c.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Silverlight\, das Browser-Plug-In für plattformunabhängige Rich Internet Applications (RIA)\, ist brandaktuell in der Version 4 erschienen und inzwischen eine Verbreitung von über 60% erlangt.\n\nDieser Vortrag beleuchtet generelle praktische Belange der Entwicklung und Bereitstellung von Silverlight 4-Applikationen\, z.B. die gemeinsame Nutzung von Formularauthentifizierung in ASP.NET und Silverlight oder das Deployment von Silverlight-Anwendungen ohne in HTTP-Caching-Fallen zu tappen – Kochrezepte\, die bei vielen Silverlight-Anwendungen genutzt werden können.\n\nSpeaker: Jörg Jooss\n\nJörg Jooss unterstützt als Software-Architekt im Microsoft Technology Center (MTC) in München Microsoft-Kunden und –Partner beim Entwurf und der Erstellung .NET-basierter Lösungen. Zu seinen Interessenschwerpunkten zählen die Entwicklung verteilter Anwendungen\, Entwurfsmuster und Entwicklungsmethoden. Bevor er im Jahr 2005 zu Microsoft kam\, war er über viele Jahre als Technologie-Berater für eine international führende Unternehmensberatung tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Joerg_Jooss
+DTEND:20100114T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100114T180000Z
+SUMMARY:Silverlight in der Praxis
+UID:0862ed0c-be0c-4869-a1fc-236ceaa6ea8a@0862.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Viele Applikationen werden in Laufzeiten ausgeführt\, in der ein Garbage Collector fester Bestandteil ist. Doch wie funktioniert dieses automatische Memory Management eigentlich intern? Basierend auf Konrad Korkosas neuestem Buch Pro .NET Memory Management werfen wir in diesem Talk einen genauen Blick unter die Haube des .NET Garbage Collectors\, dem Speicheraufbau eines .NET-Prozesses\, die verschiedenen Phasen eines GC-Durchlaufs und die unterschiedlichen Einstellungsmöglichkeiten. Zudem wird erklärt wie C#-Code möglichst GC-freundlich strukturiert werden kann und welche Tools zur Verfügung stehen\, um die GC-Performance zu messen.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K008 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug ist Senior Software Developer bei der Synnotech AG und Doktorand an der Universität Regensburg. Dort forscht er an der Deserialisierung von komplexen Objektgraphen ohne den Einsatz von Data Transfer Objects. Seit 2009 entwickelt er im Microsoft .NET Umfeld und ist besonders interessiert in den Themen objektorientierte Design Patterns und Principles\, Domain-Driven Design und Event-Architekturen\, asynchrone Programmierung\, Entwicklungsprozesse sowie Performanceoptimierung. Er ist Autor der Open Source Library Light.GuardClauses\, mit der Methodenparameter einfach validiert werden können.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20190508T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20190508T180000Z
+SUMMARY:Garbage Collector Internals
+UID:c0d454a1-9363-44e2-8970-1d920d98d497@c0d4.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Softwareentwicklung mag viele kooperative und soziale Facetten besitzen\, aber ein guter Handwerker muss ein Meister seiner Werkzeuge sein. Das verteilte Revisionskontrollsystem Git hat die verteilte Softwareentwicklung so stark wie kein anderes Werkzeug beeinflusst.\nNeben einigen - wissenschaftlich fundierten - Anmerkungen dazu\, was in der Softwareentwicklung von tatsächlicher praktischer Relevanz ist\, gehen wir vor allem auf empfehlenswerte Arbeitsabläufe mit Git ein\, und diskutieren technisch anspruchsvolle Anwendungsfälle\, die die maximale Leistung des Systems erschließen\, und zu einer deutlichen Produktivitätssteigerung führen können. Die Autoren stehen konkreten Fragen und einer Diskussion offen gegenüber.\n\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K013 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Prof. Dr. Wolfgang Mauerer\, Ralf Ramsauer\n\nProf. Dr. Wolfgang Mauerer leitet das Labor für Digitalisierung an der OTH Regensburg. Seine Forschungsgebiete umfassen quantitatives Softwareengineering\, eingebettete Systeme und Quantencomputing. Ralf Ramsauer ist Doktorand im Labor für Digitalisierung. Er befasst sich mit quantitativen Softwareengineering und safety-kritischen eingebetten Echtzeitsystemen. Erfahrung mit Git sammelte er nicht nur durch Beiträge im Linux Betriebssystemkern\, sondern auch als einer der Hauptentwickler des eingebetteten Echtzeithypervisors Jailhouse.\n\n\nSocial Links:\n- rss: https://hps.hs-regensburg.de/maw39987/#/home
+DTEND:20190402T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20190402T180000Z
+SUMMARY:Torturing Git for Fun and Profit
+UID:64319c17-619b-453b-9eed-15e1ae21c52a@6431.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Einige Software-Hersteller schaffen es bereits alle drei bis sechs Wochen neue Versionen zu releasen. Google Chrome und Microsofts Team Foundation Services sind nur zwei Beispiele. Aber wie gelingt es diesen Teams ständig neue Features zu veröffentlichen\, ohne dass die Qualität leidet oder der Testaufwand durch die Decke schießt? Der Vortrag zeigt\, wie sich agile Teams diesem Ziel Schritt für Schritt nähern können. \n\nDie ersten Etappen mit Code-Verwaltung und Integration-Builds sind oftmals schon etabliert. Die nächsten Schritte bedürfen einer Erweiterung des Repertoires um agile Prozesse\, Branching-Konzepte und automatisierte Tests. Experten-Tipps für automatisiertes Deployment\, Collaboration Tooling und Diagnose runden den Talk ab und inspirieren zu einem vollständigeren ALM.\n\nSpeaker: Sebastian Rölz\n\nSebastian Rölz ist als Technology Specialist für ALM bei der conplement AG tätig. Für die Beratung im ALM-Umfeld kommen seine umfangreichen Erfahrungen aus dutzenden Software-Projekten in den unterschiedlichsten Größen und Wirtschaftssektoren zur Geltung. In verschiedenen Rollen war der Microsoft Stack sein steter Begleiter. Spezialisiert hat er sich vor einigen Jahren auf das Application Lifecycle Management in Verbindung mit dem Microsoft Team Foundation Server. Er steht für pragmatische und flexible Lösungen für seine Kunden und sorgt dafür\, dass dabei das eigentliche Ziel nicht aus den Augen verloren wird.\n\n\nSocial Links:\n- twitter: https://twitter.com/sebastianroelz
+DTEND:20131218T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20131218T180000Z
+SUMMARY:ALM konkret "Die Aspekte des Application Lifecycle Management entdecken\, verstehen und nutzen"
+UID:d84f4acb-c280-4583-8b3b-dac866d85de2@d84f.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Ziel ist ein flexibles Portal\, über das innerhalb des Unternehmens Videos zur Schulung oder zum Informationsaustausch bereitgestellt werden können. Im ersten Schritt wird der Aufbau im SharePoint mit Hilfe von Standard SharePoint Komponenten und wie sich diese Miteinander verknüpfen lassen gezeigt.\n\nDazu zählen:\n\n- Taxonomie\n- Publishing\n- Listen und Bibliotheken\n- ...\n\nDas im ersten Schritt aufgebaute Portal wird danach um eine SharePoint App für den Upload erweitert und die UI mit Hilfe von einem CSS Frameworks angepasst. Zuletzt wird noch die Möglichkeit der Automatisierung mit Hilfe von Powershell Skripten aufgegriffen.\n\nSpeaker: Jürgen Schmailzl und Gunnar Krause\n\nJürgen Schmailzl ist Principal SharePoint Consultant bei der FRITZ & MACZIOL GROUP und seit mehr als zehn Jahren im SharePoint-\, BI- und .NET-Umfeld tätig. Der Dipl. Wirtschaftsinformatiker berät hauptsächlich in Projekten im Umfeld Collaboration\, ECM und Prozessmanagement. Gunnar Krause ist Senior Software Developer bei der evidanza AG. Er arbeitet seit ca. zwölf Jahren im .NET- und SharePoint-Umfeld. In der Produktentwicklung und bei Projekten liegt der Schwerpunkt auf BI\, SharePoint und Dynamics.\n\n\nSocial Links:\n- rss: http://evidanza.de/\n- rss: http://fum.de/
+DTEND:20150306T190000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150306T170000Z
+SUMMARY:SharePoint Video Portal
+UID:f8e2b025-49fb-45ce-b60f-81d1ff7b6f35@f8e2.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Trend geht weiter zu Webanwendungen. Facebook Twitter und Co. beweisen das diese Art von Anwendung die höchsten Potentiale bieten in kurzer Zeit große Mengen an Menschen zu erreichen. Im Web ist die Konkurrenz aber nur einen Click entfernt. Entsprechend muss immer die aktuellste Technologie\, das einfachste User Interface in kürzester Zeit implementiert werden.\n\nDieser Vortrag versucht auf außergewöhnlichen Weg Szenarien dafür aufzuzeigen. Zum Einsatz kommen alle aktuellen Technologien wie ASP.NET\, AJAX\, IIS7\, SQL Server\, Entity Framework\, Silverlight und mehr.\n\nSpeaker: Hannes Preishuber\n\nHannes Preishuber ist langjähriger Web Experte. Aus seiner Feder stammen Bücher von ASP bis zu ASP.NET. Microsoft honorierte sein Community Engagement mit dem ASP.NET MVP Titel. Heute liegt sein Focus auf Silverlight. In diesem Gebiet gehört er zu den Silverlight Insidern. Hauptberuflich führt er die Geschäfte der ppedv AG einem Microsoft fokussierten Unternehmen mit 45 Mitarbeitern und 10 Standorten.\n\n\nSocial Links:\n- rss: http://blog.ppedv.de/author/hannesp.aspx
+DTEND:20090917T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090917T183000Z
+SUMMARY:Die Web 2.0 Show
+UID:42e6f52d-bc2a-4caf-9b5d-2e00cf0cc3f5@42e6.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die mobile Nutzung des Internet wächst rasant. Es stellen sich Fragen nach Plattform und Device Unterstützung. \n\nDer Vortrag widmet sich diesem Aspekt aus Web Developer Sicht: Wie kann man mit Microsoft ASP.NET Technologie so einfach wie möglich Web Apps bauen? Spannend und nützlich sind einige neue Funktionen in ASP.NET 4.5. Dabei wird Hannes sehr pragmatisch vorgehen\, und folgende Themen ansprechen: User Experience\, Useablity\, Server vs. Client\, Responsive Sites\, Webforms Rendering\, Ajax\, Jquery\, Jquery mobile\, Performance\, Offline Storage.\n\nSpeaker: Hannes Preishuber\n\nHannes Preishuber\, ceo und Gründer der ppedv AG\, dem Marktführer in Microsoft Developer Trainings. Seit dem Tod von Silverlight hat er sich wieder ASP.NET zugewandt.\n\n\nSocial Links:\n- rss: http://blog.ppedv.de/
+DTEND:20131118T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20131118T180000Z
+SUMMARY:ASP.NET Web Apps
+UID:be620f5b-d360-4bb3-8e97-64315697c2f4@be62.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Softwareentwicklung mag viele kooperative und soziale Facetten besitzen\, aber ein guter Handwerker muss ein Meister seiner Werkzeuge sein. Das verteilte Revisionskontrollsystem Git hat die verteilte Softwareentwicklung so stark wie kein anderes Werkzeug beeinflusst.\nNeben einigen - wissenschaftlich fundierten - Anmerkungen dazu\, was in der Softwareentwicklung von tatsächlicher praktischer Relevanz ist\, gehen wir vor allem auf empfehlenswerte Arbeitsabläufe mit Git ein\, und diskutieren technisch anspruchsvolle Anwendungsfälle\, die die maximale Leistung des Systems erschließen\, und zu einer deutlichen Produktivitätssteigerung führen können. Die Autoren stehen konkreten Fragen und einer Diskussion offen gegenüber.\n\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K001 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Prof. Dr. Wolfgang Mauerer\, Ralf Ramsauer\n\nProf. Dr. Wolfgang Mauerer leitet das Labor für Digitalisierung an der OTH Regensburg. Seine Forschungsgebiete umfassen quantitatives Softwareengineering\, eingebettete Systeme und Quantencomputing. Ralf Ramsauer ist Doktorand im Labor für Digitalisierung. Er befasst sich mit quantitativen Softwareengineering und safety-kritischen eingebetten Echtzeitsystemen. Erfahrung mit Git sammelte er nicht nur durch Beiträge im Linux Betriebssystemkern\, sondern auch als einer der Hauptentwickler des eingebetteten Echtzeithypervisors Jailhouse.\n\n\nSocial Links:\n- rss: https://hps.hs-regensburg.de/maw39987/#/home
+DTEND:20190424T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20190424T180000Z
+SUMMARY:Wiederholung: Torturing Git for Fun and Profit
+UID:5a41fdcc-309a-4357-8b1c-5849b29fb3b3@5a41.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Cloud Computing ist in aller Munde\, aber welcher Cloud Service kann bzw. soll für welche Anforderung eingesetzt werden? Der Vortrag gibt einen Überblick über die von Windows Azure zur Verfügung gestellten Services und zeigt anhand einer End-To-End Lösung wie diese praxisnah und sinnvoll verwendet werden können. \n\nDer Vortrag geht über die klassische Präsentation und Auflistung von Cloud Dienste mit deren Funktionalität bzw. Vor- und Nachteilen hinaus. \n \nAnhand eines "Real-World" Beispiel wird eine Win8.1 App\, ein zugehöriges Backend mit Zugriff auf eine SQL Server Datenbank\, eine Desktop Maintenance Applikation sowie die Kommunikation aller Komponenten untereinander vorgestellt. Das Quick Start Template wurde von der User Group Nürnberg bereits eingesetzt\, um eine Win8.1 App zur Verfügung zu stellen\, die das VoD Archiv des DotNetDay Franken zugänglich macht. Alle Komponenten stehen im Source Code zur Verfügung und können als Basis für eigene Projekte und Applikationen verwendet werden.\n\nSpeaker: Robert Eichenseer\n\nRobert Eichenseer ist als Senior Programm Manager bei der Microsoft Corp. für Windows Azure tätig. Er unterstützt hierbei Kunden und Partner bei der Entwicklung und Konzeption von hochskalierenden und fehlertoleranten Cloud Systemen. Aufgrund seiner Arbeit in internationalen Projekten kann er Anforderungen heutiger Softwareentwicklungen erfolgreich umsetzen und steuern.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Robert_Eichenseer
+DTEND:20140122T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140122T180000Z
+SUMMARY:Windows Azure Services
+UID:8e901c66-49b2-4e82-b11a-31622a44c2a6@8e90.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im Januar hält Claus Jandausch seinen versprochenen Vortrag über "Stabilität und Performance mit Oracle auf Windows". Zusätzlich gibt es noch eine Übersicht über das Thema Oracle und Microsoft Sharepoint.\n\nAgenda:\n\n**Integration von Oracle ECM mit Microsoft Sharepoint** (Einführung)\n\n- Universal Content Management\n- Universal Record Management\n- Secure Enterprise Search\n- Information Rights Management\n- Übersicht und kurze Demo zu jedem der vier Integrationspunkte\n\n**Dauer: ca. 30 Minuten**\n\n**Stabilität und Performance mit Oracle auf Windows "aka" Windows Memory für Oracle DBAs und Entwickler** (Hauptteil)\n\n- Admin Tools für Oracle auf Windows\n- Windows Memory und die Oracle Datenbank\n- Windows-Limitierung im Kernel Memory und Seiteneffekte\n- Monitoring des Windows Memory\n- Akute Probleme im Kernel erkennen\n- Windows Server 2008 und Vista ab SP1\n\n**Dauer: ca. 120 Minuten**\n\nSpeaker: Claus Jandausch\n\nNone\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Claus_Jandausch
+DTEND:20090119T083000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090119T063000Z
+SUMMARY:Stabilität und Performance mit Oracle auf Windows
+UID:b2ee3b82-8476-4540-9aa7-0e0b8c1e4bf8@b2ee.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Rather than giving us a nice separation of concerns (assembly > namespace > class > method)\, there are times when OOP forces us to write crap - scattering\, tangling and coupling our code. \n                        \nGael Fraiteur\, SharpCrafters Founder and Principal Engineer\, will speak about the problem with conventional programming\, give a gentle introduction to AOP\, show how it works\, and why you should be using it to eliminate crap code from your life.\n\nSpeaker: Gael Fraiteur\n\nGael has been passionately programming since childhood. He envisioned building aspect-oriented software that would offer .NET developers the same productivity benefits as those enjoyed by the Java community. Gael's vision became a reality when\, in 2004\, he built and released PostSharp to the wild. PostSharp has steadily grown to become the most comprehensive aspect-oriented software for .NET available today. Gael lives with his wife and 3 kids in Prague\, Czech Republic.\n\n\nSocial Links:\n- twitter: https://twitter.com/gfraiteur
+DTEND:20110516T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110516T183000Z
+SUMMARY:Produce Cleaner Code with Aspect-Oriented Programming (AOP)
+UID:deb14d5f-55ce-418d-b400-efcd2f0db9c2@deb1.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Traum von einer einzigen Code-Basis für alle Client-Plattformen: er lebt immer noch – heute sogar mehr denn je. In dieser Session zeigt euch Christian Weyer wie weit dieser Traum Wirklichkeit werden kann mit Angular 2 und quelloffenen Cross-Plattform-Werkzeugen. Auf Basis moderner UI-Konzepte lassen sich Oberflächen für Desktops\, Tablets und Smartphones entwerfen. Mischt man diesen Ansatz mit Tools wie Cordova und Electron\, so kann man auf Basis des SPA Frameworks Angular 2 echte Anwendungen für alle relevanten Plattformen und Device-Größen bauen: Windows\, Linux\, MacOS\, iOS\, Android & Co. Kommt vorbei und seht all das in Action!\n\nBITTE BEACHTEN: Der Vortrag findet in der TechBase Regensburg statt (Franz-Meyer-Str. 1\, 93053 Regensburg).\n\nSpeaker: Christian Weyer\n\nChristian Weyer ist Gründer und Vorstand der Thinktecture AG sowie Google Developer Expert und Microsoft MVP. Er spricht seit knapp zwei Dekaden auf unterschiedlichsten Softwarekonferenzen und -Events weltweit - mit Leidenschaft und Engagement.\n\n\nSocial Links:\n- rss: http://weblogs.thinktecture.com/cweyer/
+DTEND:20161004T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20161004T180000Z
+SUMMARY:Für Browser\, Desktop & Mobile: Echte Cross-Plattform-Anwendungen mit Angular 2 – in Action!
+UID:645d8ae5-b934-449b-ba8e-71b17e701dca@645d.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Metro ist ein Design-Prinzip\, dessen Grundlagen bereits knapp 100 Jahre alt sind. Nach dem Einzug bei Xbox\, Zune und Phone 7 findet es jetzt auch bei Windows 8\, Visual Studio 11 und Office vNext Berücksichtigung.Was steckt dahinter? Was bedeutet das für uns Entwickler? Wie sollen Anwendungen in Zukunft aussehen? Wir gehen allgemeine Design-Grundlagen durch\, sprechen über Metro und seinen Ursprung und werfen am Ende einen Blick in einige "Migrationsprojekte". Dabei streifen wir die neusten Erkenntnisse aus der Usability Forschung.\n\nSpeaker: Bernhard Pichler\n\nBernhard Pichler ist Lehrbeauftragter der FH Deggendorf und Sprecher des Usability Netzwerkes EF.EU. Mit seiner Firma informare Consulting GmbH hat er bereits einige Projekte auf das Metro-Design umgestellt und schreibt für Microsoft Metro Anwendungen\, die mit dem Betriebssystem als Sample-Apps ausgeliefert werden.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Bernhard_Pichler
+DTEND:20120524T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120524T183000Z
+SUMMARY:Metro
+UID:ee4b65b2-376f-450a-b4e3-8d0773a9d6d2@ee4b.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Anwendungen auf mehrere Komponenten zu verteilen ist mittlerweile ein notwendiger Standard geworden. Jeder Entwickler\, der solch eine Infrastruktur zur dynamischen Erweiterung entworfen hat\, weiß dass die Implementierung sehr aufwendig werden kann. \n\nDas Managed Extensibility Framework (MEF) bietet hier Abhilfe. Schwerpunkt in diesem Vortrag: die Verwendung von Metadaten\, der Lifecycle der Composable Parts und das Debuggen von Applikatioen die MEF einsetzen.\n\nSpeaker: Stefan Henneken\n\nStefan Henneken ist seit 1997 Softwareentwickler im Bereich Automatisierungstechnik. Zuvor hat er Informationsverarbeitung an der Fachhochschule in Meschede studiert. Im Rahmen seiner Arbeit setzt er seit 2003 das .NET Framework ein.\n\n\nSocial Links:\n- rss: http://stefanhenneken.wordpress.com/author/stefanhenneken/
+DTEND:20111201T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20111201T183000Z
+SUMMARY:MEF - Das Managed Extensibility Framework
+UID:d201a3a2-0ae7-4f5b-8897-4b8b7834ccbb@d201.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:IoT mit Windows 10 und Azure\n\nJeder spricht über IoT und Big Data. Viele Analysten sehen IoT als „the next big thing“ und das Bundesforschungsministerium hat mit Industrie 4.0 nichts weniger als die 4. industrielle Revolution ausgerufen. Doch wie kann eine IoT bzw. Industrie 4.0 Lösung mit Microsoft Technologie aufgebaut\, erfolgreich betrieben und gewinnbringend eingesetzt werden? Wie kann ein „Predictive Maintenance Szenario“ realisiert werden? \n  \nDer Vortrag zeigt anhand von Source Code Beispielen und Prototypen die in Zusammenarbeit mit der Industrie erarbeitet wurden\, wie Microsoft Cloud Technologien wie z. B. Azure Event Hub\, Azure IoT Hub\, Azure Stream Analytics und Big Data Technologien zum Aufbau einer IoT Lösung eingesetzt werden können. Abgerundet wird der Vortrag mit Vorstellung diverser Mikrokontroller wie z. B. das Tessel Board\, Raspberry Pi 2 und 3 mit Windows 10 IoT und natürlich Arduino und Netduino Boards.\n\nBITTE BEACHTEN: Der Vortrag findet erstmals im Raum "Fahrenheit" im "neuen" IT-Speicher namens TechBase Regensburg in der Franz-Meyer-Str. 1 statt.\n\nSpeaker: Robert Eichenseer\n\nRobert Eichenseer ist als Senior Programm Manager bei der Microsoft Corp. für Windows Azure tätig. Er unterstützt hierbei Kunden und Partner bei der Entwicklung und Konzeption von hochskalierenden und fehlertoleranten Cloud Systemen. Aufgrund seiner Arbeit in internationalen Projekten kann er Anforderungen heutiger Softwareentwicklungen erfolgreich umsetzen und steuern.\n\n\nSocial Links:\n- rss: http://www.eichenseer.de/\n- twitter: https://twitter.com/reichenseer\n- xing: https://www.xing.com/profile/Robert_Eichenseer
+DTEND:20160314T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160314T180000Z
+SUMMARY:IoT mit Windows 10 und Azure
+UID:f135eccb-8805-42fd-b22d-25fa3f1c8f14@f135.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Moderne Software-Anwendungen werden immer komplexer. Dadurch gewinnt auch die Software-Architektur immer mehr an Bedeutung. Wartbarkeit\, Testbarkeit\, Erweiterbarkeit und Teamentwicklung sind nur einige Aspekte\, die eine gute Architektur unterstützen soll. Doch diese Aspekte können nicht durch ein einzelnes Architekturkonzept abgedeckt werden. Dieser Vortrag stellt verschiedene Architektur-Patterns wie Komponentenorientierung\, Contract First Design\, Service-Orientierung und UI Driven Development vor. Und vor allem wird gezeigt\, wie diese Konzepte zu einem praxiserprobten Entwicklungsprozess verbunden werden können.\n\nSpeaker: Thomas Schissler\n\nThomas Schissler von der artiso solutions GmbH und Leiter der .NET Usergroup Ulm.\n\n\nSocial Links:\n- rss: http://www.artiso.com/problog/
+DTEND:20090827T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090827T183000Z
+SUMMARY:Agile Development Process - Ein Architekturbasierter Entwicklungsprozess
+UID:7c78c10a-b40f-497b-9e5c-1be177521d84@7c78.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Fachvortrag/interaktiver Workshop zum Thema "Windows Presentation Foundation".\n\nSpeaker: Bernhard Pichler\n\nBernhard ist Autor von zahlreichen Artikeln in der Fachzeitschrift dotnetpro.\n\n\nSocial Links:\n- rss: http://www.informare.de/
+DTEND:20080623T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080623T183000Z
+SUMMARY:Windows Presentation Foundation
+UID:fe81eaf1-4a5b-4417-bf6b-97d5a2b43d3a@fe81.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit Silverlight 4 geht Microsoft den in Version 3 eingeschlagenen Weg weiter und erweitert es mit Verbesserungen die direkt von den Entwicklern gewünscht wurden. Mit Silverlight 3 zeigte sich der RIA-Sprössling mehr als erwachsen und mit Silverlight 4 kommt noch einiges an Reife dazu.\n\nDer Vortrag demonstriert die Highlights von Silverlight 4 und geht zudem bereits auf Erwartungen bezüglich Silverlight 5 ein. Und das Beste: Es wird die neue DVD „WPF 4 und Silverlight 4“ verlost.\n\nSpeaker: Gregor Biswanger\n\nGregor Biswanger ist Microsoft MVP für Client App Dev und arbeitet als Solution Architect und Silverlight Experte bei der Firma impuls Informationsmanagement GmbH aus Nürnberg. Seine Schwerpunkte liegen im Bereich der .NET-Architektur\, Silverlight und agilen Prozessen. Er veröffentlichte vor kurzem seine DVD mit Video-Trainings zum Thema „WPF 4 und Silverlight 4“ bei Addison-Wesley von video2brain.Biswanger ist auch freier Autor\, Speaker und Microsoft CLIPler der INdotNET (Ingolstädter .NET Developers Group).\n\n\nSocial Links:\n- rss: http://www.dotnet-blog.net/
+DTEND:20110322T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110322T183000Z
+SUMMARY:Zurück in die Zukunft mit Silverlight 4
+UID:deeeab3e-9d23-4ec8-a13a-0ebf5c33487a@deee.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Eine möglichst breite gemeinsame Codebasis für verschiedene Plattformen – das ist der Traum eines jeden Entwicklers. Xamarin versucht dieses Ziel auf Basis des .NET Frameworks zu erreichen und eröffnet dem .NET-Entwickler damit die Möglichkeit für zig verschiedene Hardwareplattformen zu entwickeln. Von der Datenbrille über das Smartphone bis zur Smartwatch sind noch einige andere Geräteklassen verfügbar. Besonders seitdem Xamarin zusammen mit Visual Studio kostenfrei auch für kommerzielle Apps zur Verfügung steht\, ist dieser Weg für .NET Entwickler sehr interessant geworden.\n\nDieser Vortrag gibt einen Überblick darüber\, was es bedeutet\, Apps auf Basis von Xamarin und C# zu entwickeln. Betrachtet werden dabei Xamarin.Forms\, gemeinsam verwendete Bibliotheken\, der Ansatz der Shared Projects\, Einbindung plattformspezifischer Funktionen und noch einiges mehr. Technische Rahmeninformationen und Erfahrungen zur Entwicklung mit Xamarin im Gegensatz zur plattformspezifischen Entwicklung runden den Vortrag ab.\n\nBITTE BEACHTEN: Der Vortrag findet in der TechBase Regensburg statt (Franz-Meyer-Str. 1\, 93053 Regensburg).\n\nSpeaker: Roland König\n\nRoland König ist seit 2007 in der projektübergreifenden Produktentwicklung bei IGZ im oberpfälzischen Falkenberg beschäftigt. Seine beruflichen Schwerpunkte liegen im Bereich der Industrie 4.0 mit einem klaren Fokus auf Anforderungen moderner Intralogistik. Über seine Erfahrungen bezogen auf seine hobbymäßigen Projekte schreibt er regelmäßig auf seinem Blog unter [www.rolandk.de/wp](http://www.rolandk.de/wp).\n\n\nSocial Links:\n- rss: http://www.rolandk.de/wp
+DTEND:20161128T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20161128T180000Z
+SUMMARY:Cross-Plattform mit Xamarin
+UID:3a290481-08fd-4d11-8f32-a349a9050623@3a29.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:In den letzten Vorträgen des Sprechers in Regensburg wurde bereits stark auf 3D-Grafik-Programmierung unter Windows mit C#/.Net eingegangen. Dieser Vortrag ergänzt die vorherigen um weitere Aspekte\, etwa - modernes 2D-Rendering mit Direct2D - Video-Bearbeitung mit der Media Foundation - weitere aktuelle Punkte bezogen auf Windows Universal Apps und Windows 10. Die gezeigten Beispiele basieren auf Seeing#\, einem OpenSource Framework zur Integration von 2D\, 3D- und Video-Funktionen in beliebige auf .Net basierende Windows Anwendungen.\n\nSpeaker: Roland König\n\nRoland König ist seit 2007 als Softwareentwickler bei der IGZ Logistics + IT GmbH im oberpfälzischen Falkenberg beschäftigt. Seine Schwerpunkte liegen in der Entwicklung und Betreuung von Standardprodukten im Bereich der Logistik / Automatisierung. Hobbymäßig entwickelt er an seinem <a href="https://github.com/RolandKoenig/SeeingSharp">OpenSource Projekt Seeing#</a> und darauf aufbauenden Apps / Games. Über seine Erfahrungen schreibt er regelmäßig auf seinem Blog.\n\n\nSocial Links:\n- facebook: https://www.facebook.com/roland.konig.14\n- github: https://github.com/RolandKoenig\n- rss: http://www.rolandk.de/wp/
+DTEND:20150831T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150831T180000Z
+SUMMARY:Aktuelle Multimedia-Schnittstellen unter Windows
+UID:d09b53b0-2ef7-4c93-b2a1-421f696e6de2@d09b.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:In der modernen Softwareentwicklung stehen Entwickler vor der Herausforderung\, jederzeit einen auslieferfähigen Stand der Software zu haben. Wie aber mit Funktionen umgehen\, die noch nicht komplett entwickelt und getestet sind? Branches in der Versionskontrolle bringen hier eine zusätzliche Komplexität. In sehr vielen Fällen sind Featureflags eine bessere Alternative\, die auch noch viele Vorteile für Deployment und Betrieb der Software mit sich bringen. In diesem Vortrag stellen René Guder und Thomas Schissler die Grundkonzepte hinter Featureflags vor\, erläutern\, wie sie angewendet werden und welche Vorteile sie bieten und das Ganze mit vielen Beispielen aus der Praxis.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K002 der OTH Regensburg statt (Galgenbergstraße\, gegenüber Techbase Regensburg). Für Getränke ist gesorgt.\n\nSpeaker: Thomas Schissler\n\nThomas Schissler ist Leiter der Software-Entwicklung bei der artiso solutions GmbH und unterstützt als Coach und Consultant Kunden bei der Verbesserung ihrer Software-Entwicklungsprozesse auf Basis von Agilität. Seit 2007 ist er jählich von Microsoft mit dem Microsoft MVP Award im Bereich Visual Studio ALM ausgezeichnet worden. Seit 2010 ist er zertifizierter Scrum-Trainer und bietet neben PSD.Net und PSM Trainings auch individuelle Coachings für agile Teams. Dabei kommt ihm zugute\, dass er auch eng mit den internen Entwickler-Teams bei artiso arbeitet und so aus theoretischem Wissen und Praxiserfahrung gleichermaßen schöpfen kann. Sein Steckenpferd ist aktuell das Thema DevOps\, welches neben den organisatorischen Herausforderungen vor allem auch auf technischer Ebene spannend ist und damit die beiden Interessensgebiete von Thomas ideal vereint.\n\n\nSocial Links:\n- rss: http://www.artiso.com/\n- xing: https://www.xing.com/profile/Thomas_Schissler
+DTEND:20171213T193000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20171213T173000Z
+SUMMARY:Switch reloaded – Featureflags in der Praxis
+UID:96e051b6-a2ea-455d-a2fd-518a572f6dd0@96e0.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit dem Release des SQL Server 2012 steht nun die nächste Major Version des Microsoft Datenbankservers zur Verfügung. Doch was sind die wichtigsten Neuerungen? Wo ergeben sich neue Lösungsszenarien und was ist insbesondere für Entwickler von Interesse? \n\nDiese Session soll einen kompakten Überblick über viele Neuerungen geben und dabei die Highlights für Entwickler besonders hervorheben.\n\nSpeaker: Constantin Klein\n\nConstantin arbeitet als Anwendungsarchitekt und Entwickler bei der Freudenberg Forschungsdienste KG. Dort beschäftigt er sich hauptsächlich mit dem Design und der Entwicklung von Web-Informationssystemen und Datenbanken. Seit seinem Studium der Wirtschaftsinformatik gilt sein besonderes Interesse darüber hinaus allen aktuellen Themen im Microsoft .NET Umfeld\, insbesondere aber dem Thema Softwarearchitektur. Er ist MCSD\, MCITP Database Developer und MCPD Web + Enterprise Application Developer. 2010\, 2011 und 2012 wurde er von Microsoft zum Most Valuable Professional (MVP) für SQL Server ernannt.\n\n\nSocial Links:\n- rss: http://kostjaklein.wordpress.com/\n- rss: http://www.justcommunity.de/\n- rss: http://www.dotnet-ug-frankfurt.de/
+DTEND:20121025T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20121025T183000Z
+SUMMARY:SQL Server 2012 – News für Datenbankentwickler
+UID:83af41e6-6cd1-4160-9db5-cfd3a5569d07@83af.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Large Langage Models sind aktuell die wohl interessanteste Technologie für App-Entwickler und unterstützen mittlerweile nicht nur Text\, \nsondern auch Sprache und Vision. Doch wie kann ich sie effizient in meine Cloud Native .NET-basierten Backends integrieren?\n\nDieser Talk gibt einen umfangreichen Überblick über die Use Cases und Prompt-Gestaltung anhand eines komplexen Formulars\, \nwelches wir über Text\, Sprache und Bilder ausfüllen. Dabei nutzen wir Microsoft.Extensions.AI\, um einen einheitlichen Zugriff \nauf verschiedene Language Modes zu ermöglichen\, hosten unsere Backend-Services mit .NET Aspire und gehen auch auf das Thema \nAbsicherung unserer Backend Services mit dem Backend-for-Frontend-Pattern ein.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug ist Senior Software Engineer bei der TELIS/GWVS und studierte Informatik an der OTH Regensburg. Seine Interessen liegen in den Gebieten Cloud Native .NET Backends mit integrierten AI-Schnittstellen\, Software Development mit AI Coding Tools\, .NET Internals und Performanceoptimierung. In seiner Freizeit betreut er einige Open Source Projekte wie Light.GuardClauses\, ansonsten wandert er mit seiner Frau gerne durch bayerische und deutsche Wälder.\n\n\nSocial Links:\n- linkedin: https://www.linkedin.com/in/kenny-pflug-7a1012123/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20250924T200000Z
+LOCATION:Syskron
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20250924T180000Z
+SUMMARY:Cloud Native meets AI: moderne Backends bauen mit .NET Aspire und Microsoft.Extensions.AI
+UID:fc69f93a-c89d-46ea-8f02-013dbbb6ce57@fc69.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Aufbauend auf dem Januarvortrag über Design by Contract bei der .NET User Group Regensburg wurde die Library Light.GuardClauses entwickelt\, mit der man einfach und flexibel Precondition Checks in seinem Produktivcode schreiben kann. Kenny Pflug\, der Autor von Light.GuardClauses\, stellt bei diesem Talk das Open-Source-Projekt vor\, zeigt\, wie man es effektiv einsetzt\, und geht auch auf Fragen zur Performance (insbesondere zu Conditional Compilation) und Erweiterbarkeit der Bibliothek ein. Jeder\, der Parameter am Anfang seiner Methoden überprüft\, kann von dieser Bibliothek profitieren.\n\n**BITTE BEACHTEN** Der Vortrag findet im Raum "Fahrenheit" im "neuen" IT-Speicher\, der Techbase Regensburg in der Franz-Meyer-Str. 1 statt.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug studierte Informatik an der Ostbayerischen Technischen Hochschule Regensburg und ist aktuell Promovend und wissenschaftlicher Mitarbeiter am Universitätsklinikum Regensburg. Dort erforscht er User Interface Konzepte für mobile Medizinapplikationen. Er ist besonders interessiert an den Themengebieten User Experience und User Interface Design\, OOP und OOD\, Softwarearchitektur\, Clean Code sowie Automatisiertes Testen.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20160530T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160530T180000Z
+SUMMARY:Parameter einfach prüfen mit Light.GuardClauses
+UID:66f07862-506d-4bde-b3f6-c0b68e614cf1@66f0.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Version 4.5 ist das zweite große Update für das .NET Framework in nicht einmal 1\,5 Jahren. Notwendig wurde das Update aufgrund der vielen neuen Features für Windows 8. Aber auch\, wenn die eigene Anwendung nicht über den Store vertrieben werde soll\, gibt es Features\, die das Arbeiten mit der aktuellen Version des Frameworks effizienter\, einfacher und schneller machen. Ein wesentlicher Teil der Session werden Parallelisierung und asynchrones Ausführen von Code sein. \n\nIn WCF werden wir uns die wichtigsten neuen Features wie UDP-Binding\, WebSockets und IntelliSense in der Konfiguration anschauen. In WPF sind einige der neuen Features\, die in dieser Session beleuchtet werden\, das Sortieren von Daten zur Laufzeit\, das DataBinding an statische Eigenschaften sowie das Ribbon-Control.\n\nSpeaker: Jan Schweda\n\nJan Schweda ist Software Engineer bei der conplement AG in Nürnberg. Sein Fokus liegt vor allem auf verteilten Systemen und serviceorientierter Architektur. Jan entwickelt seit mehreren Jahren Consumer und Enterprise-Anwendungen im .NET Umfeld und hat hierbei Erfahrungen in den unterschiedlichen Bereichen des .NET Technologie Stacks gesammelt. Sein Wissen gibt er regelmäßig und gerne als (Microsoft Certified) Trainer\, Fachautor und Sprecher weiter. Was ist neu in .NET 4.5 und C# 5?\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Jan_Schweda
+DTEND:20130829T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130829T180000Z
+SUMMARY:Was ist neu in .NET 4.5 und C# 5
+UID:99a7b633-0e9d-4f5c-9f8e-dd6e3679f597@99a7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:HTTP dient nicht nur dazu Webseiten an Browser auszuliefern. Es ist vielmehr eine mächtig Plattform um APIs bereitzustellen\, sei es für Dienste oder für Daten. HTTP ist einfach\, flexibel und allgegenwärtig und nahezu jede Plattform verfügt über eine HTTP-Implementierung\, so dass HTTP-basierte Dienste eine große Bandbreite an Clients bedienen können\, egal ob Browser\, Apps für mobile Geräte oder Desktop-Anwendungen.\n\nASP.NET Web API ist das Framework um solche Web-basierten APIs auf Basis des .NET-Frameworks zu implementieren. In diesem Vortrag betrachten wir die grundlegenden Aspekte von HTTP\, das HTTP-Programmiermodell in ASP.NET Web API\, den Zugriff auf Web APIs in Client-Anwendungen und die Testbarkeit von Web APIs.\n\nSpeaker: Jörg Jooss\n\nJörg Jooss unterstützt als Software-Architekt im Microsoft Technology Center (MTC) in München Microsoft-Kunden und -Partner beim Entwurf und der Erstellung .NET-basierter Lösungen. Zu seinen Interessensschwerpunkten zählen die Entwicklung verteilter Anwendungen\, Entwurfsmuster und Entwicklungsmethoden. Bevor er im Jahr 2005 zu Microsoft kam\, war er über viele Jahre als Technologie-Berater für eine international führende Unternehmensberatung tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Joerg_Jooss
+DTEND:20140828T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140828T180000Z
+SUMMARY:ASP.NET Web API
+UID:0b279eed-1ebe-4fd4-a3a4-497ce42664b0@0b27.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Seit Version 6 ist Roslyn der Referenzcompiler für C#. Seine wahre Stärke offenbart Roslyn erst für Entwickler mit Erfahrungen im Compilerbau.\n\nIn diesem Talk werden die Grundlagen im Compilerbau durch das .NET Projekt MAGES dargestellt und auf Roslyn übertragen. So lernen wir unter anderem die Funktionsweise eines Pratt Parsers und effizienter Tokenisierung. Außerdem werden die wichtigsten Software Design Patterns im Umgang mit abstrakten Syntaxbäumen im Detail betrachtet.\n\nAls Resultat können wir nicht nur effizienter mit der Programmiersprache C# umgehen\, sondern lernen gleichzeitig einiges über die Implementierung und Verwendung von Programmiersprachen in .NET.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist promovierter Physiker und arbeitet als Solution Architect im IoT / Big Data Bereich. Sein Portfolio umfasst u.a. auch High Performance Computing und Webentwicklung. Florian ist Microsoft MVP im Bereich Visual C# / Development Tools und schreibt regelmäßig Artikel für CodeProject\, tuts+ und SitePoint.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20170508T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20170508T180000Z
+SUMMARY:Compilerbau mit MAGES
+UID:8c227a2b-475f-46f0-9ab1-417ae9976a8f@8c22.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Agil zu sein bedeutet die Fähigkeit\, schnell und erfolgreich auf sich verändernde Umweltbedingungen zu reagieren und sich dabei bietende Chancen zu nutzen. Dies ist in der heutigen Zeit der Krise und der ständigen Veränderungen die große Herausforderung\, der sich alle stellen müssen. Agile Softwareentwicklung in Verbindung mit TDD und Scrum bietet hier ausgezeichnete Voraussetzungen\, um effizient und erfolgreich Projekte umzusetzen.\n\nSpeaker: André Hofmann\n\nAndré Hofmann von der bbv Software Services AG.\n\n\nSocial Links:\n- rss: https://www.bbv.ch/de/jobs.html
+DTEND:20090730T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090730T183000Z
+SUMMARY:Agile Softwareentwicklung mit TDD und Scrum
+UID:3e63ec30-abdb-495b-8bce-38bea952a570@3e63.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:M-V-VM steht für Model-View-ViewModel und ist das Entwurfsmuster um in WPF und Silverlight Logik von Daten zu trennen. In diesem Treffen werden wir anhand eines einfachen WPF-Beispiels die Funktionsweise und die wichtigsten Schlagworte zu M-V-VM kennen lernen.\n\nSpeaker: Jan Schweda\n\nJan Schweda ist Development Trainer bei der ppedv AG und selbstständiger Softwareentwickler. Seit 2007 entwickelt er mit verschiedenen Versionen des .net Frameworks Anwendungen. Seit 2009 beschäftigt er sich im Schwerpunkt mit WPF und WCF\, seit diesem Jahr auch vermehrt mit Microsofts Cloud Computing Plattform Azure.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Jan_Schweda
+DTEND:20111020T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20111020T183000Z
+SUMMARY:M-V-VM
+UID:94f5d239-67fc-477a-8226-c032e5ce6784@94f5.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:"Ich frage mich\, was mir das Windows Phone als Entwickler eigentlich bietet." Genau diese Frage\, werden wir bei der CSI:WP-Roadshow klären! Wenn man heutzutage von Mobile-Apps spricht\, hat man dabei die unterschiedlichsten Szenarien im Kopf: Hochauflösende Kamera\, Videotelefonie\, moderne Sensoren die Beschleunigung und Rotation erfassen und auswerten können\, Geo-Lokalisation\, schnelle und mobile Datenverbindungen\, nahtlose Integration in das persönliche Leben und die Social Media\, Displays mit immer höherer Pixeldichte die zahllose Infos darstellen können\, Toucheingabe\, Bezahlen und Geldverdienen mit einem Fingerzeig\, ... \n\nBei der Roadshow "CSI: WP - Dem Windows Phone auf der Spur" steht als Ermittler und Nokia Developer Champion Gordon Breuer Rede und Antwort. Im Ermittlungskoffer mit dabei: Jahrelange Erfahrung in den Bereichen .NET-Entwicklung\, Mobile-Development und multimediale Präsentationen! Und die Vorträge? Jeder Termin ist einzigartig und entsteht individuell unter Einbeziehung der Teilnehmer - denn die entscheiden in erster Linie und direkt live\, welche Themen man vorgestellt bekommen möchte und über was man auch mal ausführlicher reden sollte. Im Anschluss haben alle noch ausführlich Gelegenheit\, ihre Fragen oder Probleme im persönlichen Gespräch zu klären oder auch eines der zahlreichen Demo-Geräte direkt vor-Ort auszuprobieren.\n\nSpeaker: Gordon Breuer\n\nGordon Breuer\, Senior IT Consultant bei der msg systems ag.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Gordon_Breuer
+DTEND:20130909T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130909T180000Z
+SUMMARY:CSI: WP - Dem Windows Phone auf der Spur
+UID:9345d229-34c1-40b9-b324-44e55c28a150@9345.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Scrum\, XP & Co - bestehende agile Methoden bedienen jeweils verschiedene\nZielgruppen und Aspekte der Softwareentwicklung\, doch eine einzelne agile\nMethode genügt in der Praxis häufig nicht. \n\nWas also fehlt\, ist ein umfassendes Rahmenwerk\, das die erfolgreichen Elemente der bestehenden agilen Methoden vereint\, das jedoch - wenn erforderlich - auch eigene Pfade einschlägt.\n\nDas Agile Development Framework (ADF) tritt an\, dieses Problem zu lösen\, indem es Individuen\, Teams und Unternehmen während des gesamten Entwicklungsprozesses von qualitativ hochwertiger Software unterstützt\, unter Berücksichtigung der einzelnen Rollen und deren jeweiligen Interessen.\n\nGolo Roden stellt ADF und dessen Konzepte in einem kompakten Überblick vor\, zeigt an Hand von praktischen Beispielen den Verlauf des Prozesses von ADF\, und beschreibt Migrationspfade von Scrum und XP.\n\nSpeaker: Golo Roden\n\nGolo Roden ist freiberuflicher Wissensvermittler und Technologieberater für .NET\, Codequalität und agile Methoden. Zu diesen Themen berät er Firmen bei der Evaluierung\, Erforschung und Verwendung geeigneter Technologien und Methoden. Darüber hinaus ist er journalistisch für Fachzeitschriften und als Referent und Content Manager für Konferenzen tätig. Für sein qualitativ hochwertiges Engagement in der Community wurde Golo von Microsoft als Most Valuable Professional (MVP) für C# ausgezeichnet.\n\n\nSocial Links:\n- rss: http://www.goloroden.de/
+DTEND:20110714T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110714T183000Z
+SUMMARY:Agil 2.0 - das Agile Development Framework (ADF)
+UID:10ef865b-f212-4ce2-abfe-c0cc0d2393ca@10ef.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:In der .NET Community wird immer wieder das Konzept des Actor Models angesprochen. Doch was ist das eigentlich? Was kann ich damit machen?\n\nDieser Vortrag beantwortet diese Fragen. Zugleich wird unter Verwendung des Open Source Frameworks akka.net ein Beispiel für ein skalierbares\, fehlertolerantes\, selbst heilendes und verteiltes System erstellt.\n\nDie [offizielle Seite von Akka.NET](http://getakka.net).\n\nSpeaker: Ralph Waldenmaier\n\nRalph Waldenmaier arbeitet als Software Engineer\, Principal bei Progress Software. Er befasst sich mit cloudbasierten Enterprise-Anwendungen und der Verwaltung von Daten in verschiedensten Systemen. Daneben hält er Vorträge bei Usergroups\, Fachkonferenzen und schreibt Artikel in Fachmagazinen.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/eigeneachse\n- linkedin: https://de.linkedin.com/pub/ralph-waldenmaier/24/31a/664
+DTEND:20151123T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20151123T180000Z
+SUMMARY:Akka.NET
+UID:93d12389-0c52-4099-a196-73d3d1ade6c1@93d1.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Fachvortrag von Hardy Erlinger zum Thema "Microsoft Workflow Foundation".\n\nSpeaker: Hardy Erlinger\n\nMVP-Microsoft Most Valuable Professionel ASP/ASP.NET und INETA Country Lead für Deutschland.\n\n\nSocial Links:\n- rss: https://www.netspectrum.de/
+DTEND:20080313T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080313T180000Z
+SUMMARY:Microsoft Workflow Foundation
+UID:2ec68412-a501-4688-96a9-871103ecdaf2@2ec6.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Für viele Unternehmen bietet IoT zusätzliche Möglichkeiten um neue Geschäftsmodelle zu realisieren. Neben dem großen wirtschaftlichen Potential ergeben sich aber auch technische Aufgabenstellungen\, die mitunter sehr komplex sind und sich nicht einfach und generisch lösen lassen. Daraus entstehen Räume für innovative Ideen\, um die Vielfalt der neuartigen Use Cases technisch abzubilden.\n\nDer Vortag behandelt Herausforderungen im Zusammenhang mit Digitaler Transformation wie zum Beispiel Security\, Gerätekommunikation\, aber auch IoT Business Models. Für ausgewählte Aufgabenstellungen werden Lösungsansätze diskutiert und Möglichkeiten der Umsetzung anhand einer generischen Plattform und Prototypen demonstriert. Dabei werden neben unterschiedlichen Microsoft-Technologien auch Testimplementierungen basierend auf Raspberry PI und Netduino verwendet.\n\n**BITTE BEACHTEN** Der Vortrag findet im Raum "Fahrenheit" im "neuen" IT-Speicher\, der Techbase Regensburg in der Franz-Meyer-Str. 1 statt.\n\nSpeaker: Lothar Schöttner\n\nLothar Schöttner ist Gründer der smapiot GmbH. smapiot ist ein junges Startup-Unternehmen\, das sich auf IT-Lösungen und Consulting Services für den Bereich IoT spezialisiert hat. Zuvor arbeitete Lothar Schöttner bei Microsoft als Senior Architect mit Fokus auf SOA und Integrationsarchitekturen. Seit über 6 Jahren ist er als leitender Systemarchitekt maßgeblich an der Konzeption und Entwicklung der RWE SmartHome-Lösung beteiligt.\n\n\nSocial Links:\n- linkedin: https://de.linkedin.com/in/lotharschoettner
+DTEND:20160725T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160725T183000Z
+SUMMARY:IoT - Herausforderungen und Chancen
+UID:d581ae15-e389-4543-820d-de639a211c94@d581.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im November erschien das neue Visual Studio mit einem .NET-Framework Patch. Das .NET-Framework 4.5.1 bietet Entwickeln mehr Freiraum und gibt Nutzern von .NET Applikationen eine bessere Performance. Viel wichtiger ist jedoch\, dass Microsoft mit dieser Version dazu übergeht\, zukünftig auf Rapid Release Cycles zu setzen. So soll unter anderem die Packetverwaltung NuGet eine noch größere Bedeutung erhalten. Außerdem stehen mit RyuJIT und Roslyn zwei neue Technologien vor der Tür\, welche für die Zukunft des .NET-Frameworks essentiell sind. \n \nIn diesem Vortrag wird der aktuelle Stand des .NET-Frameworks beschrieben und geplante Neuentwicklungen skizziert. Es wird auch der Frage nachgegangen was die Roslyn API für Entwickler bringt und welche Tools heute schon darauf aufbauen. Als Beispiel hierfür wird das scriptcs Projekt näher betrachtet. Abschließend wird ein Blick in die Zukunft von C# geworfen.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist Doktorand an der Universität Regensburg und promoviert in der theoretischen Physik. Neben High Performance Computing und Webentwicklung ist er auch im Bereich Cliententwicklung unterwegs. An der Universität Regensburg hält Florian regelmäßig Vorlesungen zu den Themen "Programmierung mit C#"\, "Webapplications mit HTML5\, CSS3 und JavaScript" und "Software Design Patterns". Florian ist Microsoft MVP im Bereich Visual C# und CodeProject MVP.\n\n\nSocial Links:\n- rss: http://www.florian-rappl.de/\n- xing: https://www.xing.com/profile/Florian_Rappl2\n- twitter: http://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl
+DTEND:20140325T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140325T183000Z
+SUMMARY:C# und .NET - Aktuelle und zukünftige Entwicklungen
+UID:7be498a7-69f2-4f8a-9ec2-b0a44f964c8d@7be4.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Vortrag stellt die einzelnen PaaS-Dienstleistungen von Microsoft Windows Azure vor und beleuchtet im Detail die Möglichkeiten der Windows Azure AppFabric.\n\nDer Service Bus innerhalb der Windows Azure AppFabric stellt hierbei ein Merkmal dar\, welches in den "Cloud-Angeboten" anderer Anbieter so nicht zu finden ist und den Aufbau von hybriden Applikationen ermöglicht. Dieser Bereich wird anhand eines Live Codings näher beleuchtet.\n\nSpeaker: Robert Eichenseer\n\nNone\n\n\nSocial Links:\n- rss: http://www.conplement.de/RobertEichenseer.html
+DTEND:20120612T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120612T183000Z
+SUMMARY:Busbahnhof. Services der Windows Azure Plattform
+UID:84bdae56-aa9a-4d66-a42d-c684799786c3@84bd.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Windows Azure Access Control Service (ACS) ist ein cloudbasierter Dienst\, der es ermöglicht die Authentifizierung und Autorisierung von Benutzern vom Anwendungscode von Webanwendungen und -dienste zu trennen. Anstatt für eine Anwendung ein eigenes\, anwendungsspezifisches Authentifizierungssystem mit Benutzerkonten zu implementieren\, kann der ACS die Authentifizierung sowie einen Großteil der Autorisierung der Benutzer orchestrieren. \n\nACS lässt sich mit auf offenen Standards basierenden Identitätsanbieter (z. B. in Unternehmensverzeichnisse wie etwa Active Directory) und Webidentitäten integrieren\, z. B. in Windows Live ID\, Google\, Yahoo! und Facebook. Während der letztgenannte Aspekt auch für nicht auf Windows Azure laufende\, öffentlich zugängliche Webanwendungen interessant ist\, ist besonders die Integration mit einem Active Directory eine elementare Anforderung für Enterprise-Anwendungen\, die auf Windows Azure laufen sollen.\n\nSpeaker: Jörg Jooss\n\nJörg Jooss unterstützt als Software-Architekt im Microsoft Technology Center (MTC) in München Microsoft-Kunden und -Partner beim Entwurf und der Erstellung .NET-basierter Lösungen.  Zu seinen Interessensschwerpunkten zählen die Entwicklung verteilter Anwendungen\, Entwurfsmuster und Entwicklungsmethoden. Bevor er im Jahr 2005 zu Microsoft kam\, war er über viele Jahre als Technologie-Berater für eine international führende Unternehmensberatung tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Joerg_Jooss
+DTEND:20120223T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120223T183000Z
+SUMMARY:Der Windows Azure Access Control Service
+UID:c93f57bb-4c23-4304-a39e-d41dce0636d5@c93f.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Testautomation spielt vor allem im agilen Vorgehensmodell eine sehr wichtige Rolle. Ohne einen hohen Anteil automatisierter Testfälle wird es schnell schwierig\, das eigene Softwareprodukt in kurzen Iterationsschritten weiterzuentwickeln und gleichzeitig sicherzustellen\, dass vorher umgesetzte Features noch so reagieren wie erwartet. Automatisierte Tests auf Integrations- oder End-To-End-Ebene bergen aber einige Hürden bei der Umsetzung:\n\n- Wie wird mit Abhängigkeiten umgegangen (Hardware\, andere Softwaresysteme\, etc.)?\n- Wie werden Benutzerinteraktionen simuliert?\n\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K018 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Roland König\n\nRoland König ist Teamleiter bei der IGZ GmbH im oberpfälzischen Falkenberg und arbeitet dort zusammen mit seinem Team an den neusten technologischen Innovationen im Bereich der Logistik/Industrie 4.0. Daneben schlägt sein Herz auch privat klar für Softwareentwicklung\, beispielsweise bei der Entwicklung der OpenSource 3D-Engine Seeing#. Er ist hauptsächlich in der Programmiersprache C# unterwegs und setzt dabei je nach Projekterfordernissen entweder auf das große .NET Framework oder .NET Core.\n\n\nSocial Links:\n- rss: http://www.rolandk.de/wp
+DTEND:20181112T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20181112T180000Z
+SUMMARY:Testautomation in den höheren Teststufen
+UID:5c15dee2-f5c8-44e8-b982-b787305f2c0c@5c15.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:“Microservices” sind zum Standard für Web Backendsysteme geworden\, Web Frontends werden allerdings häufig als Monolith implementiert. Idealerweise folgen jedoch beide denselben Grundprinzipien\, um eine User Experience zu bieten\, die auf einem flexiblen Muster wie Microservices beruht.\nDr. Florian Rappl und Lothar Schöttner stellen in diesem Vortrag ihr Framework für die Entwicklung von hochflexible Web Frontends vor. Auf Basis von Piral zeigen Sie\, welche Bausteine notwendig sind\, um verschiedene Szenarien umzusetzen\, wie das Nachladen von für den angemeldeten Nutzer zugeschnittene Modulen\, der Einsatz von Feature Flags\, sowie die Planung für Skalierbarkeit sowohl im Betrieb\, Deployment als auch beim Entwickeln mit mehreren unabhängig agierenden Teams.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K002 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Dr. Florian Rappl\n\nDr. Florian Rappl ist Solution Architect bei smapiot für verteilte Webapplikationen. Er hat mehrere Preise für seine Arbeiten gewonnen und ist Microsoft MVP im Bereich Development Technologies. Er schreibt regelmäßig Artikel für seinen eigenen Block als auch für mehrere populäre Softwareentwicklungsseiten im Netz.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20191120T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20191120T180000Z
+SUMMARY:Modulare Web Apps
+UID:306328b2-8500-46c4-8846-5e1b11f75481@3063.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Komplexe Programme lassen sich nur beherrschen\, wenn man sie in kleinere Module aufteilt. Damit am Ende nicht Spaghetti-Code steht\, sollte die Modularisierung für Entwickler sehr einfach sein. Mit Prism und den Templates dieses Vortrags ist das nicht nur unter WPF sondern auch in Silverlight möglich.\n\nSpeaker: Bernhard Pichler\n\nDipl.-Theol. Bernhard Pichler ist Geschäftsführer von Informare Consulting und Gründer des europäischen Forums für Erweiterte Usibility\, kurz EF.EU.\n\n\nSocial Links:\n- rss: https://www.xing.com/profile/Bernhard_Pichler
+DTEND:20110907T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110907T183000Z
+SUMMARY:PRISM
+UID:b3528c0b-131d-4eba-89f9-365a09327808@b352.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Das ASP.NET MVC ist ein neues Web-Applikationsframework auf Basis von ASP.NET und bietet einen alternativen Entwicklungs- und Architekturansatz zu den klassischen Web Forms. \n                        \nDer Vortrag beleuchtet die Funktionsweise\, die essentiellen Bestandteile und die Erweiterbarkeit von ASP.NET MVC\, zeigt die Unterschiede des Frameworks zu Web Forms auf und liefert einen Ausblick auf ASP.NET MVC 2\, das 2010 mit Visual 2010 und .NET 4 veröffentlicht werden wird.\n\nSpeaker: Jörg Jooss\n\nJörg Jooss unterstützt als Software-Architekt im Microsoft Technology Center (MTC) in München Microsoft-Kunden und –Partner beim Entwurf und der Erstellung .NET-basierter Lösungen. Zu seinen Interessenschwerpunkten zählen die Entwicklung verteilter Anwendungen\, Entwurfsmuster und Entwicklungsmethoden. Bevor er im Jahr 2005 zu Microsoft kam\, war er über viele Jahre als Technologie-Berater für eine international führende Unternehmensberatung tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Joerg_Jooss
+DTEND:20091217T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20091217T190000Z
+SUMMARY:ASP.NET MVC
+UID:17c95513-aaf6-4da4-91fc-2ff9ed3bb346@17c9.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Vortrag richtet sich an alle\, die bereits als Entwickler auf der Windows Plattform unterwegs sind. In dieser Session diskutieren Uwe Baumann (Product Marketing Manager für Visual Studio) und Daniel Meixner (Technical Evangelist) mit Euch ein wenig über die Plattformen Windows 8 und Windows Phone 8 sowie die atemberaubenden Neuerungen in Visual Studio Lightswitch.\n\nWichtiger Bestandteil der Veranstaltung sind in jedem Fall alle Fragen\, die Ihr mitbringt: Während des Vortrags werdet Ihr jede Menge Gelegenheit haben\, Fragen zu stellen und mit uns offen zu diskutieren.\n\nSpeaker: Daniel Meixner\, Uwe Baumann\n\nDaniel Meixner (Technical Evangelist) und Uwe Baumann (Product Marketing Manager für Visual Studio). Beide von der Microsoft Deutschland GmbH.\n\n\nSocial Links:\n- rss: http://blogs.msdn.com/b/dmx/
+DTEND:20130425T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130425T180000Z
+SUMMARY:Windows\, App Development\, Lightswitch und überhaupt
+UID:738affb1-9394-4e05-a605-baa70c27c450@738a.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit dem Microsoft Bot Framework bietet sich uns eine elegante Lösung um natürliche Interaktion mit Benutzern zu führen. Durch nützliche Services wie dem Language Understanding Intelligence Service (LUIS) und einer bequemen Anbindung an eine Vielzahl von möglichen Kanälen (u.a. Skype\, Telegram\, E-Mail\, SMS) können wir Benutzern einen echten Mehrwert bieten. Die Interaktion mit diesen Bots wird dann auf Clientseite mit Hilfe intelligenter Systeme wie z.B. Cortana optimiert.\n\nIn diesem Vortrag gehen wir auf die Grundlagen des auf der Build 2016 vorgestellten Bot Frameworks ein. In einer praxisorientierten Session wird ein Bot erstellt\, welcher Texteingaben mit Hilfe von LUIS vorprozessiert und so Benutzern die gewünschten Ergebnisse in einem ganz natürlichen Chat präsentiert.\n\n**BITTE BEACHTEN** Der Vortrag findet im Raum "Fahrenheit" im "neuen" IT-Speicher (TechBase) Regensburg in der Franz-Meyer-Str. 1 statt.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist promovierter Physiker und arbeitet als technischer Berater im IoT / Big Data Bereich. Sein Portfolio umfasst u.a. auch High Performance Computing und Webentwicklung. Florian ist Microsoft MVP im Bereich Visual C# / Development Tools und schreibt regelmäßig Artikel für CodeProject\, tuts+ und SitePoint.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20160425T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160425T180000Z
+SUMMARY:Intelligente Bots als Service-Proxies
+UID:40638c25-a1a4-4b08-a771-dfac20556786@4063.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:C# hat sich als Programmiersprache in den letzten Jahren deutlich gewandelt. Verglichen mit dem Stand von C# 1 aus den Jahren 2002/2003 wurden zahlreiche Erweiterungen an der Sprache selbst und an der .Net Bibliothek vorgenommen. Heute eignet sich die Sprache dadurch für deutlich mehr Anwendungsszenarien als früher. Ein Nachteil dieser Entwicklung ist die mittlerweile gefühlt extrem hohe Bandbreite an Möglichkeiten zur Lösung einzelner Probleme und damit die Anforderung an den Softwareentwickler\, entsprechende Ansätze überhaupt erst zu kennen und entsprechende Vor- und Nachteile einschätzen zu können.\n\nEin gut bekanntes Beispiel ist die Entwicklung an der GUI. In welchem Entwicklerteam wurde noch nicht umfassend darüber diskutiert\, ob nun Windows.Forms\, WPF oder gar die Windows Runtime mehr Sinn macht?\n\nDieser Vortrag hat zum Ziel\, am Beispiel einer vollständig in C# entwickelten 3D-Grafik-Engine Praxiserfahrungen aus einigen Teilbereichen von C#/.Net wiederzugeben. Herausforderungen hierbei liegen etwa in der Multi-Core-Programmierung\, an der Nähe zur Hardware\, an den hohen Performance-Anforderungen und an den teilweise deutlichen Unterschieden zwischen den verschiedenen Gui-Frameworks und Windows-Plattformen.\n\nSpeaker: Roland König\n\nRoland König ist seit 2007 als Softwareentwickler bei der IGZ Logistics + IT GmbH im oberpfälzischen Falkenberg beschäftigt. Weiterhin hat er das Fach Logistikmanagement an der Euro-FH in Hamburg studiert. Seine Schwerpunkte liegen in der Entwicklung von Standardprodukten im Bereich der Logistik / Automatisierung.\n\n\nSocial Links:\n- rss: http://www.rolandk.de/wp/
+DTEND:20140428T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140428T190000Z
+SUMMARY:C#/.Net-Entwicklung heute am Beispiel einer 3D-Grafik-Engine
+UID:9f13c111-4db3-4d72-8998-90ae699d7123@9f13.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:In den letzten Jahren hat sich nicht nur in der Entwicklung neuer Frameworks einiges getan - es sind auch viele neue Sprachen erschienen. Zur Zeit erleben wir in eine neue Welle von Programmiersprachen\, wie sie in dieser Form zuletzt in den 1970er Jahren auftrat. Dieser Vortrag zeigt auf\, wieso man unbedingt über den Tellerrand blicken sollte und welche interessanten Merkmale einige der neuen Sprachen beinhalten. Als ein großes Beispiel dieser Sprachrevolution wird C++ angeführt. Die Sprache hat sich v. a. durch den C++11 Standard deutlich weiterentwickelt und ist kaum wieder zu erkennen. \n\nDiese neue Variante wird daher meistens als Modern C++ bezeichnet. Mittlerweile kann man auch für viele Applikationen\, die vorher in Sprachen wie Java oder C# geschrieben worden sind\, Modern C++ ohne große Produktivitätsverluste einsetzen. Die Produktivität wird durch elegante Konstrukte\, unerreichte Compile-Zeit Optimierungen und der nahtlosen Integration einer mächtigen Metasprache gestützt. Vor allem im mobilen Bereich zählt Performance zu den essentiellen Erfolgsfaktoren. Im Vortrag werden nicht nur Features\, Analogien und Gegensätze im Vergleich zu C# diskutiert\, sondern es werden auch Kriterien für die Verwendung von Modern C++ gegenüber C# in konkreten Projekten besprochen. Am Ende steht natürlich die gemeinsame Nutzung der beiden Sprachen im Fokus: "Das Ganze ist mehr als die Summe seiner Teile".\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist Doktorand an der Universität Regensburg und promoviert in der theoretischen Physik. Neben High Performance Computing und Webentwicklung ist er auch im Bereich Cliententwicklung unterwegs. An der Universität Regensburg hält Florian regelmäßig Vorlesungen zu den Themen "Programmierung mit C#"\, "Webapplications mit HTML5\, CSS3 und JavaScript" und "Software Design Patterns". Florian ist Microsoft MVP im Bereich Visual C# und CodeProject MVP.\n\n\nSocial Links:\n- twitter: https://twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20150629T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150629T183000Z
+SUMMARY:(Modern) C++\, Go\, Julia\, Rust\, ... - was geht mich das an?
+UID:8d573dff-ebb2-457e-9c24-02ecff8946e3@8d57.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Seit 2013 bietet Docker Entwicklern die Möglichkeit der Containerization und löst damit zunehmend die klassische VM als Virtualisierungsinstrument ab. Dabei wird Software zusammen mit den notwendigen Abhängkeiten in voneinander isolierten Containern bereitgestellt und betrieben. In diesem Vortrag schauen wir uns an\, wie Docker aufgebaut ist\, wie man Images und Container erzeugt\, was die Docker Registry und Docker Volumes sind\, und wie Docker in der Azure Cloud genutzt werden kann.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K018 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für Getränke ist gesorgt.\n\nSpeaker: Alexander Bleissem\n\nAlexander Bleissem ist Softwareentwickler bei der NTW Software GmbH und im .NET-Umfeld tätig. Seine Lieblings-Programmiersprache ist C#\, aber auch C++ oder JavaScript (TypeScript) nutzt er gerne. Zu seinen Hobbies zählt u.a. das Entwickeln einer Open Source Babyphone App mit Xamarin und deren automatischer Erstellung (CI) mit Visual Studio Team Services.\n\n\nSocial Links:\n- rss: http://bleissem.com/\n- twitter: https://twitter.com/bleissem
+DTEND:20181022T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20181022T180000Z
+SUMMARY:Einführung in Docker
+UID:361c5a9c-b658-4e34-b648-119dee1a27ba@361c.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Sharepoint\, ein Wort das man immer öfter in Unternehmen hört. Aber was verbirgt sich dahinter? Welche Möglichkeiten eröffnen sich mit dieser Technologie.\n\nDer Vortrag führt sie in das Thema Sharepont 2010 ein und gibt einen Überblick über die Architektur und "Out of the Box" Möglichkeiten.\n\nSpeaker: Thomas Ebert\n\nThomas ist Softwareentwickler im Global Compentence Center Sharepoint und Intranet bei der Uni Credit Global Information Services S.C.p.A. in München.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Thomas_Ebert23
+DTEND:20100830T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100830T183000Z
+SUMMARY:Einführung in SharePoint 2010
+UID:b8f27734-da25-46c0-9e73-15fd213740ca@b8f2.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Windows Azure stellt mit den Media Services eine Komplettlösung für Videocodierung\, Bereitstellung von Multimedia Inhalten als auch Live-Streaming cloudbasiert zur Verfügung. Doch wie können diese Dienste neben Azure Compute und Storage einfach und gewinnbringend im täglichen Projektgeschäft und für Usergroups genützt werden? vidPACK ist ein Framework bzw. Projekt welches es ermöglicht\, die monatlichen Treffen ohne großen Aufwand aufzuzeichnen und als VoD in einer App zur Verfügung zu stellen. \n                            \nFalls gewünscht kann auch ein Live-Stream bereitgestellt werden. Auch im täglichen Entwicklungsalltag kann vidPACK eingesetzt werden\, um z.B. ein Sprint-Abschlussmeeting aufzuzeichnen\, ein Video Tutorial zu erstellen usw. vidPACK wurde bereits erfolgreich für Usergroups eingesetzt und steht nach dem Vortrag für alle Teilnehmer zur Verfügung um es in eigene Projekte bzw. in die eigene Community-Arbeit zu integrieren.\n\nSpeaker: Marco Richardson\n\nMarco Richardson ist Technology Specialist for User Experience bei der conplement AG in Nürnberg. Nach jahrelangem Einsatz im WPF-Umfeld\, ist er aktuell als Projektleiter und Entwickler für Windows Store Apps\, Windows Phone Apps sowie in Cross-Device und Cross-Platform Projekten mit Cordova und XAMARIN aktiv. Neben diesen Tätigkeiten arbeitet Marco auch als Berater für UX-Design mit Microsoft Blend\, Microsoft Expression Design und Photoshop in unterschiedlichen Client-Projekten. Seine Leidenschaft UX-Design in .NET ist auch Thema in Vorträgen und Artikeln in Fachzeitschriften\, mit denen Marco in Erscheinung tritt. Dafür wurde er mit dem Microsoft MVP Award "Windows Platform Development" ausgezeichnet.\n\n\nSocial Links:\n- rss: http://www.tilegarage.net/
+DTEND:20140728T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140728T180000Z
+SUMMARY:Die Media Services von Windows Azure
+UID:19c95e64-7e31-4999-90aa-64103dd0636a@19c9.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Sie wollen\, dass Ihre Seiten schneller dargestellt werden? Ändern Sie Ihren Ansatz für Performance Optimierung und verabschieden sich von der Idee\, dass Performance hauptsächlich eine Sache des Backends ist. \n                        \nEs werden verschiedene Regeln und Optimierungsmethoden präsentiert\, mit denen die Antwortzeiten Ihrer Webseiten wesentlich reduziert werden können.\n\nSpeaker: Cristian Mudure\n\nSprecher ist diesmal Cristian Mudure\, seit mehreren Jahren als freier Technologieberater für hochskalierbare und sicherheitsintensive Web Anwendungen tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Cristian_Mudure
+DTEND:20091119T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20091119T183000Z
+SUMMARY:High Performance Websites mit ASP.Net
+UID:5e049f30-8454-492b-873e-d8c83c317246@5e04.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Anhand von einigen Beispielen aus der Praxis\, werden die Einsatzmöglichkeiten von Sharepoint im Unternehmen aufgezeigt.\n\nSpeaker: Roland Wurm\, Thomas Ebert\n\nRoland Wurm\, Geschäftsführer der WESQ GmbH & Co.KG\, einer Firma die sich im Bereich .NET und Sharepoint spezialisiert hat. Thomas Ebert. Thomas ist Softwareentwickler im Global Compentence Center Sharepoint und Intranet bei der UniCredit Global Information Services S.C.p.A. in München.\n
+DTEND:20100929T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100929T183000Z
+SUMMARY:SharePoint in der Praxis
+UID:6e7c0c4c-e705-45ff-8989-14c21e61a533@6e7c.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Es beißt die Maus keinen Faden ab: die aktuellen Entwicklungen v.a. rund um mobile Endgeräte und Cloud Computing bedeutet für viele Softwareprojekte ein Umdenken in der Architektur. Wer das heute ignoriert\, könnte sich morgen in Kalamitäten befinden. Wie bekomme ich eine leichtgewichtige Integration meiner Systeme mit interoperabler Kommunikation gestemmt? Wie kann ich Daten von meinen Services/Servern für eine Umsetzung von Real-Time-Kommunikation in meine Clients hinein pushen?\n\nIn dieser User Group Session wird Christian Weyer in gewohnt praxisorientierter Manier zum Besten geben\, wie man diesen neuen Anforderungen architekturell begegnen kann. Dabei werden die Ansätze auch umgesetzt und realisiert mit Frameworks wie ASP.NET Web API\, SignalR und den passenden Client-Bibliotheken für .NET und HTML5/JavaScript Clients. Open your mind!\n\nSpeaker: Christian Weyer\n\nChristian Weyer ist Solution Architect und Mitgründer von thinktecture\, einer Firma\, die Software-Architekten und -Entwickler beim Entwurf und der Implementierung verteilter Anwendungsarchitekturen unter Windows und .NET unterstützt.\n\n\nSocial Links:\n- rss: http://weblogs.thinktecture.com/cweyer
+DTEND:20120726T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120726T183000Z
+SUMMARY:Willkommen im Heute: Leichtgewichtige Architekturen für jedermann und überall - Web APIs und Push Services mit .Net & HTML5 & Co.
+UID:4caa359a-67fe-47a7-8022-c95a009c07f2@4caa.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Vortrag zeigt anhand verschiedener Beispiele\, wie einfach der Einstieg in die VSTO-Entwicklung sein kann und klärt Fragen wie: Was kann der neue Ribbon-Designer in VS 2008?\n\nKann Word mit Outlook interagieren? Kann WPF in Office angewendet werden und wie passt LINQ dazu?\n\nSpeaker: Lars Keller\n\nLars Keller ist Mitbegründer und Geschäftsführer Entwicklung/ EDV der <a href="http://www.netcreate.de">netcreate OHG</a> in Braunschweig. Er beschäftigt sich seit Jahren mit der.NET-Entwicklung und berät Firmen bei verteilten Anwendungen.Der diplomierte Wirtschaftsinformatiker beschäftigt sich seit mehr als 10 Jahren mit Microsoft-Technologie\, hat dabei die ASP-Classic-Anfänge miterlebt und die Entwicklung bis zu den .NET Lösungen von heute mit verfolgt. Besonders intensiv beschäftigt sich der Software-Experte mit MS Office-Entwicklungen (VSTO) und der Integration des Visual Studio Team Systems. Des Weiteren ist er Leiter der INETA .NET Developer Group Braunschweig sowie Co-Lead von INETA Deutschland und Trainer beim renommierten Fachverlag Galileo-Press.\n\n\nSocial Links:\n- rss: http://blog.lars-keller.net/
+DTEND:20090207T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090207T190000Z
+SUMMARY:VSTO 3.0 und .NET
+UID:638fd1fa-ba73-4e56-accf-b831148ce398@638f.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Kreditkartenbetrugsanalyse\, Kundensegmentierungen\, Warenkorbanalysen\, Bonitätsprüfung... Voraussetzung für diese Themen ist Data Mining. Data Mining zielt auf eine konsequente und effiziente Nutzung der Ressource Information ab.\n\nIm dem Vortrag werden die vielfältigen Einsatzmöglichkeiten von Data Mining vorgestellt. Nachdem überblicksmäßig die Grundlagen von Data Mining vorgestellt worden sind\, wird ein Data Mining-Projekt mit dem SQL Server aufgebaut und dessen Ergebnisse analysiert. Abschließend werden die Neuerungen für Data Mining im SQL Servers 2008 kurz vorgestellt.\n\nSpeaker: Janine Oswald\n\nplus-IT\n
+DTEND:20090407T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090407T183000Z
+SUMMARY:Data Mining als Erfolgsfaktor - Einführung in Data Mining mit dem Microsoft SQL Server 2005/2008
+UID:68c77597-0522-4eb8-aca4-4632d67a5624@68c7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Bereits seit März 2012 steht mit den SQL Server Data Tools (SSDT) für Datenbankentwickler innerhalb von Visual Studio eine projektbasierte Entwicklungsumgebung zur Verfügung. Doch obwohl SSDT mit Visual Studio 2012 und 2013 automatisch installiert wird\, sind diese Art der Datenbankentwicklung und der zur Verfügung stehende Funktionsumfang vielen Entwicklern noch gänzlich unbekannt. Dabei helfen Quellcodeverwaltung\, Unit Testing und Continuous Integration nicht nur bei der Anwendungsentwicklung\, sondern auch beim Umgang mit Datenbanken.\n  \nDieser User Group Abend soll einen guten Überblick über die Vorteile und Möglichkeiten von SSDT liefern. Dabei werden wir einige Themen auch etwas ausführlicher betrachten. In möglichst interaktiver Art und Weise legen wir dabei hoffentlich die Grundlage für modernere und effizientere Datenbankentwicklung.\n\nSpeaker: Constantin Klein\n\nConstantin arbeitet bei der Freudenberg IT Information Services SE & Co. KG. Dort beschäftigt er sich mit der Entwicklung von Lösungen auf Basis der Microsoft Produkte und Technologie Plattformen. Sein besonderes Interesse gilt dabei der Gewinnung\, Verarbeitung und Nutzung von Daten und Informationen. Er ist MCSD\, MCITP Database Developer und MCPD Web + Enterprise Application Developer. Seit 2010 wurde er jährlich von Microsoft zum Most Valuable Professional (MVP) für SQL Server ernannt. Er engagiert sich zusätzlich im Vorstand des Just Community e.V. (http://www.justcommunity.de) und als Leiter der .NET User Group Frankfurt (http://dnug-frankfurt.de).\n\n\nSocial Links:\n- rss: http://kostjaklein.wordpress.com/
+DTEND:20141014T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20141014T190000Z
+SUMMARY:Moderne Datenbankentwicklung mit den SQL Server Data Tools (SSDT)
+UID:8ba4721c-f504-4b31-9ef0-708875d28c8f@8ba4.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Das „Test-Driven Development“ hat sich durch seine vielen positiven Aspekte einen hohen Rang in der Softwarearchitektur erarbeitet. \n\nDennoch fällt es immer wieder schwer\, den Einstieg dazu zu finden. Dieser kann unter Umständen besser gelingen\, wenn er sich nicht an den guten Vorbildern\, sondern vielmehr an schlechten Beispielen und ihren Konsequenzen entlanghangelt.\n\nDieser Vortrag gibt einen Einstieg in TDD und zeigt anschließend die 20 wichtigsten Fehler beim Schreiben von Tests.\n\nSpeaker: Gregor Biswanger\n\nGregor Biswanger (Microsoft MVP für Client App Dev) arbeitet als Solution Architect und XAML Experte bei der Firma impuls Informationsmanagement GmbH aus Nürnberg. Seine Schwerpunkte liegen im Bereich der .NET-Architektur\, XAML und agilen Prozessen. Er veröffentlichte vor kurzem seine DVD mit Video-Trainings zum Thema „WPF 4 und Silverlight 4“ bei Addison-Wesley von video2brain. Biswanger ist auch freier Autor\, Speaker und Microsoft CLIPler der INdotNET (Ingolstädter .NET Developers Group).\n\n\nSocial Links:\n- rss: http://www.dotnet-blog.net/
+DTEND:20120402T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120402T183000Z
+SUMMARY:Die wichtigsten TDD Anti-Patterns – Am schlechten Beispiel lernen.
+UID:3c6a39c7-5200-4eab-81f1-8b3bf6e82056@3c6a.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im Software-Entwicklungsprozess sind Version Control Systems nicht mehr wegzudenken. In diesem Talk blicken wir aus zweierlei Sicht auf dieses Thema: zum einen praktisch am Beispiel von Git\, wo wir uns die Details zu Repositories\, Commits\, Branches und Merges anschauen. Zum anderen vergleichen wir Centralized und Distributed Version Control Systems (Subversion und Git) und betrachten Vor- sowie Nachteile der jeweiligen Konzepte. Abgerundet wird das Ganze mit einem Blick auf die Open Source Entwicklungsplattform GitHub.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum U311 der OTH Regensburg statt (Universitätsstr. 31\, im Sammelgebäude). Für Getränke ist gesorgt.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug ist Senior Software Developer bei der Synnotech AG und Doktorand an der Universität Regensburg. Dort forscht er an der Deserialisierung von komplexen Objektgraphen ohne den Einsatz von Data Transfer Objects. Seit 2009 entwickelt er im Microsoft .NET Umfeld und ist besonders interessiert in den Themen objektorientierte Design Patterns und Principles\, Domain-Driven Design und Event-Architekturen\, asynchrone Programmierung\, Entwicklungsprozesse sowie Performanceoptimierung. Er ist Autor der Open Source Library Light.GuardClauses\, mit der Methodenparameter einfach validiert werden können.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20180116T193000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20180116T173000Z
+SUMMARY:Einführung in Git – und alles Weitere über Version Control
+UID:75aec3c3-308b-4d4e-b2bc-6b230acb19f9@75ae.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die agilen Softwareprozesse stehen aktuell ganz groß im Trend. Einer davon lautet SCRUM. Der Markt schwärmt von einer idealen Welt\, allerdings sieht die Realität völlig anders aus. In der Praxis werden wir ständig mit neuen Herausforderungen konfrontiert – ganz gleich ob im Enterprise Umfeld oder bei kleineren Projekten. Das Problem besteht darin\, dass einem immer genau die Situationen über den Weg laufen\, die nicht im Buche stehen. Um dennoch die Vorteile von agilen Methoden nutzen zu können\, gilt es diese Hürden zu überwinden.\n\nMit diesem Vortrag zeigt Ihnen Leonhard Fischl seine persönlichen Erfahrungen\, weitere Tipps und die richtigen Tools für einen gelungenen Start in eine neue Welt.\n\nSpeaker: Leonhard Fischl\n\nLeonhard Fischl arbeitet als Softwareentwickler bei der WK EDV GmbH in Ingolstadt. Seine Schwerpunkte liegen bei Backend-Services\, Big-Data im Enterprise Umfeld\, TFS Administration\, agilen Prozessen und TDD. Nebenbei beschäftigt er sich u.a. mit Clean-Code-Prinzipien und Tooling.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Leonhard_Fischl\n- twitter: http://www.twitter.com/LeoFischl
+DTEND:20140526T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20140526T190000Z
+SUMMARY:Agile Methoden\, SCRUM - Ein Erfahrungsbericht
+UID:01a03d48-91af-4371-b8ff-6e4f8c6a5e5c@01a0.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Durch die europäische Datenschutz-Grundverordnung (DSGVO) wurden neue Anforderungen an die technische Infrastruktur von Unternehmen\, Behörden\, Vereinen und anderen gestellt. Diese Anforderungen müssen durch die jeweiligen IT-Abteilungen umgesetzt werden. Daher sind Grundkenntnisse der gesetzlichen Anforderungen auch für Informatiker unerlässlich. Dieser Vortrag hat das Ziel\, angehenden Informatikern einen groben Überblick über die Anforderungen zu geben\,  denen sie bei der Umsetzung der DSGVO begegnen werden.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K001 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Corinna Bernauer\n\nCorinna Bernauer ist Rechtsreferendarin am Landgericht Regensburg und wissenschaftliche Mitarbeiterin bei der Anwaltskanzlei Rieck & Partner in Hamburg. 2018 hat sie ihr Jurastudium an der Uni Regensburg mit dem Schwerpunkt Recht der Informationsgesellschaft abgeschlossen. Bereits in dieser Zeit fokussierte sie sich auf den Fachbereich IT- und Datenschutzrecht. Zu ihren Arbeiten gehört ein Aufsatz über den Begriff der „personenbezogenen Daten“ in der DSGVO\, der 2018 vom Bonner Rechtsjournal veröffentlicht wurde.\n
+DTEND:20190514T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20190514T180000Z
+SUMMARY:DSGVO - Einführung für Informatiker
+UID:3154f89c-40aa-4e3b-843c-1b2eb0628dcb@3154.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die gesamte Branche spricht pauschal von der 'Cloud' und meint damit die bessere Nutzung von Internet-Ressourcen in eigenen Anwendungen und das Bereitstellen von Applikationen über das Internet. Diesem Trend werden sich nur wenige entziehen können\, eröffnen Cloud-basierte Ansätze doch interessante Geschäftsmodelle. \n\nDie Referenten diskutieren die Motivation für die Nutzung der Cloud und stellen Microsofts Azure-Services-Plattform in gewohnt pragmatischer Art und Weise vor. Windows- und .NET-Entwickler sollten Appetit bekommen\, Cloud-fähige und Cloud-basierte Anwendungen zu entwickeln und zu betreiben.\n\nSpeaker: Dominick Baier und Christian Weyer\n\nThinkTecture\n\n\nSocial Links:\n- github: https://github.com/leastprivilege
+DTEND:20090623T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090623T183000Z
+SUMMARY:Über den Wolken: Cloud Computing für .NET-Entwickler mit Azure Services
+UID:085038d4-f373-48a9-890c-3255ded344a9@0850.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im Zuge der Digitalisierung nimmt die Geschwindigkeit von Änderungen im Software-Umfeld rasant zu und nimmt zum Teil auch disruptive Züge an. Agilität bietet eine Möglichkeit\, schnell und flexibel auf solche Veränderungen reagieren zu können\, jedoch genügt hier eine Fokussierung auf Entwicklungs-Teams nicht: DevOps ist nichts weniger als die Ausdehnung von Agilität auf das gesamte Unternehmen. In dieser Session wollen wir beleuchten\, welche Chancen aber auch welche Herausforderungen DevOps bietet und ihnen eine Roadmap für eine DevOps-Transformation aufzeigen.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum "Newton" der TechBase Regensburg statt (Franz-Meyer-Str. 1\, 93053 Regensburg).\n\nSpeaker: Thomas Schissler\n\nThomas Schissler ist Leiter der Software-Entwicklung bei der artiso solutions GmbH und unterstützt als Coach und Consultant Kunden bei der Verbesserung ihrer Software-Entwicklungsprozesse auf Basis von Agilität. Seit 2007 ist er jählich von Microsoft mit dem Microsoft MVP Award im Bereich Visual Studio ALM ausgezeichnet worden. Seit 2010 ist er zertifizierter Scrum-Trainer und bietet neben PSD.Net und PSM Trainings auch individuelle Coachings für agile Teams. Dabei kommt ihm zugute\, dass er auch eng mit den internen Entwickler-Teams bei artiso arbeitet und so aus theoretischem Wissen und Praxiserfahrung gleichermaßen schöpfen. Sein Steckenpferd ist aktuell das Thema DevOps das neben den organisatorischen Herausforderungen vor allem auch auf technischer Ebene spannend ist und damit die beiden Interessensgebiete von Thomas ideal vereint.\n\n\nSocial Links:\n- rss: http://www.artiso.com/\n- xing: https://www.xing.com/profile/Thomas_Schissler
+DTEND:20160919T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160919T180000Z
+SUMMARY:DevOps - Agilität auf den Unternehmens-Kontext ausweiten
+UID:60ef0c15-3b9b-4506-ab2d-47df322c8c24@60ef.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Bereits 1988 hat Bertrand Meyer\, einer der Pioniere auf dem Gebiet der Objekt-Orientierten Programmierung\, in seinem Buch „Object-Oriented Software Construction“ Design By Contract (DbC) vorgestellt. Doch was genau ist DbC und nutzen wir dieses Prinzip bereits in unseren alltäglichen Programmierarbeiten effizient?\n\nIn diesem Vortrag sehen wir uns die wesentlichen Elemente von DbC (Assertions\, Pre-Conditions\, Post-Conditions und Class Invariants) im Detail an und überprüfen\, wie wir mit ihnen die Korrektheit unsereres Codes verifizieren können und inwieweit DbC mit der Objekt-Orientierten Programmierung und anderen O-O Design Prinzipien im Zusammenhang steht. Weiterhin werfen wir einen Blick auf Code Contracts von Microsoft\, mit denen man DbC in der eigenen Codebasis umsetzen kann\, und besprechen alternative Ansätze zu diesem Framework.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug studierte Informatik an der Ostbayerischen Technischen Hochschule Regensburg und ist aktuell Promovend und wissenschaftlicher Mitarbeiter an der Universität Regensburg. Dort erforscht er User Interface Konzepte für mobile Medizinapplikationen. Er ist besonders interessiert an den Themengebieten User Experience und User Interface Design\, OOP und OOD\, Softwarearchitektur\, Clean Code sowie Automatisiertes Testen.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20160125T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160125T180000Z
+SUMMARY:Design By Contract
+UID:41237a96-21a6-46de-90f0-d85e3bec8754@4123.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Fachvortrag von Christian Weyer zum Thema "Eine verteilte Anwendung mit WCF und WF – in Action!".\n\nSpeaker: Christian Weyer\n\nNone\n\n\nSocial Links:\n- rss: http://www.thinktecture.com/staff/christian
+DTEND:20080415T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080415T183000Z
+SUMMARY:Eine verteilte Anwendung mit WCF und WF – in Action!
+UID:1681581d-2158-4f05-9f4f-fbd995ef4ce4@1681.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die agile Welt hat ein neues Buzz-Wort: "Kanban". Kanban wird verschiedentlich als der neue Heilsbringer der agilen Welt dargestellt. Alle Teams die ihre Probleme mit Scrum haben\, werden nun mit Kanban glücklich. \n\nJa noch mehr. Kanban ist die neue Version von Agilität und wer was auf sich hält muss Kanban machen. Auf der anderen Seite ist das Wissen über Kanban dünn gesät. Das führt dazu\, dass viele tatsächlich in Kanban mehr hineininterpretieren als es tatsächlich sein kann. \n\nDer Vortrag möchte mit diesen Unklarheiten aufräumen und stellt vor was Kanban tatsächlich ist\, nämlich eine Prozessverbesserungsmethode\, aber nicht einen Prozess an sich.\n\nNach einem Überblick über Kanban werden Möglichkeiten aufgezeigt\, Prozesse mit Kanban aufzubauen\, in welchen Szenarien Kanban interessant ist aber auch wo seine Schwächen liegen und wie Kanban in der Praxis genutzt werden kann. Und natürlich gibt es auch ein kleines Beispiel wie Kanban konkret umgesetzt werden kann. Also besuchen sie diese Session um mitreden zu können und um für sich selbst eine Entscheidungsbasis zu haben.\n\nSpeaker: Thomas Schissler\n\nThomas Schissler\, artiso solutions GmbH und Leiter der .NET Usergroup Ulm\n\n\nSocial Links:\n- rss: http://www.artiso.com/problog/
+DTEND:20130212T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130212T183000Z
+SUMMARY:Kanban - Agile 2.0?
+UID:306d8a1d-531a-496f-9bfb-f76d97ab9988@306d.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit dem Bot Framework und den Cognitive Services stellt Microsoft mehrere Dienste für die Bot-Entwicklung zur Verfügung. Als Entwickler findet man zahlreiche Beispiele für einfache Use Cases\, wie z.B. das Bestellen einer Pizza. Doch wie verhält es sich\, wenn man das Stadium eines „Hello World“-Beispiels verlässt? Wie strukturiert man seine Sprachmodelle\, wenn die Anzahl der Intents steigt? Wie speichert man den State? Wie sorgt man für einen roten Faden in der Konversation?\nAnhand eines realen Beispiels werden wir unsere Erfahrungen und mögliche Antworten auf diese Fragen teilen. Als Beispiel dient ein HR Chatbot\, den die Firma Guid.New für Firmen wie thyssenkrupp und epunkt entwickelt hat. Er ist auf der Website eingebunden und unterstützt Jobsuchende dabei\, passende Stellen zu finden\, sich zu bewerben und den Bewerbungsprozess zu optimieren.\n\nBITTE BEACHTEN: Der Vortrag findet im Raum K002 der OTH Regensburg statt (Galgenbergstraße 32\, neues IM Gebäude). Für kostenfreie Getränke ist gesorgt.\n\nSpeaker: Igor Rončević\n\nIgor Rončević ist System- und Softwarearchitekt bei der AVL List GmbH und Berater bei Guid.New. Man findet ihn häufig als Sprecher auf Entwicklerkonferenzen und Meetups. Er betreut auch zwei Microsoft User Groups in Graz\, Österreich und Rijeka\, Kroatien. Sein Wunsch\, C# einfach erlernbar und annehmbar zu gestalten\, brachte ihn dazu Sharpen zu entwickeln\, eine Visual Studio Erweiterung\, die C# Features intelligent in bestehenden Quellcode einfließen lässt.\n\n\nSocial Links:\n- rss: http://thehumbleprogrammer.com/\n- twitter: https://twitter.com/ironcev_
+DTEND:20191030T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20191030T180000Z
+SUMMARY:Chat Bots - Beyond the Basics
+UID:93ff56c0-f342-4f8b-8c53-c5ed18470943@93ff.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Gehören Sie auch zu den Programmierern\, die eigentlich mal Spieleentwickler werden wollten? Oder haben Sie sich eventuell sogar darin versucht?\n\nDiese Session entführt Sie anhand eines live entwickelten 3D Spiels in die Welt der 3D Spieleentwicklung und vermittelt einen Eindruck\, was für technische Fähigkeiten notwendig sind um ein modernes Spiel zum Leben zu erwecken.\n\nSpeaker: Dirk Primbs\n\nDirk Primbs\, Developer Evangelist\, von der Microsoft Deutschland GmbH\n\n\nSocial Links:\n- rss: http://primbs.de/
+DTEND:20091015T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20091015T183000Z
+SUMMARY:Live-Coding: Ein 3D Spiel in 60 Minuten
+UID:87bd460a-2f6a-4284-828e-6d9ebf9e3d14@87bd.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:3D-Grafiken und Animationen sorgen für strahlende Augen\, können für den C#-Entwickler aber durchaus eine Herausforderung darstellen. Möglichkeiten zur Umsetzung gibt es genug: SlimDX\, SharpDX\, XNA\, OpenTK\, diverse 3D-Engines oder gar über die Standard-Funktionen von WPF. \n\nSchwierigkeitsgrade sind dabei praktisch alle von leicht bis extrem komplex vertreten und Stolpersteine existieren auch mehr als reichlich. Die Tatsache\, dass in WinRT bzw. Windows 8 die Welt etwas anders aussieht\, macht das Thema auch nicht leichter. \n\nIn seinem zweiten Vortrag bei der .NET-Usergroup gibt Referent Roland König Einblick in seine Praxis. Die gezeigten Beispiele bauen auf den Technologien SharpDX\, WPF und WinRT auf.\n\nSpeaker: Roland König\n\nRoland König ist seit 2007 als Softwareentwickler im Bereich Logistik und Automatisierung tätig. Sowohl beruflich als auch privat gilt sein besonderes Interesse der Entwicklung mit C# auf der .Net Plattform. Seine fachlichen Kenntnisse erweitert er durch ein Studium des Fachs Logistik neben dem Beruf.\n\n\nSocial Links:\n- rss: http://www.rolandk.de/
+DTEND:20130124T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130124T180000Z
+SUMMARY:3D-Darstellung mit C# in WPF und WinRT
+UID:f24253c9-3a1b-487e-bf5c-0b9ee0c7112a@f242.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Vortrag über das neue Online-Portal "MSDN" und weitere Entwicklerresourcen. Weitere Infos zu dem genauen Inhalt findet ihr [hier](http://www.microsoft.com/germany/msdn/aktuell/ineta.mspx).\n\nSpeaker: Kay Giza\n\nAudience Marketing Manager bei Microsoft Deutschland.\n\n\nSocial Links:\n- rss: http://www.microsoft.com/germany/msdn/PingMe/KayGiza/
+DTEND:20080710T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20080710T183000Z
+SUMMARY:18:30 Uhr
+UID:41ce20a1-5628-4431-bac7-2dd116921f13@41ce.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die Technologie der Kinect hat mittlerweile einige Jahre auf dem Buckel\, bereits die erste Version gab es vor einigen Jahren für Xbox 360 und wenig später auch für den PC. Für den Benutzer handelt es sich dabei um ein gänzlich neues Gefühl\, eine Software zu verwenden und zu erleben – oder schlicht um einen besonderen Hingucker. Für den Entwickler auf der anderen Seite ist das Gerät aber eine kleine bis große Herausforderung im Hinblick auf ein intuitives\, selbsterklärendes Bedienungskonzept oder für die Verwendung bei gänzlich neuen Anwendungsszenarien. So gilt es etwa bei der Gestenerkennung auf unterschiedlichste Typen von Benutzern und damit auf die kleinen und großen Abweichungen von Standard-Bewegungsabläufen zu achten.\n                            \nDieser Vortag gibt Anhand einer durch den Sprecher entwickelten App einen Überblick über die Funktionen und technischen Fallen der Kinect aus Sicht des Entwicklers und des Benutzers. Es wird auf Erfahrungen eingegangen\, wie Benutzer mit der Technologie umgehen und auf was besonders Kinect-Einstiger bei der Entwicklung achten sollten. Weitere Themen wie Unit-Testing\, Integration von Direct3D\, Direct2D oder OpenCV runden den Vortrag ab. Als Programmiersprache wird durchgängig C# verwendet.\n\nSpeaker: Roland König\n\nRoland König ist seit 2007 als Softwareentwickler bei der IGZ Logistics + IT GmbH im oberpfälzischen Falkenberg beschäftigt. Neben dieser Tätigkeit hat er nebenberuflich den Studiengang Logistikmanagement an der Euro-FH in Hamburg absolviert. Seine Schwerpunkte liegen in der Entwicklung und Betreuung von Standardprodukten im Bereich der Logistik / Automatisierung.\n
+DTEND:20150324T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150324T180000Z
+SUMMARY:Kinect V2
+UID:40abc0aa-3447-4cb8-bbf2-a859ffa38dff@40ab.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Als .NETler entwickeln wir mit einer Managed Sprache und mit Intermediate Language. Nun wird es mal Zeit\, einen Blick auf die CLR und den eigentlichen Motor unserer Anwendungen zu werfen. Wie funktioniert die CLR eigentlich und woher weiß Windows überhaupt\, dass eine Anwendung eine CLR-Anwendung ist? In knackigen 60 Minuten – wie ein Mechaniker den Motor zerlegen und wieder zusammenzubauen.\n\nSpeaker: Christian Giesswein\n\nChristian Giesswein studierte Wirtschaftsinformatik in Wien und entwickelt seit klein auf Software mit .NET und C#. In Tirol hat er sein Unternehmen "Giesswein Software-Solutions" (www.software.tirol) gegründet\, das sich auf Individualsoftware\, Consulting und Schulungen im Microsoft-Bereich spezialisiert hat.\n\n\nSocial Links:\n- rss: https://www.software.tirol/\n- twitter: https://twitter.com/GiessweinWeb
+DTEND:20170710T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20170710T180000Z
+SUMMARY:Internals of the .NET CLR
+UID:88299e98-c572-4354-99d6-6af4f8117af3@8829.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im November wird uns Torsten einiges zum Thema Mobile Computing mit dem .NET Compact Framework und mobile Webanwendungen mit Web 2.0 erzählen.\n\nSpeaker: Torsten Weber\n\nTorsten ist Leiter der Leipziger Usergroup\, MVP und Fachbuchautor zu diesem Thema.\n\n\nSocial Links:\n- rss: http://www.torstenweber.de/
+DTEND:20081117T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20081117T183000Z
+SUMMARY:Mobile Computing mit dem .NET Compact Framework
+UID:e0bab31d-63cc-4315-9a86-2c76c4bc72f9@e0ba.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Inhalt:\n\n- Wissenskultur im Unternehmen (Was wissen wir? Wo liegt das Wissen?)\n- Kollaborationskultur im Unternehmen (Geben und Nehmen oder Jäger und Sammler?)\n- Einführung einer Enterprise Social Collaboration Plattform \n- Mehr-Wert(e) schaffen\n- Das „Wir“ gewinnt\n- Lost and Found - die (FAST) Enterprise Search\n- Collaboration Features im neuen SharePoint 2013\n- Collaboration in der Cloud - Probleme und Lösungen\n- Blogs\, Foren\, Wikis\, Follow\n- Open Innovation à Enterprise Social Innovation\n- Yammer und Lync\n\nSpeaker: Achim Zeeck\n\nRegionalleiter Süddeutschland bei der LINTRA Solutions GmbH\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Achim_Zeeck
+DTEND:20130704T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130704T180000Z
+SUMMARY:Nutzen kommt von nutzen Wissensmanagement durch Enterprise Social Collaboration unter SharePoint 2013
+UID:215ab00e-faa7-4705-963d-607d20b2234c@215a.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Es beißt die Maus keinen Faden ab: die aktuellen Entwicklungen v.a. rund um mobile Endgeräte und Cloud Computing bedeutet für viele Softwareprojekte ein Umdenken in der Architektur. Wer das heute ignoriert\, könnte sich morgen in Kalamitäten befinden. Wie bekomme ich eine leichtgewichtige Integration meiner Systeme mit interoperabler Kommunikation gestemmt? \n                        \nWie kann ich Daten von meinen Services/Servern für eine Umsetzung von Real-Time-Kommunikation in meine Clients hinein pushen? In dieser User Group Session wird Christian Weyer in gewohnt praxisorientierter Manier zum Besten geben\, wie man diesen neuen Anforderungen architekturell begegnen kann. Dabei werden die Ansätze auch umgesetzt und realisiert mit Frameworks wie ASP.NET Web API\, SignalR und den passenden Client-Bibliotheken für .NET und HTML5/JavaScript Clients. Open your mind!\n\nSpeaker: Christian Weyer\n\nChristian Weyer ist Solution Architect und Mitgründer von thinktecture\, einer Firma\, die Software-Architekten und -Entwickler beim Entwurf und der Implementierung verteilter Anwendungsarchitekturen unter Windows und .NET unterstützt\n\n\nSocial Links:\n- rss: http://weblogs.thinktecture.com/cweyer/
+DTEND:20130319T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130319T180000Z
+SUMMARY:Willkommen im Heute: Leichtgewichtige Architekturen für jedermann und überall - Web APIs und Push Services mit .Net & HTML5 & Co.
+UID:989b22fb-85a8-413e-a457-5e57ed8ae62d@989b.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Im Visual Studio 2015 wurde die .NET Compiler Platform mit der aktuellsten Version der C# Programmiersprache integriert. Die Änderungen von C# 6 gegenüber seinem Vorgänger sind klein aber fein. In einem 30 Minuten Hands-on werden die neuen Features vorgestellt und deren Einsatz erläutert. Nach dem Vortrag wird in eine Diskussionsrunde übergegangen\, welche die zukünftige Ausrichtung und mögliche Veränderungen in der .NET Usergroup Regensburg offen debattiert.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist Doktorand an der Universität Regensburg und promoviert in der theoretischen Physik. Neben High Performance Computing und Webentwicklung ist er auch im Bereich Cliententwicklung unterwegs. An der Universität Regensburg hält Florian regelmäßig Vorlesungen zu den Themen "Programmierung mit C#"\, "Webapplications mit HTML5\, CSS3 und JavaScript" und "Software Design Patterns". Florian ist Microsoft MVP im Bereich Visual C# und CodeProject MVP.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20150928T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150928T180000Z
+SUMMARY:C# 6 in 30 Minuten
+UID:bae726f6-e7ac-48a8-bfb2-5059f7170bc7@bae7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die Prinzipien von Scrum fokussieren auf die Arbeit in einem Team. Bei größeren Projekten sind jedoch mehr Entwickler notwendig als in einem Scrum-Team effizient agieren können. Wie können nun mehrere Teams in einem Projekt sinnvoll organisiert werden? Welche zusätzlichen Strukturen sind zur Koordinierung notwendig? Wie werden die anstehenden Aufgaben in den Teams effizient verteilt und wie erfolgt die Abstimmung in den Teams?\n\nDieser Vortrag stellt den Nexus\, die Antwort von Scrum-Erfinder Ken Schwaber auf diese Fragen vor und erläutert neben den Grundmechanismen des Nexus\, wie dieser in der Praxis angewendet werden kann\, welche Herausforderungen zu meistern sind und welche Vorteile sich daraus ergeben. Wenn sie also mit mehreren Scrum-Teams am selben Produkt arbeiten\, dann bietet dieser Vortrag viele Anregungen und Best-Practices für sie.\n\nSpeaker: Thomas Schissler\n\nThomas Schissler ist Leiter der Software-Entwicklung bei der artiso solutions GmbH und unterstützt als Coach und Consultant Kunden bei der Verbesserung ihrer Software-Entwicklungsprozesse auf Basis von Agilität. Seit 2007 ist er jählich von Microsoft mit dem Microsoft MVP Award im Bereich Visual Studio ALM ausgezeichnet worden. Seit 2010 ist er zertifizierter Scrum-Trainer und bietet neben PSD.Net und PSM Trainings auch individuelle Coachings für agile Teams. Dabei kommt ihm zugute\, dass er auch eng mit den internen Entwickler-Teams bei artiso arbeitet und so aus theoretischem Wissen und Praxiserfahrung gleichermaßen schöpfen. Sein Steckenpferd ist aktuell das Thema DevOps das neben den organisatorischen Herausforderungen vor allem auch auf technischer Ebene spannend ist und damit die beiden Interessensgebiete von Thomas ideal vereint.\n\n\nSocial Links:\n- rss: http://www.artiso.com/\n- xing: https://www.xing.com/profile/Thomas_Schissler
+DTEND:20160215T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20160215T180000Z
+SUMMARY:Scrum mit mehreren Teams
+UID:99f7f049-86d2-4e04-a4f5-2f7e66706ddf@99f7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:C# ermöglicht uns sehr schnell selbst große Projekte durchzuführen. Allerdings werden dabei häufig vorhandene Möglichkeiten ausgelassen\, Fehler in der Verwendung von Spracherweiterungen begangen oder der Quellcode nicht gut genug optimiert. Letzteres schmerzt besonders bei wachsenden Projekten\, da sich dort die Zahl der Memory-Leaks häufig doppelt negativ auswirkt.\n \nDieser Vortrag geht auf eine Vielzahl von Möglichkeiten und Lösungen zu gängigen Problemen ein. Wir werden uns näher mit Lambda Expressions\, mit Task-basierterer Programmierung und mit der Optimierung von managed Code beschäftigen. Hierbei steht das Schreiben von eleganten\, effektiven und resourcenfreundlichen Code im Vordergrund.\n                        \nDer Vortrag richtet sich an alle\, die näheres über MSIL\, await / async\, Lambda Expressions oder Memory Allocations bzw. den Garbage Collector erfahren wollen. Auch alle\, die einfach nur ihre vorhandene Kenntnisse in C# erweitern möchten\, sind hier richtig.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist Doktorand an der Universität Regensburg und promoviert in der theoretischen Physik. Neben High Performance Computing und Webentwicklung ist er auch im Bereich Cliententwicklung unterwegs. An der Universität Regensburg hält Florian regelmäßig Vorlesungen zu den Themen "Programmierung mit C#"\, "Webapplications mit HTML5\, CSS3 und JavaScript" und "Software Design Patterns". Florian ist Microsoft MVP im Bereich Visual C# und CodeProject MVP.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20130606T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20130606T180000Z
+SUMMARY:A package of C# life savers
+UID:22007f70-1025-4b8f-8e96-c2ad4c54fe4b@2200.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Rust hat sich längst über seine Wurzeln in ressourcenbeschränkten Systemanwendungen hinaus etabliert und beginnt\, auch in \nklassischen Domänen von C# Fuß zu fassen. Ist Rust tatsächlich die Programmiersprache der Zukunft?\n\nIn diesem Vortrag vergleichen wir Rust und .NET aus technischer und strategischer Perspektive: Kann das Ahead-of-Time (AoT) \nKompilieren von .NET mit der Performance von Rust mithalten? Wie groß ist der Unterschied in der Laufzeitleistung – und \nwelche Kompromisse erfordert die deutlich längere Kompilationszeit von Rust? Darüber hinaus beleuchten wir die Unterschiede \nzwischen Rusts Ownership-Modell und der Garbage Collection von .NET: Ist Speicher- und Datensicherheit durch Rust \nein überzeugendes Argument?\n\nAnhand von Benchmarks und praktischen Anwendungsbeispielen erörtern wir\, ob .NET rostet oder ob beide Ökosysteme auch\nlangfristig ihre eigenen Stärken bewahren können. Dieser Vortrag richtet sich an Entwickler\, Architekten und Entscheider\,\ndie fundierte Einblicke in die Zukunft zweier führender Technologieplattformen gewinnen möchten.\n\nSpeaker: Dr. Florian Rappl\n\nDr. Florian Rappl ist Solution Architect bei smapiot für verteilte Webapplikationen. Er hat mehrere Preise für seine Arbeiten gewonnen und ist Microsoft MVP im Bereich Development Technologies. Er schreibt regelmäßig Artikel für seinen eigenen Block als auch für mehrere populäre Softwareentwicklungsseiten im Netz.\n\n\nSocial Links:\n- linkedin: https://www.linkedin.com/in/florian-rappl\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20251021T200000Z
+LOCATION:Syskron
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20251021T180000Z
+SUMMARY:Rostet .NET? Rust vs C#
+UID:8806506c-2814-4cd0-8f58-215a6df0f668@8806.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Weihnachtsfeier der .NET Usergroup Regensburg. Im Dezember gibt es keinen Vortrag. Bei diesem Treffen sollen sich die Mitglieder\, im Rahmen der Weihnachsfeier\, noch besser kennenlernen.\n\nSpeaker: .NET Usergroup\n\nLokale Usergroup.\n\n\nSocial Links:\n- rss: http://www.dotnet-regensburg.de/
+DTEND:20081217T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20081217T183000Z
+SUMMARY:Weihnachtsfeier
+UID:6ac72c1b-8dda-422d-9096-1564f1b5b379@6ac7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Die DNX (.NET Execution Enviroment) ist ein Framework von Microsoft mit Eigenschaften\, die man so noch in keinem Framework vorgefunden hat. Sie kann als eine Mischung von Framework\, Entwicklungs- und Laufzeitumgebung betrachtet werden. Mit der DNX ist es möglich\, .NET Anwendungen - vor allem für die Cloud - unabhängig von Entwicklungsumgebung\, Betriebssystem und .NET Laufzeitumgebung zu entwickeln. Vor kurzem noch unvorstellbare Dinge werden damit von Microsoft direkt unterstützt: .NET ohne Windows\, ohne Visual Studio und ohne .NET Framework. \n\nEine DNX Anwendung läuft ohne Einschränkungen auf verschiedensten Plattformen und das alles ohne sich vorher auf Windows/Linux oder .NET Framework/Mono festlegen zu müssen. Die DNX abstrahiert für uns die Infrastruktur von Laufzeitumgebung und Entwicklungsumgebung. Wollen wir eine Cloud Anwendung Cross-Plattform entwickeln\, können wir Entwickler uns voll und ganz auf die Anwendung konzentrieren und müssen uns nicht mit Themen des Toolings herumschlagen. \n\nDer Vortrag verrät\, wie es funktioniert\, was dahinter steckt und geht darüber hinaus immer wieder darauf ein\, warum Microsoft die DNX als neue Basistechnologie für die nächste Version von ASP.NET entwickelt hat. Die neue .NET Laufzeitumgebung - .NET Core – hängt stark mit der DNX zusammen und wird daher ebenfalls Teil des Vortrags sein.\n\nSpeaker: Daniel Murrmann\n\nDaniel Murrmann ist Software Architekt und Teamleiter bei der Maschinenfabrik Reinhausen GmbH in Regensburg. Parallel dazu ist er selbständiger Trainer und Berater für aktuelle.NET und Web Technologien. Hierbei unterstützt er seine Kunden sowohl bei methodischen als auch technologischen Fragestellungen.\n\n\nSocial Links:\n- twitter: https://twitter.com/Slyer5\n- github: https://github.com/fancyDevelopment\n- rss: http://www.fancy-development.net/
+DTEND:20150629T210000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150629T190000Z
+SUMMARY:DNX - Mittler zwischen den Welten
+UID:0f586606-63d4-444f-a775-dc951572b5d4@0f58.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Wenn Entwickler von .Net Technologien sprechen\, wird die Workflow Foundation eher selten erwähnt. Zu Unrecht! Über Workflows können komplexe Programmabläufe einfach dargestellt und durch den Anwender manipuliert werden. Zudem bieten sie eine für den Entwickler einfache Möglichkeit\, Programme erweiterbarer zu machen.\n\nDieser Vortrag gibt einen Überblick über die Konzepte der WF 4 und zeigt Anwendungsbeispiele aus Sicht der Server- und der Client-Entwicklung.\n\nSpeaker: Roland König\n\nRoland König ist seit 2007 als Softwareentwickler im Bereich Logistik und Automatisierung tätig. Bei der täglichen Arbeit setzt er dabei auf .Net- und SAP-Technologien. Seine fachlichen Kenntnisse erweitert er durch ein Studium des Fachs Logistik neben dem Beruf.\n\n\nSocial Links:\n- github: https://github.com/RolandKoenig
+DTEND:20120119T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120119T183000Z
+SUMMARY:Workflow Foundation 4
+UID:b6507c4c-78f7-4ccd-a32a-362644152824@b650.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Wollt ihr Rich-Internet-Applications (RIAs) auf Basis von .NET-Framework entwickeln und perfekt in die Microsoft-Plattform integrieren\, gibt es dafür seit einem Jahr eine besonders geeignete Lösung: **Silverlight**\, die von Microsoft entwickelte Web-Präsentationstechnologie. Unser Themenabend **Web & Silverlight** zeigt anhand eines E-Commerce-Szenarios\, welche neuen Möglichkeiten in Silverlight und den Microsoft-Webtechnologien stecken.\n                        \nIhr lernt während des Usergroup Treffens unter anderem  für das Erstellen von Benutzeroberflächen in Silverlight kennen\, erhaltet Einblicke in die Bildbearbeitung mit Expression Design und in das Arbeiten und Programmieren mit Expression Blend. Weitere Themenschwerpunkte sind die Veröffentlichung von Videos sowie die wesentlichen Silverlight-Entwicklungsgrundlagen in Visual Studio.\n                        \nAnhand praktischer Beispiele demonstriert \, wie sich die letzte Meile zum Anwender mithilfe von Silverlight durch interaktive Methoden überwinden lässt.\n\nSpeaker: Philipp Bauknecht\n\nGeschäftsführender Gesellschafter der medialesson GmbH (Pforzheim) und dort für die Beratung\, Konzeption und Produktion von Lösungen für webbasierte und lokale Rich-Media-Anwendungen zuständig. Neben zahlreichen Projekten mit kleinen und mittelständischen Kunden sammelte er wertvolle Erfahrungen in der Entwicklung von Lernsoftware für den Geschichtsunterricht. Sein Know-how gibt er seit zwei Jahren an Studenten der Hochschule Pforzheim weiter. Seit 2008 beschäftigt er sich intensiv mit Microsoft Silverlight. Das von ihm entwickelte Silverlight Szenario vermittelt er als Trainer und als Autor von CodeClips. Seinem Studium zum Diplombetriebswirt mit der Fachrichtung Werbung verdankt er seine kreative Denkweise und die Sammelleidenschaft für Werbeclips.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Philipp_Bauknecht
+DTEND:20090319T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090319T183000Z
+SUMMARY:Web & Silverlight
+UID:e0039a82-602d-4167-8f2a-e69b31fc4976@e003.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Windows 7 kann Multitouch. Bisherige Anwendungen dafür haben eher Show- oder Spielcharakter. Kein Wunder\, die Techologie ist noch neu. Doch Entwickler sollten sich schon jetzt in der neuen Kunst üben. Denn nicht die Technik wird über den Erfolg entscheiden\, sondern Programm\, welche die Gestensteuerung zu nutzen wissen.\n\nSpeaker: Bernhard Pichler\n\nDipl.-Theol. Bernhard Pichler ist Geschäftsführer von Informare Consulting und Gründer des europäischen Forums für Erweiterte Usibility\, kurz EF.EU. Das Forum bechäftigt sich technologisch und konzeptionell mit dem Thema Mutlitouch und identifiziert Innovationspotenziale dieser Technologie.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Bernhard_Pichler
+DTEND:20100607T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100607T183000Z
+SUMMARY:Multitouch-nur keine Berührungsängste
+UID:c32dc5b6-1ee1-4e84-8c45-a7ddf811832c@c32d.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:HTML gehört mittlerweile zum Anforderungsprofil jeden Entwicklers. Trotzdem sind viele Webseiten\, v. a. performancetechnisch\, sehr schlecht geschrieben. Auch speziellere Regeln des HTML Standards\, z. B. scoping\, sind häufig nicht bekannt. In diesem Vortrag wird die Auszeichnungssprache HTML von der HTTP Abfrage bis zum Rendern im Browsern im Detail beleuchtet. Wie es sich für eine .NET Usergroup gehört\, soll auch C# soll nicht außen vor bleiben. Nahezu alle Schritte werden mit AngleSharp illustriert\, einer W3C konformen Bibliothek für .NET. \n\nWer also schon immer wissen wollte wie das Laden von Skripten funktioniert\, warum Skripte bevorzugt zum Schluss aufgeführt werden sollten\, oder warum POST Requests einen MIME-Type benötigen\, ist hier richtig. Außerdem wird auch auf spezielle Themen wie Shadow DOM\, Templates oder Mutation Observer eingangen. Abschließend wird auch noch die Notwendigkeit des picture Elements geklärt.\n\nSpeaker: Florian Rappl\n\nFlorian Rappl ist Doktorand an der Universität Regensburg und promoviert in der theoretischen Physik. Neben High Performance Computing und Webentwicklung ist er auch im Bereich Cliententwicklung unterwegs. An der Universität Regensburg hält Florian regelmäßig Vorlesungen zu den Themen "Programmierung mit C#"\, "Webapplications mit HTML5\, CSS3 und JavaScript" und "Software Design Patterns". Florian ist Microsoft MVP im Bereich Visual C# und CodeProject MVP.\n\n\nSocial Links:\n- twitter: https://www.twitter.com/FlorianRappl\n- github: https://github.com/FlorianRappl\n- rss: http://www.florian-rappl.de/
+DTEND:20150727T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20150727T180000Z
+SUMMARY:How To Meet Ladies mit AngleSharp
+UID:67347136-7d77-438c-a548-002ad33f9a44@6734.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Microsoft hat mit “async” und “await” zwei neue Schlüsselwörter zu C# und Visual Basic hinzugefügt. Damit soll\, laut MSDN\, das Ansprechen asynchroner Funktionen des .Net Frameworks und der Windows Runtime vereinfacht werden. \n\nWo liegen die Vorteile dieser neuen Herangehensweise? Warum ist sie überhaupt nötig? Und wie erstellt man nun Programme\, die asynchron auf Daten zugreifen? \n\nDieser Vortrag soll an einfachen Beispielen die Stärken und die Praxistauglichkeit des neuen Ansatzes zeigen.\n\nSpeaker: Peter Butzhammer\n\nPeter Butzhammer studierte Physik in Regensburg und arbeitet derzeit als Programmierer in der Prüftechnik & Hardwareentwicklung der evopro AG in Regensburg. Nebenberuflich ist er seit 2002 als selbstständiger Softwareentwickler tätig. Nach seiner Einführung in F# ist dies sein zweiter Vortrag bei unserer User Group.\n\n\nSocial Links:\n- rss: http://www.codeproject.com/Articles/butzhammer
+DTEND:20120927T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120927T183000Z
+SUMMARY:Asynchrone Programmierung in C# 5
+UID:0c6cf183-6661-46b8-8c9a-28d757644820@0c6c.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Warum kommt es immer wieder zu unerwarteten Fehlern in der Produktion\, die schwer nachzuvollziehen sind? Warum wird meine Applikation immer langamer! Diese und andere Fragen hat sich bestimmt schon jeder SharePointentwickler gefragt.\n\nDas Einhalten von bestimmten Grundregeln und Vorgehensweisen bei der SharePoint Entwicklung ist essenziell. Der Vortrag soll die wichtigsten Best Pratices aufzeigen und den SharePointentwickler auf bestimmte Bereiche sensibilisieren.\n\nSpeaker: Thomas Ebert\n\nThomas ist Softwareentwickler im Global Compentence Center Sharepoint und Intranet bei der Uni Credit Global Information Services S.C.p.A. in München und Leiter der .NET und SharePoint Usergroup Regensburg.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Thomas_Ebert23
+DTEND:20110228T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110228T183000Z
+SUMMARY:Best Practice in der SharePoint Entwicklung
+UID:efd0b366-9cb8-4650-9ef9-b7ed91f2cffe@efd0.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Siegeszug von REST und HTTP hat in den letzten Jahren einen deutlichen Einfluss auf die Systemarchitektur moderner Anwendungen genommen: Web Apps\, Web APIs\, und Microservices brechen monolithische Designs auf in kleinere\, fokussierte Prozesse\, von denen viele auch direkt vom Endnutzer angesprochen werden. Doch wie sichert man eine solche Architektur effektiv mit Authentifizierung und Autorisierung ab und bietet dabei dem Nutzer den Komfort des Single-Sign-On?\n\nDominick Baier ist einer der Autoren von IdentityServer4 und hat in den letzten Jahren eng mit dem ASP.NET Team zusammengearbeitet\, um sicherzustellen\, das ASP.NET Core den Authentifizierungs- und Autorisierungsanforderungen von modernen Anwendungen genügt. IdentityServer4 ist eine wichtige Plattform-Erweiterung (Middleware auf Neu-Deutsch) für ASP.NET Core\, die es erlaubt\, Authentifizierung\, Federation\, Single Sign-On und API Zugriffskontrolle in die eigenen Anwendungen zu integrieren. Neben Infos zu IdentityServer4 gibt es auch eine praktische Einführung in das Thema.\n\nDieser Talk ist ein Remote-Talk\, d.h. Dominick Baier wird nicht persönlich anwesend sein\, aber via Video-Chat präsentieren. Fragen können natürlich jederzeit an ihn gestellt werden während des Vortrags. Wir hoffen mit diesem Pilotversuch langfristig Sprecher für Vorträge zu gewinnen\, die nicht direkt im Umkreis Regensburg und Bayern wohnen.\n\nSpeaker: Dominick Baier\n\nDominick Baier ist unabhängiger Consultant\, der sich auf den Bereich Identity und Access Control spezialisiert hat. Er hilft weltweit Unternehmen bei Design und Implementierung von Authentifizierung und Authorisierung in verteilten Applikationen. Neben dieser Tätigkeit ist er Buchautor\, Sprecher im nationalen und internationalem Umfeld sowie der Co-Autor des bekannten OpenID Connect & OAuth 2.0 Frameworks IdentityServer.\n\n\nSocial Links:\n- rss: https://leastprivilege.com/\n- twitter: https://twitter.com/leastprivilege
+DTEND:20170306T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20170306T180000Z
+SUMMARY:Moderne Authentifizierung und Autorisierung mit ASP.NET Core und IdentityServer 4
+UID:fca42d44-54d3-4fbd-bbdc-003c7b0af665@fca4.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Funktionale Programmierung hat in den letzten Jahren den Sprung aus der akademischen Welt in die Mainstreamsprachen geschafft. Sie hilft beim Entwickeln paralleler Anwendungen und macht Code besser lesbar.\n\nLINQ  ist fester Bestandteil des .NET-Frameworks und mit Visual Studio 2010 hat Microsoft F# als vollwertige Sprache aufgenommen.\n\nDoch wie definiert sich funktionale Programmierung eigentlich? Warum macht sie Programme übersichtlich und parallelisierbar?\n\nWieso ist dazu eine neue Programmiersprache notwendig und wie fügt sich F# in das .NET-Framework ein? Peter Butzhammer versucht diese Fragen zu beantworten und Einsatzgebiete von F# abzustecken.\n\nSpeaker: Peter Butzhammer\n\nPeter Butzhammer studierte Physik in Regensburg und arbeitet derzeit als wissenschaftlicher Mitarbeiter am Lehrstuhl für statistische Bioinformatik. Nebenberuflich ist er seit 2002 als selbstständiger Softwareentwickler tätig.\n\n\nSocial Links:\n- rss: http://www.codeproject.com/Articles/butzhammer
+DTEND:20110825T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110825T183000Z
+SUMMARY:F#
+UID:7913ee7e-b0d4-4f17-9192-c7387b42be47@7913.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Seit Monaten bereiten Sie sich auf Windows 8 und WinRT vor. Nun hat gerade Ihr wichtigster Kunde angerufen\, um Ihnen den Auftrag zur Entwicklung einer entsprechenden Anwendung zu erteilen. Ihr anfänglicher Stolz ist jedoch schnell Ernüchterung gewichen\, als die Anforderung genannt wurde\, dass die Anwendung in JavaScript geschrieben werden müsse. \n                        \nDiese Sprache haben Sie bislang nämlich vollständig außer Acht gelassen. Was Sie jetzt brauchen\, ist ein JavaScript-Crashkurs für C#-Entwickler\, der Ihnen auf die Sprünge hilft. Golo Roden stellt Ihnen in zwei Stunden (fast) alles vor\, was Sie über JavaScript wissen müssen\, und zeigt - ganz nebenbei - dass JavaScript-Entwicklung nicht bedeutet\, steinzeitlich mit vi auf der Konsole arbeiten zu müssen.\n\nSpeaker: Golo Roden\n\nGolo Roden ist freiberuflicher Wissensvermittler und Technologieberater für .NET\, Codequalität und agile Methoden. Zu diesen Themen berät er Firmen bei der Evaluierung\, Erforschung und Verwendung geeigneter Technologien und Methoden. Darüber hinaus ist er journalistisch für Fachzeitschriften und als Referent und Content Manager für Konferenzen tätig. Für sein qualitativ hochwertiges Engagement in der Community wurde Golo von Microsoft als Most Valuable Professional (MVP) für C# ausgezeichnet.\n\n\nSocial Links:\n- rss: http://www.goloroden.de/
+DTEND:20120823T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20120823T183000Z
+SUMMARY:JavaScript für C#-Entwickler
+UID:c60346c6-35e5-428c-a478-3fb9dc606529@c603.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Multithreading mit dem WPF Dispatcher\, Responsive UI. In 5 Evolutionsschritten entwickeln wir einen Bilderbrowser. Von der lahmen Ente zum Turbo.\n\nSpeaker: Bernhard Pichler\n\nDipl.-Theol. Bernhard Pichler ist Geschäftsführer von Informare Consulting und Gründer des europäischen Forums für Erweiterte Usibility\, kurz EF.EU.\n\n\nSocial Links:\n- rss: https://www.xing.com/profile/Bernhard_Pichler
+DTEND:20110630T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110630T183000Z
+SUMMARY:WPF Dispatcher
+UID:7a1ebdd5-3479-476d-8a3a-9ca980392315@7a1e.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Nach Continuous Integration (CI) wartet mit Continuous Deployment (CD) die nächste Stufe im agilen Konfigurationsmanagement. Doch welche Funktionen liefert der Team Foundation Server von MS um CI und CD zu unterstützen und wie können diese optimal eingesetzt werden.\n\nDer Vortrag zeigt wie mit dem Visual Studio Team Foundation Server eine projektorientierte und leistungsfähige CI/CD Umgebung aufgebaut und betrieben werden kann.\n\nSpeaker: Robert Eichenseer\n\nRobert ist seit langem in der Entwicklung von Applikationen auf Basis der Microsoft-Technologien tätig. Aufgrund seiner Arbeit in internationalen Projekten kann er Anforderungen heutiger Softwareentwicklungen erfolgreich umsetzen und steuern. Die Zuordnung betriebswirtschaftlicher Prozesse zu passenden Entwicklungsthemen bzw. Technologien zeichnet ihn hierbei aus. Seit Juli 2009 ist er als Senior Software Engineer für die conplement AG in Nürnberg tätig. Aktuelle Technologien stellt er als Software Consulter regelmäßig auf Entwicklerveranstaltungen vor. Er zählt Windows Azure\, die Cloud Computing Plattform von Microsoft\, zu seinen aktuellen Lieblingsthemen. Robert Eichenseer gehört zu den gefragten Sprechern der conplement. Die Auszeichnung "Best Speaker des Tages" für seinen Vortrag "Wer bin ich? Von Active Directory zu einer Windows Azure Applikation" beim Herbstcampus 2011 belegt die Vortragsqualität von Robert Eichenseer.\n\n\nSocial Links:\n- rss: http://www.eichenseer.de/
+DTEND:20121115T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20121115T183000Z
+SUMMARY:Continuous Integration / Continuous Deployment
+UID:bbce4fff-15b9-4535-9e47-fa8d22c2576e@bbce.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Der Vortrag beschreibt die in Architektur-Design-Workshops gewonnenen und erprobten Vorgehensmuster zum Entwurf von Rich Clients mit Hilfe der Composite Application Library (CAL) von Microsoft patterns & practices für Windows Presentation Foundation-Anwendungen\, sowie die Unterschiede zum Composite Application Block (CAB) für Windows Forms.\n\nDarüber hinaus beleuchtet der Vortrag nützliche Features in CAL\, die auch einzeln für sich genommen einen Mehrwert für die WPF-Entwicklung bieten.\n\nSpeaker: Jörg Jooss\n\nJörg Jooss unterstützt als Software-Architekt im Microsoft Technology Center (MTC) in München Microsoft-Kunden und –Partner beim Entwurf und der Erstellung .NET-basierter Lösungen. Zu seinen Interessenschwerpunkten zählen die Entwicklung verteilter Anwendungen\, Entwurfsmuster und Entwicklungsmethoden. Bevor er im Jahr 2005 zu Microsoft kam\, war er über viele Jahre als Technologie-Berater für eine international führende Unternehmensberatung tätig.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Joerg_Jooss
+DTEND:20090514T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20090514T183000Z
+SUMMARY:Von “CAB” zu “CAL” – Modulare Client-Architekturen für WPF-Anwendungen
+UID:fcf2e57e-a1d3-49b7-b50f-3f720cda5253@fcf2.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Das Jahr 2009 war die Geburtsstunde von Node.js. Dass hierbei JavaScript ebenfalls serverseitig verwendet werden kann\, ist nur ein Teilaspekt für den hohen Erfolg. Viel relevanter ist die extrem hohe Performance\, Skalierbarkeit und Produktivität. Nicht ohne Grund wird ASP.NET komplett neu erfunden und basiert auf den gleichen Ideen wie Node.js. Namenhafte Firmen wie Microsoft selbst\, Google\, PayPal\, New York Times\, GitHub\, uvw. setzen bereits auf das leistungsstarke Node.js. Der Vortrag zeigt durch eine Reise der Node.js Architektur\, woher die Vorteile kommen. Durch einen Vergleich von ähnlichen Funktionen\, wird zudem der ideale Einstieg für .NET Entwickler geboten.\n\nDer Vortrag findet im Raum "Newton" in der TechBase Regensburg statt.\n\nSpeaker: Gregor Biswanger\n\nGregor Biswanger (Microsoft MVP\, Intel Black Belt & Intel Software Innovator) ist freier Dozent\, Berater\, Trainer\, Autor und Sprecher. Er berät große und mittelständische Unternehmen\, Organisationen und Agenturen rund um die Themen zur Softwarearchitektur\, Web- und Cross-Platform-Entwicklung mit JavaScript. Außerdem schreibt er online als freier Autor für heise und bringt für Fachmagazine auch gerne Artikel aufs Blatt. Er ist international als Sprecher auf zahlreichen Konferenzen und Communities unterwegs. Sie erreichen ihn unter cross-platform-blog.de.\n\n\nSocial Links:\n- rss: http://about.me/gregor.biswanger\n- rss: http://dotnet-blog.net/
+DTEND:20170405T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20170405T180000Z
+SUMMARY:Kuck mal\, Node.js! Einstieg für .NET Entwickler mit Visual Studio Code und TypeScript
+UID:62f54b68-1f93-4760-974e-977f58c1d4aa@62f5.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:- Anforderungen an eine Suchfunktion im Intranet\n- Architektur und Funktionsweise einer Suche\n- Übersicht über die Produkte zur Enterprise Search von Microsoft\n- Beispiel: Zusammenklicken einer einfachen Suche im Sharepoint\n- Bericht: Architektur und Betrieb der Intranetsuche für die HVB\n- Probleme mit der Suche bei Sharepoint 2007\n- Coole Features in FAST ESP\n- Bericht: Anforderungen und Architektur einer FAST ESP Installation\n- Fragen und Antworten.\n\nSpeaker: Dr. Hans-Jörg Burtschick\n\nDr. Hans-Jörg Burtschick absolvierte eine Lehre als EDV-Kaufmann und studierte Informatik an der TU Berlin\, wo er bis 1989 als wissenschaftlicher Mitarbeiter tätig war. Nach seiner Promotion auf dem Gebiet der Theoretischen Informatik begann er 1997 eine Tätigkeit bei einem IT-Dienstleister im Bankenbereich. Dort ist er seit 2000 zuständig für das Thema Intranetsuche.\n\n\nSocial Links:\n- rss: http://www.thi.uni-hannover.de/vollmer.html
+DTEND:20101125T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20101125T183000Z
+SUMMARY:Suche für Intranets
+UID:3277d7db-da8d-48ca-870e-e6e626da8c96@3277.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Mit dem App Model entstand ein weiteres Entwicklungsmodell um SharePoint Anwendungen zu entwickeln. In dieser Session sehen sie einen kurzen Einstieg\, wie SharePoint Apps entwickelt werden. Welche Vor- und Nachteile sie gegenüber herkömmlichen Farm-Solutions bieten.\n\nSie lernen auch wann SharePoint-hosted oder Provider-hosted-Apps eingesetzt werden. Auch das Thema Deployment kommt nicht zu kurz. \n\nNach dieser Session können Sie abschätzen mit welcher Technologie sie Ihre nächste SharePoint Erweiterung programmieren sollten.\n\nSpeaker: Martin Groblschegg\n\nMartin Groblschegg entwickelt seit 1991 Software im Windows Bereich. Seine Spezialgebiete sind  Microsoft SQL Server BI Lösungen und die Entwicklung von Microsoft SharePoint Lösungen. Martin ist CTO der ppedv AG\, einem Gold Learning Partner von Microsoft. Als MCT Regional Lead unterstützt er Microsoft Trainer bei Schulungen und hält selbst Schulungen bei der ppedv AG. Er ist Sprecher bei nationalen und internationalen Konferenzen und Autor in Fachmagazinen. Martin absolvierte das Betriebswirtschaftsstudium an der Wirtschaftsuniversität Wien und seine aktuellen Microsoft Zertifizierung zum MCT\, MCPD SharePoint\, MCTS BI und SharePoint\, MCITP SharePoint und MCAD WebApplications spiegeln sein aktuelles Tätigkeitsfeld wider.\n\n\nSocial Links:\n- xing: https://www.xing.com/profile/Martin_Groblschegg
+DTEND:20151029T193000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20151029T173000Z
+SUMMARY:Einstieg in SharePoint App Development
+UID:7b5be0c1-5808-493f-9540-4fd6dfe3cd99@7b5b.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:In ASP.NET Core Applikationen gehört der Dependency Injection Container mittlerweile zur Grundausrüstung. Diese Komponente erlaubt uns das flexible Auflösen von Objektgraphen – doch was steckt hinter Registrierungen\, Lebenszeiten\, den verschiedenen Arten der Dependency Injection\, und Objektkomposition? \n\nIn diesem Talk setzen wir uns mit dem internen Aufbau von DI Containern auseinander\, um nachvollziehen zu können\, was beim Auflösen eines Objektgraphs genau passiert. Weiterhin besprechen wir Patterns und Anti-Patterns beim Thema Dependency Injection\, und beleuchten ebenso\, wie das Prinzip beim Laden von Daten aus Datenbanken oder über Web Services angewandt werden kann\, sowie im Kontext der SOLID Prinzipien zu verstehen ist.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug studierte Informatik an der Ostbayerischen Technischen Hochschule Regensburg und ist aktuell Softwareentwickler bei der Synnotech AG sowie Doktorand an der Universität Regensburg. Dort erforscht er neue Wege zur Serialisierung und Deserialisierung von komplexen Objektgraphen ohne den Einsatz von Data Transfer Objects. Er ist besonders interessiert in den Themengebieten Softwarearchitektur und -Design im objektorientierten Umfeld\, agile Softwareentwicklungsprozesse\, Clean Code\, Automatisiertes Testen sowie User Interface Design.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20170628T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20170628T180000Z
+SUMMARY:Dependency Injection in .NET
+UID:24289cc6-d951-480d-a8ba-cc48afa35ae6@2428.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Ein Fachvortrag zu den Themen Linq\, ADO Entity Framework und dem Projekt TigerDuck.\n\nSpeaker: Dariusz Parys\, Bernhard Frank\n\nBeide von der Microsoft Deutschland GmbH.\n\n\nSocial Links:\n- rss: http://blogs.msdn.com/dparys/\n- rss: http://blogs.msdn.com/b.frank/
+DTEND:20081009T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20081009T183000Z
+SUMMARY:Projekt TigerDuck
+UID:8435134e-0fdb-42c9-aed5-dc5704a8b778@8435.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Heute hü\, morgen hott - das ist Alltag für viele Entwickler. Häufig geschieht dies unter dem Deckmäntelchen eines vermeintlich "agilen" Vorgehens\, schließlich bedeutet Agilität ja zugleich Wendigkeit. Doch Agilität ist nicht gleichzusetzen mit Chaos. Vielmehr geht es darum\, gezielt und sauber zu entwerfen\, zu planen und zu entwickeln - ohne dabei zugleich die erforderliche Flexibilität zu verlieren. Dazu bedarf es einiger Regeln als stabiles Fundament. \n\nDas Agile Manifest und die darauf aufbauenden agilen Methoden bieten ein solches Regelwerk als Fundament. Golo Roden stellt die Ideen und Werte vor\, die dem Agilen Manifest zu Grunde liegen und die allen agilen Methoden gemein sind\, und zeigt\, wie diese in XP\, Scrum und FDD gelebt werden.\n\nSpeaker: Golo Roden\n\nGolo Roden ist freiberuflicher Wissensvermittler und Technologieberater für .NET\, Codequalität und agile Methoden. Für sein hochwertiges Engagement in der Community wurde er im Jahr 2010 von Microsoft als MVP für C# ausgezeichnet. Golo ist verheiratet und Vater einer Tochter\, hat zwei Collies und eine Schwäche für Eisbären. Er beschäftigt sich in seiner Freizeit mit elektronischer Musik\, digitaler Fotografie und Kochen.\n\n\nSocial Links:\n- rss: http://www.goloroden.de/
+DTEND:20110127T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20110127T183000Z
+SUMMARY:Agile Methoden mit XP\, Scrum und FDD
+UID:2a4b213a-d569-42a9-8c30-3c5f2485ba6f@2a4b.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Software-Entwicklung ist mehr als nur Code schreiben und diesen verwalten. Wenn man sich den Lebenszyklus einer Anwendung ansieht\, dann wird man feststellen\, dass an dessen erster Stelle die Idee (!) steckt und deren Beschreibung\, aus der dann die Anforderungen an das Entwicklungsteam entstehen. Die Visualisierung dieser Anforderungen\, Aufgaben und der Verfügbarkeit der Team-Mitglieder ist ein entscheidendes Erfolgskriterium\, um Software erfolgreicher realisieren zu können. \n\nJedes Team sollte jederzeit wissen\, wie viel Arbeit noch zu leisten ist\, um ein gemeinsames Ziel zu erreichen.\n\nIn diesem Vortrag lernen Sie den Team Foundation Server 2013 und dessen Planungstools kennen. Erfahren Sie\, wie Sie Anforderungen\, Bugs und Aufgaben im Team Foundation Server anlegen und pflegen und wie Sie einen Überblick über Ihre Teamziele behalten.\n\n1. Planen für Entwicklungsteams und Management\n2. Anforderungen und Aufgaben erfassen\n3. Kapazitätsplanung\n4. Daily Stand-Up's\n5. Advanced Customizing (optional)\n\nSpeaker: Karsten Kempe\n\nKarsten Kempe ist ALM-Berater der conplement AG in Nürnberg. Er verfügt über langjährige Erfahrung in der Softwareentwicklung auf Basis der Microsoft Technologien und hat sich auf Themen rund um Microsofts Team Foundation Server spezialisiert. Er unterstützt Firmen bei der Einführung\, Anpassung und Verwendung des Team Foundation Servers\, tritt als Fachautor\, Blogger und als Sprecher auf Konferenzen in Erscheinung.\n\n\nSocial Links:\n- rss: http://almsports.net/
+DTEND:20131017T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20131017T180000Z
+SUMMARY:TFS 2013
+UID:d6c79c11-87ac-4cf7-be24-a30dc4518e5a@d6c7.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Durch lückenhafte Anforderungen und Termindruck ist schlechte Softwarequalität oft nicht begründbar. \n                            \nZu diagnostizieren ist vielmehr die breite Abwesenheit eines unverbrüchlichen Fundaments an Prinzipien und Praktiken für die Softwareentwicklung. Die Clean Code Developer (CCD) Initiative möchte das ändern.\n                            \nDer Vortrag stellt das CCD-Wertesystem mit seinen Bausteinen\, Prinzipien und Praktiken vor\, erklärt die schrittweisen Arbeit an seinen Modulen und diskutiert mit den Zuschauern über Nutzen\, Chancen und Grenzen eines solchen Wertesystems.\n\nSpeaker: Ralf Westphal\n\nRalf ist ein international anerkannter Sprecher auf Konferenzen und vielen wahrscheinlich auch durch seine unterhaltsamen und informativen "dotnet TV" Sendungen bekannt.\n\n\nSocial Links:\n- rss: http://blog.ralfw.de/
+DTEND:20100720T203000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20100720T183000Z
+SUMMARY:Clean Code Developer - Eine Initiative für mehr Softwarequalität
+UID:b0cde1bd-d52a-42e2-aec5-c9b03ee7381d@b0cd.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:PT15M
+END:VALARM
+DESCRIPTION:Multithreading ist aus kaum einer Anwendung wegzudenken: sei es um langlebige Operationen vom UI-Thread auszulagern\, oder um komplexe Berechnungen auf mehrere Threads zu verteilen. Dabei muss man sich vor allem um die korrekte Synchronisierung der Daten kümmern\, die von mehreren Threads angesprochen werden. Doch was genau macht ein Lock eigentlich und welche Auswirkungen hat es auf den Thread Pool?\n\nAll das und noch viel mehr wird in diesem Talk besprochen. Neben Synchronization Primitives und Synchronization Contexts sowie async / await in Verbindung mit der Task Parallel Library (TPL) gehen wir auch auf die Details des Thread Pools ein und insbesondere auf die Möglichkeiten\, Lock-freie Primitiven zur Synchronisation einzusetzen und die daraus resultierenden Algorithmen und Datenstrukturen anzuwenden.\n\nSpeaker: Kenny Pflug\n\nKenny Pflug studierte Informatik an der Ostbayerischen Technischen Hochschule Regensburg und ist aktuell Promovend und wissenschaftlicher Mitarbeiter am Universitätsklinikum Regensburg. Dort erforscht er User Interface Konzepte für mobile Medizinapplikationen. Er ist besonders interessiert an den Themengebieten User Experience und User Interface Design\, OOP und OOD\, Softwarearchitektur\, Clean Code sowie Automatisiertes Testen.\n\n\nSocial Links:\n- rss: http://www.feo2x.com/\n- twitter: https://twitter.com/feO2x\n- youtube: https://www.youtube.com/c/kennypflug/
+DTEND:20170130T200000Z
+LOCATION:<KEIN ORT ANGEGEBEN>
+ORGANIZER;CN=DotNet UserGroup Regensburg:mailto:info@dotnet-regensburg.de
+DTSTART:20170130T180000Z
+SUMMARY:.NET Threading im Detail
+UID:c37d5f9b-2bbd-4cbd-b098-6b215237d060@c37d.org
+URL:https://dotnetregensburg.github.io/archive/
+END:VEVENT
+END:VCALENDAR

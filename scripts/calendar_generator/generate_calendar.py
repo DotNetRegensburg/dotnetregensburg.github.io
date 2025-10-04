@@ -1,6 +1,7 @@
 import datetime
 import logging
 import os
+import sys
 import warnings
 from pathlib import Path
 
@@ -11,6 +12,9 @@ from ics import Calendar, DisplayAlarm, Event, Organizer
 from pydantic import ValidationError
 
 from event_schema import EventData
+
+# Global variable pointing to this script's directory
+SCRIPT_LOCATION = Path(__file__).parent
 
 # Suppress the FutureWarning from ics library
 # NOTE: The warning arises in the store method and can be ignored safely
@@ -31,10 +35,33 @@ class CalendarGenerator:
     self.logger.debug("Loading environment variables")
     load_dotenv()
 
-    self.posts_dir: Path = Path(os.getenv("POSTS_DIR", "../_posts"))
-    self.output_ics_file: Path = Path(
-      os.getenv("OUTPUT_ICS_FILE", "dotnet-regensburg.ics")
-    )
+    # Use GITHUB_WORKSPACE if available (GitHub Actions), otherwise fallback
+    github_workspace = os.getenv("GITHUB_WORKSPACE")
+    if github_workspace:
+      # In GitHub Actions: use workspace root + _posts
+      self.posts_dir = Path(github_workspace) / "_posts"
+      self.logger.debug(f"Using GitHub workspace: {github_workspace}")
+      self.logger.debug(f"Posts directory set to: {self.posts_dir}")
+    else:
+      # Local development: use relative path
+      self.posts_dir = Path(SCRIPT_LOCATION).joinpath("../../_posts")
+      self.logger.debug("Using relative path for local development")
+      self.logger.debug(f"Posts directory set to: {self.posts_dir}")
+
+    # Log additional debugging info
+    self.logger.debug(f"Posts directory exists: {self.posts_dir.exists()}")
+    self.logger.debug(f"Posts directory resolved: {self.posts_dir.resolve()}")
+
+    if self.posts_dir.exists():
+      md_files = list(self.posts_dir.glob("*.md"))
+      self.logger.debug(f"Found {len(md_files)} .md files in posts directory")
+    else:
+      self.logger.critical(
+        f"Posts directory does not exist: {self.posts_dir}. Aborting"
+      )
+      sys.exit(1)
+
+    self.output_ics_file: Path = Path(os.getenv("OUTPUT_ICS_FILE", "calendar.ics"))
     self.organizer = Organizer(
       common_name="DotNet UserGroup Regensburg", email="info@dotnet-regensburg.de"
     )
@@ -95,7 +122,32 @@ class CalendarGenerator:
     """
     calendar = Calendar(creator=self.organizer.common_name)
 
-    for filename in sorted(self.posts_dir.rglob("*.md")):
+    self.logger.debug(f"Looking for markdown files in: {self.posts_dir}")
+    self.logger.debug(f"Directory exists: {self.posts_dir.exists()}")
+    self.logger.debug(f"Is directory: {self.posts_dir.is_dir()}")
+
+    if not self.posts_dir.exists():
+      self.logger.error(f"Posts directory does not exist: {self.posts_dir}")
+      return calendar
+
+    # Get all markdown files
+    md_files = list(self.posts_dir.rglob("*.md"))
+
+    if len(md_files) == 0:
+      # Try different patterns to debug
+      all_files = list(self.posts_dir.rglob("*"))
+      self.logger.debug(f"Total files in directory: {len(all_files)}")
+      if len(all_files) > 0:
+        self.logger.debug(f"First 5 files: {[f.name for f in all_files[:5]]}")
+
+    if not md_files:
+      self.logger.warning(f"No markdown files found in directory {self.posts_dir}")
+    else:
+      self.logger.info(
+        f"Found {len(md_files)} markdown files in directory {self.posts_dir}"
+      )
+
+    for filename in sorted(md_files):
       try:
         event = self._create_calendar_event(filename)
       except (ValidationError, ValueError):
@@ -134,7 +186,7 @@ class CalendarGenerator:
     end_time = event_data.date.shift(hours=2)
 
     if (event_data.location is None) or (event_data.location.strip() == ""):
-      event_data.location = "<No Location Provided>"
+      event_data.location = "<KEIN ORT ANGEGEBEN>"
 
     event = Event(
       name=event_data.title,
