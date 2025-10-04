@@ -3,8 +3,13 @@ import os
 import sys
 from pathlib import Path
 
+import arrow
+import yaml
+from dateutil import tz
 from dotenv import load_dotenv
 from ics import Calendar, Event
+
+from event_schema import EventData
 
 
 class CalendarGenerator:
@@ -65,21 +70,51 @@ class CalendarGenerator:
     return calendar
 
   def _create_calendar_event(self, filename: Path) -> Event:
-    event = Event()
     with open(filename, encoding="utf-8") as file:
       file_content = file.read()
-      file_parts = file_content.split("---")
+      event_data = self._parse_event_data(file_content)
 
-      # TODO: Parse file to yaml, check if it's layout is 'talk', create event
-      if len(file_parts) <= 2:
-        self.logger.warning(f"File {filename} does not contain talk description.")
+    if event_data.date is None:
+      self.logger.error("Event date is missing or None")
+      sys.exit(1)
 
-      event.name = filename.stem
-      # Add more event details here as needed
+    begin_time = arrow.get(event_data.date)
+    end_time = begin_time.shift(hours=1, minutes=30)  # Default duration of 1.5 hours
+
+    event = Event(
+      name=event_data.title,
+      begin=begin_time,
+      end=end_time,
+      location=event_data.location,
+      description=event_data.description,
+    )
+
     return event
+
+  def _parse_event_data(self, file_content: str) -> EventData:
+    file_parts = [part for part in file_content.split("---") if part.strip()]
+
+    yaml_data = yaml.safe_load(file_parts[0]) if file_parts else {}
+    try:
+      event_data = EventData(**(yaml_data or {}))
+    except ValueError as e:
+      self.logger.error(f"Event validation failed: {e}")
+      sys.exit(1)
+
+    if len(file_parts) < 2 and event_data.layout == "talk":
+      self.logger.warning(f"Event {event_data.title} does not contain talk description")
+    else:
+      event_data.description = file_parts[1].strip() if len(file_parts) > 1 else ""
+
+    self.logger.debug("Parsed event data from file")
+
+    return event_data
 
 
 # Example usage
 if __name__ == "__main__":
   generator = CalendarGenerator()
-  calendar = generator.create_calendar()
+  generator._parse_event_data(
+    open(Path("../_posts/2025-11-20-avalonia.md"), encoding="utf-8").read()  # noqa: SIM115
+  )
+  # calendar = generator.create_calendar()
