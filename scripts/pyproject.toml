@@ -1,0 +1,47 @@
+[tool.ruff]
+# Set the maximum line length to 88 characters (default)
+line-length = 88
+
+# Set indentation size to 2 spaces
+indent-width = 2
+
+# Target Python 3.8+ (adjust based on your project requirements)
+target-version = "py38"
+
+[tool.ruff.lint]
+# Enable strict type checking rules
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+    "SIM",  # flake8-simplify
+    "I",    # isort
+    "ANN",  # flake8-annotations (strict typing)
+]
+
+# Ignore specific rules if needed
+ignore = [
+    "W505",  # Doc line too long
+]
+
+# Allow fix for all enabled rules (when `--fix`) is provided.
+fixable = ["ALL"]
+unfixable = []
+
+[tool.ruff.format]
+# Use 2 spaces for indentation in formatting
+indent-style = "space"
+quote-style = "double"
+line-ending = "lf"
+
+[tool.ruff.lint.flake8-annotations]
+# Require type annotations for function definitions
+mypy-init-return = true
+suppress-dummy-args = true
+suppress-none-returning = true
+
+[tool.ruff.lint.isort]
+# Sort imports
+known-first-party = []
