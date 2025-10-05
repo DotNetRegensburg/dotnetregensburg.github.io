@@ -65,7 +65,8 @@ class EventData(BaseModel):
     cls, v: str | datetime.datetime | arrow.Arrow | None
   ) -> arrow.Arrow | None:
     if isinstance(v, (str, datetime.datetime)):
-      return arrow.get(v)
+      arr = arrow.get(v, tzinfo="Europe/Berlin", normalize_whitespace=True)
+      return arr
     return v
 
   @field_validator("layout", "location", "title", "description", mode="before")
