@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2025-02-25 18:00:00
+date: 2026-02-25 18:00:00
 location: Syskron
 thumbnail: alex-seminjakiw.jpg
 title: "Relationale Datenbanken: Dinosaurier oder Dauerbrenner? "
