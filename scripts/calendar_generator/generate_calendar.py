@@ -17,7 +17,7 @@ from event_schema import EventData
 SCRIPT_LOCATION = Path(__file__).parent
 
 # Suppress the FutureWarning from ics library
-# NOTE: The warning is raised in the `store`` method and can be ignored safely
+# NOTE: The warning is raised in the `store` method and can be ignored safely
 warnings.filterwarnings(
   "ignore",
   message="Behaviour of str\\(Component\\) will change in version 0.9",
