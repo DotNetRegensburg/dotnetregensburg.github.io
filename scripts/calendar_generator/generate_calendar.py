@@ -17,7 +17,7 @@ from event_schema import EventData
 SCRIPT_LOCATION = Path(__file__).parent
 
 # Suppress the FutureWarning from ics library
-# NOTE: The warning arises in the store method and can be ignored safely
+# NOTE: The warning is raised in the `store`` method and can be ignored safely
 warnings.filterwarnings(
   "ignore",
   message="Behaviour of str\\(Component\\) will change in version 0.9",
@@ -28,23 +28,30 @@ warnings.filterwarnings(
 
 class CalendarGenerator:
   def __init__(self):
-    self.logger = self._get_logger_config(logging.INFO)
-
-    self.logger.debug("Initializing CalendarGenerator")
-
-    self.logger.debug("Loading environment variables")
     load_dotenv()
+    self.DEV_MODE = os.getenv("DEV_MODE", "false").lower() == "true"
+
+    log_level_str = os.getenv("LOG_LEVEL", "DEBUG").upper()
+    level_mapping = logging.getLevelNamesMapping()
+    log_level = level_mapping.get(log_level_str, logging.INFO)
+
+    self.logger = self._get_logger_config(log_level)
+    self.logger.debug("Initializing CalendarGenerator")
+    self.logger.debug("Loading environment variables")
 
     # Use GITHUB_WORKSPACE if available (GitHub Actions), otherwise fallback
     github_workspace = os.getenv("GITHUB_WORKSPACE")
+    posts_dir_name = os.getenv("POSTS_DIR_NAME", "_posts")
     if github_workspace:
       # In GitHub Actions: use workspace root + _posts
-      self.posts_dir = Path(github_workspace) / "_posts"
+      self.posts_dir = Path(github_workspace) / posts_dir_name
       self.logger.debug(f"Using GitHub workspace: {github_workspace}")
       self.logger.debug(f"Posts directory set to: {self.posts_dir}")
     else:
       # Local development: use relative path
-      self.posts_dir = Path(SCRIPT_LOCATION).joinpath("../../_posts")
+      if not self.DEV_MODE:
+        self.logger.warning("DEV_MODE is not enabled.")
+      self.posts_dir = Path(SCRIPT_LOCATION).joinpath(f"../../{posts_dir_name}")
       self.logger.debug("Using relative path for local development")
       self.logger.debug(f"Posts directory set to: {self.posts_dir}")
 
@@ -52,9 +59,12 @@ class CalendarGenerator:
     self.logger.debug(f"Posts directory exists: {self.posts_dir.exists()}")
     self.logger.debug(f"Posts directory resolved: {self.posts_dir.resolve()}")
 
+    self.md_files_extension = os.getenv("POSTS_FILE_EXTENSION", ".md")
     if self.posts_dir.exists():
-      md_files = list(self.posts_dir.glob("*.md"))
-      self.logger.debug(f"Found {len(md_files)} .md files in posts directory")
+      md_files = list(self.posts_dir.glob(f"*{self.md_files_extension}"))
+      self.logger.debug(
+        f"Found {len(md_files)} {self.md_files_extension} files in posts directory"
+      )
     else:
       self.logger.critical(
         f"Posts directory does not exist: {self.posts_dir}. Aborting"
@@ -62,11 +72,17 @@ class CalendarGenerator:
       sys.exit(1)
 
     self.output_ics_file: Path = Path(os.getenv("OUTPUT_ICS_FILE", "calendar.ics"))
-    self.organizer = Organizer(
-      common_name="DotNet UserGroup Regensburg", email="info@dotnet-regensburg.de"
+
+    dotnet_ug_name = os.getenv("DOTNET_UG_NAME", "DotNet UserGroup Regensburg")
+    dotnet_ug_email = os.getenv("DOTNET_UG_EMAIL", "info@dotnet-regensburg.de")
+    self.organizer = Organizer(common_name=dotnet_ug_name, email=dotnet_ug_email)
+    self.talks_url: str = os.getenv(
+      "DOTNET_UG_ARCHIVE", "https://dotnetregensburg.github.io/archive/"
     )
-    self.talks_url: str = "https://dotnetregensburg.github.io/archive/"
-    self.alarm: DisplayAlarm = DisplayAlarm(trigger=datetime.timedelta(minutes=15))
+    alarm_trigger_minutes = int(os.getenv("ALARM_TRIGGER_MINUTES", -15))
+    self.alarm: DisplayAlarm = DisplayAlarm(
+      trigger=datetime.timedelta(minutes=alarm_trigger_minutes)
+    )
 
     self.logger.debug("Finished loading environment variables successfully")
 
@@ -131,10 +147,10 @@ class CalendarGenerator:
       return calendar
 
     # Get all markdown files
-    md_files = list(self.posts_dir.rglob("*.md"))
+    md_files = list(self.posts_dir.rglob(f"*{self.md_files_extension}"))
 
+    # Print filenames for debugging if no *.md files found
     if len(md_files) == 0:
-      # Try different patterns to debug
       all_files = list(self.posts_dir.rglob("*"))
       self.logger.debug(f"Total files in directory: {len(all_files)}")
       if len(all_files) > 0:
