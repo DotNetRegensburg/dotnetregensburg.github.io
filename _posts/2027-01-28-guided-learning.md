@@ -3,16 +3,16 @@ layout: talk
 date: 2027-01-28 18:00:00
 location: Syskron
 thumbnail: kennyp.jpg
-title: "Guided Learning: From Junior Developer to Senior in the Age of AI"
+title: "Guided Learning: Vom Junior Developer zum Senior im Zeitalter der KI"
 speaker:
   name: "Kenny Pflug"
-  description: "Kenny Pflug ist Senior Software Engineer bei der TELIS/GWVS und studierte Informatik an der OTH Regensburg. Seine Interessen liegen in den Gebieten Cloud Native .NET Backends mit integrierten AI-Schnittstellen, Software Development mit AI Coding Tools, .NET Internals und Performanceoptimierung. In seiner Freizeit betreut er einige Open Source Projekte wie Light.GuardClauses, ansonsten wandert er mit seiner Frau gerne durch bayerische und deutsche Wälder."
+  description: "Kenny Pflug ist Engineering Manager bei der TELIS/GWVS und studierte Informatik an der OTH Regensburg. Seit April 2023 beschäftigt er sich mit KI, sowohl im Kontext Coding Agents als auch bei der Integration in bestehende Cloud-Native .NET Backends. In seiner Freizeit wandert er mit seiner Frau gerne durch bayerische und deutsche Wälder."
   social:
     - title: extern
       url: https://kenny-codes.net/events/2027-01-28-dotnet-regensburg-guided-learning
     - title: linkedin
-      url: https://www.linkedin.com/in/hedwig-werner-158787196/  
+      url: https://www.linkedin.com/in/kenny-pflug-7a1012123/
+    - title: twitter
+      url: https://x.com/feO2x  
 ---
-AI coding agents are reshaping the software development industry. Well-trained software engineers can greatly increase their productivity, while students and career starters ask how they can compete with AI at all. What concrete steps can we take to respond to this development?
-
-In this talk, I present Guided Learning, a variant of my approach Guided Coding, which aims to build targeted knowledge in junior and mid-level developers with the help of coding agents. The talk also covers skills and qualities that will be important in software development in the future, as well as training topics that will shape our everyday work.
+AI Coding Agents wirbeln die Softwareentwicklungsbranche auf: Während gut ausgebildete Software-Ingenieure ihre Produktivität massiv steigern können, stellen sich Studenten und Berufsanfänger die Frage, wie sie mit KI überhaupt konkurrieren können. Doch mit welchen konkreten Schritten können wir dieser Entwicklung begegnen? In diesem Talk stelle ich dazu Guided Learning vor, eine Abwandlung meines Ansatzes Guided Coding, die auf den gezielten Wissensaufbau von Juniors und Mids ausgerichtet ist – unter Zuhilfenahme von Coding Agents. Außerdem gehen wir in diesem Talk auf Fähigkeiten und Eigenschaften ein, die in der Softwareentwicklung künftig wichtig werden, sowie auf Ausbildungsthemen, die unseren Alltag bestimmen werden.
