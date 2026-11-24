@@ -8,7 +8,7 @@ speaker:
   name: "Kenny Pflug"
   description: "Kenny Pflug ist Engineering Manager bei der TELIS/GWVS und studierte Informatik an der OTH Regensburg. Seit April 2023 beschäftigt er sich mit KI, sowohl im Kontext Coding Agents als auch bei der Integration in bestehende Cloud-Native .NET Backends. In seiner Freizeit wandert er mit seiner Frau gerne durch bayerische und deutsche Wälder."
   social:
-    - title: extern
+    - title: rss
       url: https://kenny-codes.net/events/2027-01-28-dotnet-regensburg-guided-learning
     - title: linkedin
       url: https://www.linkedin.com/in/kenny-pflug-7a1012123/
